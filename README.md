@@ -4,7 +4,7 @@
 
 Our recommended setup requires three resources:
 
-1. A [Virtualization Software](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html.html) (VMware Workstation Player 17)
+1. A [Virtualization Software](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) (VMware Workstation Player 17)
 2. A [Geant4 Virtual Machine](https://extra.lp2ib.in2p3.fr/G4/download/)
 3. The [GEANT-4 application](https://github.com/spearhead-he/G4VM/) source code (found here)
 
