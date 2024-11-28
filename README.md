@@ -1,13 +1,12 @@
 # G4VM
 
-
 ## Recommended Setup
 
 Our recommended setup requires three resources:
 
 1. A [Virtualization Software](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html.html) (VMware Workstation Player 17)
 2. A [Geant4 Virtual Machine](https://extra.lp2ib.in2p3.fr/G4/download/)
-3. The [GEANT-4 application](https://cau-git.rz.uni-kiel.de/ieap/et/hap/spearhead) source code
+3. The [GEANT-4 application](https://github.com/spearhead-he/G4VM/) source code (found here)
 
 ---
 
@@ -54,26 +53,26 @@ Follow these steps to get the GEANT-4 application running:
 
 2. Clone the repository containing the GEANT-4 applications using:
    ```csh
-   git clone https://cau-git.rz.uni-kiel.de/ieap/et/hap/spearhead.git
+   git clone https://github.com/spearhead-he/G4VM.git
 
-3. Navigate to the build directory of the desired GEANT-4 application, e.g.:
+3. Navigate to the build directory of the GEANT-4 application:
    ```csh
-   cd /spearhead/WP2/basic_sensi_build/
+   cd cd G4VM/G4VM_build/
 
 #### Intel-Based Host System
 
 Run the GEANT-4 application in QT/UI mode using:
     ```csh
 
-    ./basic-sensi-gdml
+    ./Spearhead_G4VM
 
 And to run the GEANT-4 application with a macro file use:
     '''csh
     
-    ./basic-sensi-gdml <path_to_macro>
+    ./Spearhead_G4VM <path_to_macro>
 
 #### ARM-Based Host System
-On ARM systems, first compile the binarys by running:    
+On ARM systems the same, but first compile the binarys by running:    
     '''csh
 
     make
@@ -81,7 +80,7 @@ On ARM systems, first compile the binarys by running:
 A successful compilation will output:
     '''csh
 
-    [100%] Built target basic-sensi-gdml
+    [100%] Built target Spearhead_G4VM
     
 
 
