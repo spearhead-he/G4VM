@@ -1,0 +1,3116 @@
+<material name='density0.0to0.0' formula='Al' Z='13'>
+	<D value='21.875707499999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-177.5' formula='Al' Z='13'>
+	<D value='20.1303495'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-177.5' formula='Al' Z='13'>
+	<D value='18.7513104'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-177.5' formula='Al' Z='13'>
+	<D value='17.6446182'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-177.5' formula='Al' Z='13'>
+	<D value='16.7397366'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-177.5' formula='Al' Z='13'>
+	<D value='15.973349099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-177.5' formula='Al' Z='13'>
+	<D value='15.265464900000001'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-177.5' formula='Al' Z='13'>
+	<D value='14.4432672'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-177.5' formula='Al' Z='13'>
+	<D value='12.740597699999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-172.5' formula='Al' Z='13'>
+	<D value='20.1496596'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-172.5' formula='Al' Z='13'>
+	<D value='18.7853466'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-172.5' formula='Al' Z='13'>
+	<D value='17.690859299999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-172.5' formula='Al' Z='13'>
+	<D value='16.796979299999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-172.5' formula='Al' Z='13'>
+	<D value='16.042280999999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-172.5' formula='Al' Z='13'>
+	<D value='15.349925099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-172.5' formula='Al' Z='13'>
+	<D value='14.559070499999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-172.5' formula='Al' Z='13'>
+	<D value='12.993462599999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-167.5' formula='Al' Z='13'>
+	<D value='20.181747599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-167.5' formula='Al' Z='13'>
+	<D value='18.8420736'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-167.5' formula='Al' Z='13'>
+	<D value='17.767870499999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-167.5' formula='Al' Z='13'>
+	<D value='16.8924984'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-167.5' formula='Al' Z='13'>
+	<D value='16.1571675'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-167.5' formula='Al' Z='13'>
+	<D value='15.490252799999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-167.5' formula='Al' Z='13'>
+	<D value='14.7483324'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-167.5' formula='Al' Z='13'>
+	<D value='13.376856900000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-162.5' formula='Al' Z='13'>
+	<D value='20.2264989'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-162.5' formula='Al' Z='13'>
+	<D value='18.921376799999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-162.5' formula='Al' Z='13'>
+	<D value='17.875766399999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-162.5' formula='Al' Z='13'>
+	<D value='17.0264658'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-162.5' formula='Al' Z='13'>
+	<D value='16.3181805'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-162.5' formula='Al' Z='13'>
+	<D value='15.685875'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-162.5' formula='Al' Z='13'>
+	<D value='15.006698099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-162.5' formula='Al' Z='13'>
+	<D value='13.8529053'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-157.5' formula='Al' Z='13'>
+	<D value='20.2837416'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-157.5' formula='Al' Z='13'>
+	<D value='19.0230843'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-157.5' formula='Al' Z='13'>
+	<D value='18.0146616'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-157.5' formula='Al' Z='13'>
+	<D value='17.199167999999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-157.5' formula='Al' Z='13'>
+	<D value='16.525663799999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-157.5' formula='Al' Z='13'>
+	<D value='15.9364479'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-157.5' formula='Al' Z='13'>
+	<D value='15.3298128'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-157.5' formula='Al' Z='13'>
+	<D value='14.391926399999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-157.5' formula='Al' Z='13'>
+	<D value='10.6536171'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-152.5' formula='Al' Z='13'>
+	<D value='20.3531892'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-152.5' formula='Al' Z='13'>
+	<D value='19.1471388'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-152.5' formula='Al' Z='13'>
+	<D value='18.184613399999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-152.5' formula='Al' Z='13'>
+	<D value='17.4110061'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-152.5' formula='Al' Z='13'>
+	<D value='16.780133099999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-152.5' formula='Al' Z='13'>
+	<D value='16.2418569'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-152.5' formula='Al' Z='13'>
+	<D value='15.714754199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-152.5' formula='Al' Z='13'>
+	<D value='14.976902099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-152.5' formula='Al' Z='13'>
+	<D value='12.773086799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-147.5' formula='Al' Z='13'>
+	<D value='20.4345552'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-147.5' formula='Al' Z='13'>
+	<D value='19.2933111'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-147.5' formula='Al' Z='13'>
+	<D value='18.385679099999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-147.5' formula='Al' Z='13'>
+	<D value='17.6624385'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-147.5' formula='Al' Z='13'>
+	<D value='17.0823333'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-147.5' formula='Al' Z='13'>
+	<D value='16.6028469'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-147.5' formula='Al' Z='13'>
+	<D value='16.1603763'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-147.5' formula='Al' Z='13'>
+	<D value='15.602618099999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-147.5' formula='Al' Z='13'>
+	<D value='12.7856928'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-142.5' formula='Al' Z='13'>
+	<D value='20.5274958'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-142.5' formula='Al' Z='13'>
+	<D value='19.4612574'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-142.5' formula='Al' Z='13'>
+	<D value='18.6180879'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-142.5' formula='Al' Z='13'>
+	<D value='17.9540955'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-142.5' formula='Al' Z='13'>
+	<D value='17.433353099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-142.5' formula='Al' Z='13'>
+	<D value='17.020678499999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-142.5' formula='Al' Z='13'>
+	<D value='16.3837317'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-142.5' formula='Al' Z='13'>
+	<D value='14.112818099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-142.5' formula='Al' Z='13'>
+	<D value='11.7714828'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-142.5' formula='Al' Z='13'>
+	<D value='6.0922506'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-137.5' formula='Al' Z='13'>
+	<D value='20.6314953'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-137.5' formula='Al' Z='13'>
+	<D value='19.6506912'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-137.5' formula='Al' Z='13'>
+	<D value='18.8818398'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-137.5' formula='Al' Z='13'>
+	<D value='18.286722'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-137.5' formula='Al' Z='13'>
+	<D value='17.8347969'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-137.5' formula='Al' Z='13'>
+	<D value='17.393758799999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-137.5' formula='Al' Z='13'>
+	<D value='14.884018799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-137.5' formula='Al' Z='13'>
+	<D value='12.8726169'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-137.5' formula='Al' Z='13'>
+	<D value='10.9596564'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-137.5' formula='Al' Z='13'>
+	<D value='8.0060133'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-132.5' formula='Al' Z='13'>
+	<D value='20.7460953'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-132.5' formula='Al' Z='13'>
+	<D value='19.8612114'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-132.5' formula='Al' Z='13'>
+	<D value='19.1771067'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-132.5' formula='Al' Z='13'>
+	<D value='18.6612348'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-132.5' formula='Al' Z='13'>
+	<D value='18.2884983'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-132.5' formula='Al' Z='13'>
+	<D value='16.0419372'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-132.5' formula='Al' Z='13'>
+	<D value='13.743576899999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-132.5' formula='Al' Z='13'>
+	<D value='11.932381199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-132.5' formula='Al' Z='13'>
+	<D value='10.3098171'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-132.5' formula='Al' Z='13'>
+	<D value='8.353136699999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-127.5' formula='Al' Z='13'>
+	<D value='20.8707228'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-127.5' formula='Al' Z='13'>
+	<D value='20.0923023'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-127.5' formula='Al' Z='13'>
+	<D value='19.503774'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-127.5' formula='Al' Z='13'>
+	<D value='19.0785507'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-127.5' formula='Al' Z='13'>
+	<D value='17.952777599999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-127.5' formula='Al' Z='13'>
+	<D value='14.998274999999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-127.5' formula='Al' Z='13'>
+	<D value='12.866485799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-127.5' formula='Al' Z='13'>
+	<D value='11.2106877'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-127.5' formula='Al' Z='13'>
+	<D value='9.7913094'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-127.5' formula='Al' Z='13'>
+	<D value='8.3174388'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-127.5' formula='Al' Z='13'>
+	<D value='5.8193307'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-122.5' formula='Al' Z='13'>
+	<D value='21.0047475'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-122.5' formula='Al' Z='13'>
+	<D value='20.3433336'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-122.5' formula='Al' Z='13'>
+	<D value='19.8619563'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-122.5' formula='Al' Z='13'>
+	<D value='19.5397584'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-122.5' formula='Al' Z='13'>
+	<D value='16.975583399999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-122.5' formula='Al' Z='13'>
+	<D value='14.190230399999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-122.5' formula='Al' Z='13'>
+	<D value='12.190002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-122.5' formula='Al' Z='13'>
+	<D value='10.654934999999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-122.5' formula='Al' Z='13'>
+	<D value='9.3812133'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-122.5' formula='Al' Z='13'>
+	<D value='8.1782571'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-122.5' formula='Al' Z='13'>
+	<D value='6.6779139'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-122.5' formula='Al' Z='13'>
+	<D value='2.75806674'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-117.5' formula='Al' Z='13'>
+	<D value='21.1474245'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-117.5' formula='Al' Z='13'>
+	<D value='20.6135604'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-117.5' formula='Al' Z='13'>
+	<D value='20.251424399999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-117.5' formula='Al' Z='13'>
+	<D value='20.0458893'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-117.5' formula='Al' Z='13'>
+	<D value='16.221343499999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-117.5' formula='Al' Z='13'>
+	<D value='13.5687546'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-117.5' formula='Al' Z='13'>
+	<D value='11.6718954'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-117.5' formula='Al' Z='13'>
+	<D value='10.2304566'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-117.5' formula='Al' Z='13'>
+	<D value='9.062682599999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-117.5' formula='Al' Z='13'>
+	<D value='8.0261256'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-117.5' formula='Al' Z='13'>
+	<D value='6.936050399999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-117.5' formula='Al' Z='13'>
+	<D value='5.2777024500000005'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-112.5' formula='Al' Z='13'>
+	<D value='21.2978943'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-112.5' formula='Al' Z='13'>
+	<D value='20.9020086'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-112.5' formula='Al' Z='13'>
+	<D value='20.671777199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-112.5' formula='Al' Z='13'>
+	<D value='19.4958666'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-112.5' formula='Al' Z='13'>
+	<D value='15.649947899999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-112.5' formula='Al' Z='13'>
+	<D value='13.100040599999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-112.5' formula='Al' Z='13'>
+	<D value='11.2832868'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-112.5' formula='Al' Z='13'>
+	<D value='9.913587599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-112.5' formula='Al' Z='13'>
+	<D value='8.823455099999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-112.5' formula='Al' Z='13'>
+	<D value='7.895137799999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-112.5' formula='Al' Z='13'>
+	<D value='7.0133481'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-112.5' formula='Al' Z='13'>
+	<D value='5.9799999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to-112.5' formula='Al' Z='13'>
+	<D value='4.08704283'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-107.5' formula='Al' Z='13'>
+	<D value='21.455354699999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-107.5' formula='Al' Z='13'>
+	<D value='21.2075895'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-107.5' formula='Al' Z='13'>
+	<D value='21.1226136'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-107.5' formula='Al' Z='13'>
+	<D value='18.9693369'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-107.5' formula='Al' Z='13'>
+	<D value='15.2336061'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-107.5' formula='Al' Z='13'>
+	<D value='12.760652699999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-107.5' formula='Al' Z='13'>
+	<D value='11.0042931'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-107.5' formula='Al' Z='13'>
+	<D value='9.6884559'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-107.5' formula='Al' Z='13'>
+	<D value='8.654878499999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-107.5' formula='Al' Z='13'>
+	<D value='7.7992749'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-107.5' formula='Al' Z='13'>
+	<D value='7.036497299999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-107.5' formula='Al' Z='13'>
+	<D value='6.2636922'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to-107.5' formula='Al' Z='13'>
+	<D value='5.2651824'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to-107.5' formula='Al' Z='13'>
+	<D value='3.1391804999999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-102.5' formula='Al' Z='13'>
+	<D value='21.6187743'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-102.5' formula='Al' Z='13'>
+	<D value='21.5290425'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-102.5' formula='Al' Z='13'>
+	<D value='21.6029595'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-102.5' formula='Al' Z='13'>
+	<D value='18.6120141'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-102.5' formula='Al' Z='13'>
+	<D value='14.953237199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-102.5' formula='Al' Z='13'>
+	<D value='12.534718799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-102.5' formula='Al' Z='13'>
+	<D value='10.821506099999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-102.5' formula='Al' Z='13'>
+	<D value='9.544461'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-102.5' formula='Al' Z='13'>
+	<D value='8.551108199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-102.5' formula='Al' Z='13'>
+	<D value='7.7448399'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-102.5' formula='Al' Z='13'>
+	<D value='7.0547187'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-102.5' formula='Al' Z='13'>
+	<D value='6.413646299999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to-102.5' formula='Al' Z='13'>
+	<D value='5.72578272'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to-102.5' formula='Al' Z='13'>
+	<D value='4.76286768'/>
+	<atom value='26.98'/>
+</material>
+<material name='density72.5to-102.5' formula='Al' Z='13'>
+	<D value='2.4820067999999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-97.5' formula='Al' Z='13'>
+	<D value='21.787121699999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-97.5' formula='Al' Z='13'>
+	<D value='21.8648205'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-97.5' formula='Al' Z='13'>
+	<D value='22.111783499999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-97.5' formula='Al' Z='13'>
+	<D value='18.4085418'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-97.5' formula='Al' Z='13'>
+	<D value='14.796579'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-97.5' formula='Al' Z='13'>
+	<D value='12.411924899999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-97.5' formula='Al' Z='13'>
+	<D value='10.7264454'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-97.5' formula='Al' Z='13'>
+	<D value='9.4750707'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-97.5' formula='Al' Z='13'>
+	<D value='8.508763499999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-97.5' formula='Al' Z='13'>
+	<D value='7.7352135'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-97.5' formula='Al' Z='13'>
+	<D value='7.090875'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-97.5' formula='Al' Z='13'>
+	<D value='6.5237196'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to-97.5' formula='Al' Z='13'>
+	<D value='5.9776506'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to-97.5' formula='Al' Z='13'>
+	<D value='5.362242869999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density72.5to-97.5' formula='Al' Z='13'>
+	<D value='4.44503604'/>
+	<atom value='26.98'/>
+</material>
+<material name='density77.5to-97.5' formula='Al' Z='13'>
+	<D value='2.1181632599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-92.5' formula='Al' Z='13'>
+	<D value='21.959250899999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-92.5' formula='Al' Z='13'>
+	<D value='22.213147199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-92.5' formula='Al' Z='13'>
+	<D value='22.647366599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-92.5' formula='Al' Z='13'>
+	<D value='18.350439599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-92.5' formula='Al' Z='13'>
+	<D value='14.7567555'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-92.5' formula='Al' Z='13'>
+	<D value='12.3866556'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-92.5' formula='Al' Z='13'>
+	<D value='10.714527'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-92.5' formula='Al' Z='13'>
+	<D value='9.4769616'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-92.5' formula='Al' Z='13'>
+	<D value='8.5265265'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-92.5' formula='Al' Z='13'>
+	<D value='7.773260699999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-92.5' formula='Al' Z='13'>
+	<D value='7.157228399999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-92.5' formula='Al' Z='13'>
+	<D value='6.6335064'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to-92.5' formula='Al' Z='13'>
+	<D value='6.161927400000001'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to-92.5' formula='Al' Z='13'>
+	<D value='5.69374056'/>
+	<atom value='26.98'/>
+</material>
+<material name='density72.5to-92.5' formula='Al' Z='13'>
+	<D value='5.14316778'/>
+	<atom value='26.98'/>
+</material>
+<material name='density77.5to-92.5' formula='Al' Z='13'>
+	<D value='4.27965678'/>
+	<atom value='26.98'/>
+</material>
+<material name='density82.5to-92.5' formula='Al' Z='13'>
+	<D value='1.98525018'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-87.5' formula='Al' Z='13'>
+	<D value='22.131609299999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-87.5' formula='Al' Z='13'>
+	<D value='22.563594000000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-87.5' formula='Al' Z='13'>
+	<D value='23.192747999999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-87.5' formula='Al' Z='13'>
+	<D value='18.4125528'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-87.5' formula='Al' Z='13'>
+	<D value='14.8007046'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-87.5' formula='Al' Z='13'>
+	<D value='12.416337'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-87.5' formula='Al' Z='13'>
+	<D value='10.731143999999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-87.5' formula='Al' Z='13'>
+	<D value='9.4801704'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-87.5' formula='Al' Z='13'>
+	<D value='8.514321599999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-87.5' formula='Al' Z='13'>
+	<D value='7.741516499999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-87.5' formula='Al' Z='13'>
+	<D value='7.098037499999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-87.5' formula='Al' Z='13'>
+	<D value='6.5322000000000005'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to-87.5' formula='Al' Z='13'>
+	<D value='5.9881937999999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to-87.5' formula='Al' Z='13'>
+	<D value='5.37609801'/>
+	<atom value='26.98'/>
+</material>
+<material name='density72.5to-87.5' formula='Al' Z='13'>
+	<D value='4.4656812299999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density77.5to-87.5' formula='Al' Z='13'>
+	<D value='2.15921298'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-82.5' formula='Al' Z='13'>
+	<D value='22.301675699999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-82.5' formula='Al' Z='13'>
+	<D value='22.918567499999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-82.5' formula='Al' Z='13'>
+	<D value='23.756465399999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-82.5' formula='Al' Z='13'>
+	<D value='18.6160824'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-82.5' formula='Al' Z='13'>
+	<D value='14.9575347'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-82.5' formula='Al' Z='13'>
+	<D value='12.5393028'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-82.5' formula='Al' Z='13'>
+	<D value='10.8265485'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-82.5' formula='Al' Z='13'>
+	<D value='9.5499618'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-82.5' formula='Al' Z='13'>
+	<D value='8.5572393'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-82.5' formula='Al' Z='13'>
+	<D value='7.751887799999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-82.5' formula='Al' Z='13'>
+	<D value='7.0630845'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-82.5' formula='Al' Z='13'>
+	<D value='6.423960299999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to-82.5' formula='Al' Z='13'>
+	<D value='5.7393972'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to-82.5' formula='Al' Z='13'>
+	<D value='4.783025820000001'/>
+	<atom value='26.98'/>
+</material>
+<material name='density72.5to-82.5' formula='Al' Z='13'>
+	<D value='2.52158391'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-77.5' formula='Al' Z='13'>
+	<D value='22.471742099999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-77.5' formula='Al' Z='13'>
+	<D value='23.2792137'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-77.5' formula='Al' Z='13'>
+	<D value='24.339034499999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-77.5' formula='Al' Z='13'>
+	<D value='18.9735771'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-77.5' formula='Al' Z='13'>
+	<D value='15.238132799999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-77.5' formula='Al' Z='13'>
+	<D value='12.7655232'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-77.5' formula='Al' Z='13'>
+	<D value='11.0096793'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-77.5' formula='Al' Z='13'>
+	<D value='9.6944724'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-77.5' formula='Al' Z='13'>
+	<D value='8.6617545'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-77.5' formula='Al' Z='13'>
+	<D value='7.807354199999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-77.5' formula='Al' Z='13'>
+	<D value='7.0464675'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-77.5' formula='Al' Z='13'>
+	<D value='6.276756600000001'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to-77.5' formula='Al' Z='13'>
+	<D value='5.28435498'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to-77.5' formula='Al' Z='13'>
+	<D value='3.1756634099999994'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-72.5' formula='Al' Z='13'>
+	<D value='22.6403187'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-72.5' formula='Al' Z='13'>
+	<D value='23.6426676'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-72.5' formula='Al' Z='13'>
+	<D value='24.936386999999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-72.5' formula='Al' Z='13'>
+	<D value='19.5002787'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-72.5' formula='Al' Z='13'>
+	<D value='15.654703799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-72.5' formula='Al' Z='13'>
+	<D value='13.1051976'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-72.5' formula='Al' Z='13'>
+	<D value='11.289074099999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-72.5' formula='Al' Z='13'>
+	<D value='9.9201771'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-72.5' formula='Al' Z='13'>
+	<D value='8.8311906'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-72.5' formula='Al' Z='13'>
+	<D value='7.9045923'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-72.5' formula='Al' Z='13'>
+	<D value='7.0256675999999985'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-72.5' formula='Al' Z='13'>
+	<D value='5.9977056'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to-72.5' formula='Al' Z='13'>
+	<D value='4.1190506099999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-67.5' formula='Al' Z='13'>
+	<D value='22.806087599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-67.5' formula='Al' Z='13'>
+	<D value='24.005720399999994'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-67.5' formula='Al' Z='13'>
+	<D value='25.5437097'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-67.5' formula='Al' Z='13'>
+	<D value='20.2195656'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-67.5' formula='Al' Z='13'>
+	<D value='16.2263286'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-67.5' formula='Al' Z='13'>
+	<D value='13.574312699999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-67.5' formula='Al' Z='13'>
+	<D value='11.6781411'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-67.5' formula='Al' Z='13'>
+	<D value='10.2377337'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-67.5' formula='Al' Z='13'>
+	<D value='9.0715068'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-67.5' formula='Al' Z='13'>
+	<D value='8.0374137'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-67.5' formula='Al' Z='13'>
+	<D value='6.951922499999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-67.5' formula='Al' Z='13'>
+	<D value='5.3046048'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-62.5' formula='Al' Z='13'>
+	<D value='22.967559'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-62.5' formula='Al' Z='13'>
+	<D value='24.3649341'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-62.5' formula='Al' Z='13'>
+	<D value='26.1552726'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-62.5' formula='Al' Z='13'>
+	<D value='21.1659324'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-62.5' formula='Al' Z='13'>
+	<D value='16.980797699999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-62.5' formula='Al' Z='13'>
+	<D value='14.196074999999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-62.5' formula='Al' Z='13'>
+	<D value='12.196763399999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-62.5' formula='Al' Z='13'>
+	<D value='10.663071599999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-62.5' formula='Al' Z='13'>
+	<D value='9.3914127'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-62.5' formula='Al' Z='13'>
+	<D value='8.1921237'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-62.5' formula='Al' Z='13'>
+	<D value='6.6998598000000005'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to-62.5' formula='Al' Z='13'>
+	<D value='2.8118828999999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-57.5' formula='Al' Z='13'>
+	<D value='23.123243099999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-57.5' formula='Al' Z='13'>
+	<D value='24.7165842'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-57.5' formula='Al' Z='13'>
+	<D value='26.764543499999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-57.5' formula='Al' Z='13'>
+	<D value='22.3887717'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-57.5' formula='Al' Z='13'>
+	<D value='17.9582211'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-57.5' formula='Al' Z='13'>
+	<D value='15.0045207'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-57.5' formula='Al' Z='13'>
+	<D value='12.873820199999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-57.5' formula='Al' Z='13'>
+	<D value='11.219741099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-57.5' formula='Al' Z='13'>
+	<D value='9.8032851'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-57.5' formula='Al' Z='13'>
+	<D value='8.3351445'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to-57.5' formula='Al' Z='13'>
+	<D value='5.8541118'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-52.5' formula='Al' Z='13'>
+	<D value='23.2715928'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-52.5' formula='Al' Z='13'>
+	<D value='25.056774299999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-52.5' formula='Al' Z='13'>
+	<D value='27.364188000000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-52.5' formula='Al' Z='13'>
+	<D value='23.9598231'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-52.5' formula='Al' Z='13'>
+	<D value='19.216700999999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-52.5' formula='Al' Z='13'>
+	<D value='16.048583999999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-52.5' formula='Al' Z='13'>
+	<D value='13.7515416'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-52.5' formula='Al' Z='13'>
+	<D value='11.942580599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-52.5' formula='Al' Z='13'>
+	<D value='10.3240848'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-52.5' formula='Al' Z='13'>
+	<D value='8.3771454'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-47.5' formula='Al' Z='13'>
+	<D value='23.4111756'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-47.5' formula='Al' Z='13'>
+	<D value='25.381436099999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-47.5' formula='Al' Z='13'>
+	<D value='27.946012200000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-47.5' formula='Al' Z='13'>
+	<D value='25.9845759'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-47.5' formula='Al' Z='13'>
+	<D value='20.8417863'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-47.5' formula='Al' Z='13'>
+	<D value='17.400749400000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-47.5' formula='Al' Z='13'>
+	<D value='14.8927284'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-47.5' formula='Al' Z='13'>
+	<D value='12.8841915'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-47.5' formula='Al' Z='13'>
+	<D value='10.977018300000001'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-47.5' formula='Al' Z='13'>
+	<D value='8.0416539'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-42.5' formula='Al' Z='13'>
+	<D value='23.540559'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-42.5' formula='Al' Z='13'>
+	<D value='25.686386699999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-42.5' formula='Al' Z='13'>
+	<D value='28.5013065'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-42.5' formula='Al' Z='13'>
+	<D value='28.623412799999993'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-42.5' formula='Al' Z='13'>
+	<D value='22.9636053'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-42.5' formula='Al' Z='13'>
+	<D value='19.1712621'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-42.5' formula='Al' Z='13'>
+	<D value='16.393243499999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-42.5' formula='Al' Z='13'>
+	<D value='14.125997099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-42.5' formula='Al' Z='13'>
+	<D value='11.793256799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to-42.5' formula='Al' Z='13'>
+	<D value='6.1566558'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-37.5' formula='Al' Z='13'>
+	<D value='23.658367799999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-37.5' formula='Al' Z='13'>
+	<D value='25.967557799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-37.5' formula='Al' Z='13'>
+	<D value='29.020960199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-37.5' formula='Al' Z='13'>
+	<D value='28.2995532'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-37.5' formula='Al' Z='13'>
+	<D value='25.7877504'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-37.5' formula='Al' Z='13'>
+	<D value='21.534371399999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-37.5' formula='Al' Z='13'>
+	<D value='18.405275699999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-37.5' formula='Al' Z='13'>
+	<D value='15.7997874'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-37.5' formula='Al' Z='13'>
+	<D value='12.813884400000001'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-32.5' formula='Al' Z='13'>
+	<D value='23.7633414'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-32.5' formula='Al' Z='13'>
+	<D value='26.220823799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-32.5' formula='Al' Z='13'>
+	<D value='29.0872563'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-32.5' formula='Al' Z='13'>
+	<D value='27.910371599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-32.5' formula='Al' Z='13'>
+	<D value='26.9801634'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-32.5' formula='Al' Z='13'>
+	<D value='24.781676999999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-32.5' formula='Al' Z='13'>
+	<D value='21.183924599999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-32.5' formula='Al' Z='13'>
+	<D value='18.1300065'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-32.5' formula='Al' Z='13'>
+	<D value='14.0894397'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-27.5' formula='Al' Z='13'>
+	<D value='23.8543338'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-27.5' formula='Al' Z='13'>
+	<D value='26.442517499999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-27.5' formula='Al' Z='13'>
+	<D value='28.8227022'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-27.5' formula='Al' Z='13'>
+	<D value='27.5829594'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-27.5' formula='Al' Z='13'>
+	<D value='26.591382899999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-27.5' formula='Al' Z='13'>
+	<D value='25.776347699999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-27.5' formula='Al' Z='13'>
+	<D value='25.027608599999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-27.5' formula='Al' Z='13'>
+	<D value='21.5267505'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to-27.5' formula='Al' Z='13'>
+	<D value='15.6665076'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-22.5' formula='Al' Z='13'>
+	<D value='23.930256300000003'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-22.5' formula='Al' Z='13'>
+	<D value='26.6290863'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-22.5' formula='Al' Z='13'>
+	<D value='28.606681199999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-22.5' formula='Al' Z='13'>
+	<D value='27.3163998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-22.5' formula='Al' Z='13'>
+	<D value='26.275201499999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-22.5' formula='Al' Z='13'>
+	<D value='25.403381999999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-22.5' formula='Al' Z='13'>
+	<D value='24.568750199999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-22.5' formula='Al' Z='13'>
+	<D value='23.341212300000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-17.5' formula='Al' Z='13'>
+	<D value='23.990249399999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-17.5' formula='Al' Z='13'>
+	<D value='26.7775506'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-17.5' formula='Al' Z='13'>
+	<D value='28.4389641'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-17.5' formula='Al' Z='13'>
+	<D value='27.1098333'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-17.5' formula='Al' Z='13'>
+	<D value='26.030415899999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-17.5' formula='Al' Z='13'>
+	<D value='25.1136732'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-17.5' formula='Al' Z='13'>
+	<D value='24.2064996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-17.5' formula='Al' Z='13'>
+	<D value='22.7526267'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-12.5' formula='Al' Z='13'>
+	<D value='24.033568199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-12.5' formula='Al' Z='13'>
+	<D value='26.8854465'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-12.5' formula='Al' Z='13'>
+	<D value='28.319264399999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-12.5' formula='Al' Z='13'>
+	<D value='26.962744199999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-12.5' formula='Al' Z='13'>
+	<D value='25.856109299999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-12.5' formula='Al' Z='13'>
+	<D value='24.906762899999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-12.5' formula='Al' Z='13'>
+	<D value='23.943893699999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-12.5' formula='Al' Z='13'>
+	<D value='22.290387599999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-7.5' formula='Al' Z='13'>
+	<D value='24.0598116'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-7.5' formula='Al' Z='13'>
+	<D value='26.9508831'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-7.5' formula='Al' Z='13'>
+	<D value='28.2474675'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-7.5' formula='Al' Z='13'>
+	<D value='26.874616799999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-7.5' formula='Al' Z='13'>
+	<D value='25.751708699999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-7.5' formula='Al' Z='13'>
+	<D value='24.7825365'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-7.5' formula='Al' Z='13'>
+	<D value='23.784427799999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-7.5' formula='Al' Z='13'>
+	<D value='21.990880499999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to-2.5' formula='Al' Z='13'>
+	<D value='24.068578499999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to-2.5' formula='Al' Z='13'>
+	<D value='26.9728863'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to-2.5' formula='Al' Z='13'>
+	<D value='28.2235734'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to-2.5' formula='Al' Z='13'>
+	<D value='26.8452792'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to-2.5' formula='Al' Z='13'>
+	<D value='25.716927599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to-2.5' formula='Al' Z='13'>
+	<D value='24.741108599999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to-2.5' formula='Al' Z='13'>
+	<D value='23.7309096'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to-2.5' formula='Al' Z='13'>
+	<D value='21.886594499999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to2.5' formula='Al' Z='13'>
+	<D value='24.0598116'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to2.5' formula='Al' Z='13'>
+	<D value='26.9508831'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to2.5' formula='Al' Z='13'>
+	<D value='28.2474675'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to2.5' formula='Al' Z='13'>
+	<D value='26.874616799999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to2.5' formula='Al' Z='13'>
+	<D value='25.751708699999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to2.5' formula='Al' Z='13'>
+	<D value='24.7825365'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to2.5' formula='Al' Z='13'>
+	<D value='23.784427799999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to2.5' formula='Al' Z='13'>
+	<D value='21.990880499999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to7.5' formula='Al' Z='13'>
+	<D value='24.033568199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to7.5' formula='Al' Z='13'>
+	<D value='26.8854465'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to7.5' formula='Al' Z='13'>
+	<D value='28.319264399999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to7.5' formula='Al' Z='13'>
+	<D value='26.962744199999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to7.5' formula='Al' Z='13'>
+	<D value='25.856109299999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to7.5' formula='Al' Z='13'>
+	<D value='24.906762899999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to7.5' formula='Al' Z='13'>
+	<D value='23.943893699999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to7.5' formula='Al' Z='13'>
+	<D value='22.290387599999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to12.5' formula='Al' Z='13'>
+	<D value='23.990249399999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to12.5' formula='Al' Z='13'>
+	<D value='26.7775506'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to12.5' formula='Al' Z='13'>
+	<D value='28.4389641'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to12.5' formula='Al' Z='13'>
+	<D value='27.1098333'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to12.5' formula='Al' Z='13'>
+	<D value='26.030415899999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to12.5' formula='Al' Z='13'>
+	<D value='25.1136732'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to12.5' formula='Al' Z='13'>
+	<D value='24.2064996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to12.5' formula='Al' Z='13'>
+	<D value='22.7526267'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to17.5' formula='Al' Z='13'>
+	<D value='23.930256300000003'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to17.5' formula='Al' Z='13'>
+	<D value='26.6290863'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to17.5' formula='Al' Z='13'>
+	<D value='28.606681199999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to17.5' formula='Al' Z='13'>
+	<D value='27.3163998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to17.5' formula='Al' Z='13'>
+	<D value='26.275201499999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to17.5' formula='Al' Z='13'>
+	<D value='25.403381999999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to17.5' formula='Al' Z='13'>
+	<D value='24.568750199999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to17.5' formula='Al' Z='13'>
+	<D value='23.341212300000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to22.5' formula='Al' Z='13'>
+	<D value='23.8543338'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to22.5' formula='Al' Z='13'>
+	<D value='26.442517499999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to22.5' formula='Al' Z='13'>
+	<D value='28.8227022'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to22.5' formula='Al' Z='13'>
+	<D value='27.5829594'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to22.5' formula='Al' Z='13'>
+	<D value='26.591382899999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to22.5' formula='Al' Z='13'>
+	<D value='25.776347699999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to22.5' formula='Al' Z='13'>
+	<D value='25.027608599999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to22.5' formula='Al' Z='13'>
+	<D value='24.0282393'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to22.5' formula='Al' Z='13'>
+	<D value='20.3292951'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to27.5' formula='Al' Z='13'>
+	<D value='23.7633414'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to27.5' formula='Al' Z='13'>
+	<D value='26.220823799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to27.5' formula='Al' Z='13'>
+	<D value='29.0872563'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to27.5' formula='Al' Z='13'>
+	<D value='27.910371599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to27.5' formula='Al' Z='13'>
+	<D value='26.9801634'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to27.5' formula='Al' Z='13'>
+	<D value='26.233830899999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to27.5' formula='Al' Z='13'>
+	<D value='25.581756899999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to27.5' formula='Al' Z='13'>
+	<D value='24.7990389'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to27.5' formula='Al' Z='13'>
+	<D value='22.640146799999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to32.5' formula='Al' Z='13'>
+	<D value='23.658367799999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to32.5' formula='Al' Z='13'>
+	<D value='25.967557799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to32.5' formula='Al' Z='13'>
+	<D value='29.020960199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to32.5' formula='Al' Z='13'>
+	<D value='28.2995532'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to32.5' formula='Al' Z='13'>
+	<D value='27.4433766'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to32.5' formula='Al' Z='13'>
+	<D value='26.7777798'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to32.5' formula='Al' Z='13'>
+	<D value='26.232111899999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to32.5' formula='Al' Z='13'>
+	<D value='25.651147200000004'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to32.5' formula='Al' Z='13'>
+	<D value='24.381035399999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to37.5' formula='Al' Z='13'>
+	<D value='23.540559'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to37.5' formula='Al' Z='13'>
+	<D value='25.686386699999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to37.5' formula='Al' Z='13'>
+	<D value='28.5013065'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to37.5' formula='Al' Z='13'>
+	<D value='28.7517648'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to37.5' formula='Al' Z='13'>
+	<D value='27.9830853'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to37.5' formula='Al' Z='13'>
+	<D value='27.411345899999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to37.5' formula='Al' Z='13'>
+	<D value='26.982054299999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to37.5' formula='Al' Z='13'>
+	<D value='26.5910391'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to37.5' formula='Al' Z='13'>
+	<D value='25.8878535'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to37.5' formula='Al' Z='13'>
+	<D value='21.777380700000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to42.5' formula='Al' Z='13'>
+	<D value='23.4111756'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to42.5' formula='Al' Z='13'>
+	<D value='25.381436099999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to42.5' formula='Al' Z='13'>
+	<D value='27.946012200000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to42.5' formula='Al' Z='13'>
+	<D value='29.268381599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to42.5' formula='Al' Z='13'>
+	<D value='28.6022118'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to42.5' formula='Al' Z='13'>
+	<D value='28.138769399999994'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to42.5' formula='Al' Z='13'>
+	<D value='27.837600600000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to42.5' formula='Al' Z='13'>
+	<D value='27.6310341'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to42.5' formula='Al' Z='13'>
+	<D value='27.3300372'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to42.5' formula='Al' Z='13'>
+	<D value='23.4859521'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to47.5' formula='Al' Z='13'>
+	<D value='23.2715928'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to47.5' formula='Al' Z='13'>
+	<D value='25.056774299999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to47.5' formula='Al' Z='13'>
+	<D value='27.364188000000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to47.5' formula='Al' Z='13'>
+	<D value='29.8509507'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to47.5' formula='Al' Z='13'>
+	<D value='29.3039649'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to47.5' formula='Al' Z='13'>
+	<D value='28.9655511'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to47.5' formula='Al' Z='13'>
+	<D value='28.8072885'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to47.5' formula='Al' Z='13'>
+	<D value='28.7878065'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to47.5' formula='Al' Z='13'>
+	<D value='25.768440299999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to47.5' formula='Al' Z='13'>
+	<D value='22.633213499999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to52.5' formula='Al' Z='13'>
+	<D value='23.123243099999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to52.5' formula='Al' Z='13'>
+	<D value='24.7165842'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to52.5' formula='Al' Z='13'>
+	<D value='26.764543499999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to52.5' formula='Al' Z='13'>
+	<D value='29.4267015'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to52.5' formula='Al' Z='13'>
+	<D value='30.0922983'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to52.5' formula='Al' Z='13'>
+	<D value='29.898452399999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to52.5' formula='Al' Z='13'>
+	<D value='29.9020623'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to52.5' formula='Al' Z='13'>
+	<D value='27.107942400000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to52.5' formula='Al' Z='13'>
+	<D value='24.2463231'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to52.5' formula='Al' Z='13'>
+	<D value='21.6669636'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to52.5' formula='Al' Z='13'>
+	<D value='18.3215604'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to57.5' formula='Al' Z='13'>
+	<D value='22.967559'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to57.5' formula='Al' Z='13'>
+	<D value='24.3649341'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to57.5' formula='Al' Z='13'>
+	<D value='26.1552726'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to57.5' formula='Al' Z='13'>
+	<D value='28.4633739'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to57.5' formula='Al' Z='13'>
+	<D value='30.971624099999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to57.5' formula='Al' Z='13'>
+	<D value='30.9456099'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to57.5' formula='Al' Z='13'>
+	<D value='29.0384367'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to57.5' formula='Al' Z='13'>
+	<D value='25.691371799999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to57.5' formula='Al' Z='13'>
+	<D value='23.0527068'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to57.5' formula='Al' Z='13'>
+	<D value='20.802363899999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to57.5' formula='Al' Z='13'>
+	<D value='18.492543599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to57.5' formula='Al' Z='13'>
+	<D value='13.966301999999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to62.5' formula='Al' Z='13'>
+	<D value='22.806087599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to62.5' formula='Al' Z='13'>
+	<D value='24.005720399999994'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to62.5' formula='Al' Z='13'>
+	<D value='25.5437097'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to62.5' formula='Al' Z='13'>
+	<D value='27.515975700000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to62.5' formula='Al' Z='13'>
+	<D value='30.0662841'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to62.5' formula='Al' Z='13'>
+	<D value='32.0355705'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to62.5' formula='Al' Z='13'>
+	<D value='27.771304499999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to62.5' formula='Al' Z='13'>
+	<D value='24.5980305'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to62.5' formula='Al' Z='13'>
+	<D value='22.1255928'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to62.5' formula='Al' Z='13'>
+	<D value='20.0871453'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to62.5' formula='Al' Z='13'>
+	<D value='18.2204832'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to62.5' formula='Al' Z='13'>
+	<D value='15.963207'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to67.5' formula='Al' Z='13'>
+	<D value='22.6403187'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to67.5' formula='Al' Z='13'>
+	<D value='23.6426676'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to67.5' formula='Al' Z='13'>
+	<D value='24.936386999999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to67.5' formula='Al' Z='13'>
+	<D value='26.5940187'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to67.5' formula='Al' Z='13'>
+	<D value='28.721911499999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to67.5' formula='Al' Z='13'>
+	<D value='30.9105996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to67.5' formula='Al' Z='13'>
+	<D value='26.8104408'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to67.5' formula='Al' Z='13'>
+	<D value='23.770331999999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to67.5' formula='Al' Z='13'>
+	<D value='21.4214904'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to67.5' formula='Al' Z='13'>
+	<D value='19.5262356'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to67.5' formula='Al' Z='13'>
+	<D value='17.8938159'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to67.5' formula='Al' Z='13'>
+	<D value='16.2776694'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to67.5' formula='Al' Z='13'>
+	<D value='13.9420641'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to72.5' formula='Al' Z='13'>
+	<D value='22.471742099999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to72.5' formula='Al' Z='13'>
+	<D value='23.2792137'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to72.5' formula='Al' Z='13'>
+	<D value='24.339034499999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to72.5' formula='Al' Z='13'>
+	<D value='25.704951899999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to72.5' formula='Al' Z='13'>
+	<D value='27.454607399999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to72.5' formula='Al' Z='13'>
+	<D value='29.7024291'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to72.5' formula='Al' Z='13'>
+	<D value='26.1094899'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to72.5' formula='Al' Z='13'>
+	<D value='23.1684528'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to72.5' formula='Al' Z='13'>
+	<D value='20.9100879'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to72.5' formula='Al' Z='13'>
+	<D value='19.1133891'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to72.5' formula='Al' Z='13'>
+	<D value='17.6194635'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to72.5' formula='Al' Z='13'>
+	<D value='16.2774975'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to72.5' formula='Al' Z='13'>
+	<D value='14.840642699999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to72.5' formula='Al' Z='13'>
+	<D value='12.392442899999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to77.5' formula='Al' Z='13'>
+	<D value='22.301675699999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to77.5' formula='Al' Z='13'>
+	<D value='22.918567499999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to77.5' formula='Al' Z='13'>
+	<D value='23.756465399999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to77.5' formula='Al' Z='13'>
+	<D value='24.854333399999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to77.5' formula='Al' Z='13'>
+	<D value='26.268153599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to77.5' formula='Al' Z='13'>
+	<D value='28.0791201'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to77.5' formula='Al' Z='13'>
+	<D value='25.6368222'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to77.5' formula='Al' Z='13'>
+	<D value='22.765633799999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to77.5' formula='Al' Z='13'>
+	<D value='20.5708146'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to77.5' formula='Al' Z='13'>
+	<D value='18.8411568'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to77.5' formula='Al' Z='13'>
+	<D value='17.4334104'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to77.5' formula='Al' Z='13'>
+	<D value='16.232975399999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to77.5' formula='Al' Z='13'>
+	<D value='15.1124166'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to77.5' formula='Al' Z='13'>
+	<D value='13.823051999999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density72.5to77.5' formula='Al' Z='13'>
+	<D value='11.3161197'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to82.5' formula='Al' Z='13'>
+	<D value='22.131609299999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to82.5' formula='Al' Z='13'>
+	<D value='22.563594000000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to82.5' formula='Al' Z='13'>
+	<D value='23.192747999999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to82.5' formula='Al' Z='13'>
+	<D value='24.046288800000003'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to82.5' formula='Al' Z='13'>
+	<D value='25.1638107'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to82.5' formula='Al' Z='13'>
+	<D value='26.602670999999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to82.5' formula='Al' Z='13'>
+	<D value='25.372210799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to82.5' formula='Al' Z='13'>
+	<D value='22.5447423'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to82.5' formula='Al' Z='13'>
+	<D value='20.390548799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to82.5' formula='Al' Z='13'>
+	<D value='18.703980599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to82.5' formula='Al' Z='13'>
+	<D value='17.349809699999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to82.5' formula='Al' Z='13'>
+	<D value='16.229079000000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to82.5' formula='Al' Z='13'>
+	<D value='15.254062199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to82.5' formula='Al' Z='13'>
+	<D value='14.312795099999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density72.5to82.5' formula='Al' Z='13'>
+	<D value='13.1596899'/>
+	<atom value='26.98'/>
+</material>
+<material name='density77.5to82.5' formula='Al' Z='13'>
+	<D value='10.686507299999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to87.5' formula='Al' Z='13'>
+	<D value='21.959250899999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to87.5' formula='Al' Z='13'>
+	<D value='22.213147199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to87.5' formula='Al' Z='13'>
+	<D value='22.647366599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to87.5' formula='Al' Z='13'>
+	<D value='23.279614799999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to87.5' formula='Al' Z='13'>
+	<D value='24.1371666'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to87.5' formula='Al' Z='13'>
+	<D value='25.2599028'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to87.5' formula='Al' Z='13'>
+	<D value='25.299898199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to87.5' formula='Al' Z='13'>
+	<D value='22.4917971'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to87.5' formula='Al' Z='13'>
+	<D value='20.357543999999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to87.5' formula='Al' Z='13'>
+	<D value='18.694067699999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to87.5' formula='Al' Z='13'>
+	<D value='17.369979299999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to87.5' formula='Al' Z='13'>
+	<D value='16.2935415'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to87.5' formula='Al' Z='13'>
+	<D value='15.392556299999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to87.5' formula='Al' Z='13'>
+	<D value='14.596430099999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density72.5to87.5' formula='Al' Z='13'>
+	<D value='13.804085699999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density77.5to87.5' formula='Al' Z='13'>
+	<D value='12.774519299999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density82.5to87.5' formula='Al' Z='13'>
+	<D value='10.382989199999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to92.5' formula='Al' Z='13'>
+	<D value='21.787121699999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to92.5' formula='Al' Z='13'>
+	<D value='21.8648205'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to92.5' formula='Al' Z='13'>
+	<D value='22.111783499999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to92.5' formula='Al' Z='13'>
+	<D value='22.5375798'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to92.5' formula='Al' Z='13'>
+	<D value='23.159628599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to92.5' formula='Al' Z='13'>
+	<D value='24.0044598'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to92.5' formula='Al' Z='13'>
+	<D value='25.1112093'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to92.5' formula='Al' Z='13'>
+	<D value='22.5396426'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to92.5' formula='Al' Z='13'>
+	<D value='20.384933399999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to92.5' formula='Al' Z='13'>
+	<D value='18.6977349'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to92.5' formula='Al' Z='13'>
+	<D value='17.3426472'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to92.5' formula='Al' Z='13'>
+	<D value='16.2205986'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to92.5' formula='Al' Z='13'>
+	<D value='15.243576299999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to92.5' formula='Al' Z='13'>
+	<D value='14.298928499999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density72.5to92.5' formula='Al' Z='13'>
+	<D value='13.139061900000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density77.5to92.5' formula='Al' Z='13'>
+	<D value='10.6454805'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to97.5' formula='Al' Z='13'>
+	<D value='21.6187743'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to97.5' formula='Al' Z='13'>
+	<D value='21.5290425'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to97.5' formula='Al' Z='13'>
+	<D value='21.6029595'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to97.5' formula='Al' Z='13'>
+	<D value='21.8432757'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to97.5' formula='Al' Z='13'>
+	<D value='22.259216399999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to97.5' formula='Al' Z='13'>
+	<D value='22.8673413'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to97.5' formula='Al' Z='13'>
+	<D value='23.6931489'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to97.5' formula='Al' Z='13'>
+	<D value='22.760133'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to97.5' formula='Al' Z='13'>
+	<D value='20.5646262'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to97.5' formula='Al' Z='13'>
+	<D value='18.8340516'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to97.5' formula='Al' Z='13'>
+	<D value='17.4250446'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to97.5' formula='Al' Z='13'>
+	<D value='16.2226614'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to97.5' formula='Al' Z='13'>
+	<D value='15.0988365'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to97.5' formula='Al' Z='13'>
+	<D value='13.802882399999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density72.5to97.5' formula='Al' Z='13'>
+	<D value='11.2765254'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to102.5' formula='Al' Z='13'>
+	<D value='21.455354699999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to102.5' formula='Al' Z='13'>
+	<D value='21.2075895'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to102.5' formula='Al' Z='13'>
+	<D value='21.1226136'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to102.5' formula='Al' Z='13'>
+	<D value='21.1968744'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to102.5' formula='Al' Z='13'>
+	<D value='21.432778499999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to102.5' formula='Al' Z='13'>
+	<D value='21.838920899999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to102.5' formula='Al' Z='13'>
+	<D value='22.4303715'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to102.5' formula='Al' Z='13'>
+	<D value='23.1624363'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to102.5' formula='Al' Z='13'>
+	<D value='20.9032119'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to102.5' formula='Al' Z='13'>
+	<D value='19.1053098'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to102.5' formula='Al' Z='13'>
+	<D value='17.6094933'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to102.5' formula='Al' Z='13'>
+	<D value='16.264433099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to102.5' formula='Al' Z='13'>
+	<D value='14.821447199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density67.5to102.5' formula='Al' Z='13'>
+	<D value='12.3559428'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to107.5' formula='Al' Z='13'>
+	<D value='21.2978943'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to107.5' formula='Al' Z='13'>
+	<D value='20.9020086'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to107.5' formula='Al' Z='13'>
+	<D value='20.671777199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to107.5' formula='Al' Z='13'>
+	<D value='20.5979175'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to107.5' formula='Al' Z='13'>
+	<D value='20.676819599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to107.5' formula='Al' Z='13'>
+	<D value='20.910145199999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to107.5' formula='Al' Z='13'>
+	<D value='21.3045411'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to107.5' formula='Al' Z='13'>
+	<D value='21.871581900000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to107.5' formula='Al' Z='13'>
+	<D value='21.4137549'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to107.5' formula='Al' Z='13'>
+	<D value='19.5167811'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to107.5' formula='Al' Z='13'>
+	<D value='17.8815537'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to107.5' formula='Al' Z='13'>
+	<D value='16.2599637'/>
+	<atom value='26.98'/>
+</material>
+<material name='density62.5to107.5' formula='Al' Z='13'>
+	<D value='13.910090700000001'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to112.5' formula='Al' Z='13'>
+	<D value='21.1474245'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to112.5' formula='Al' Z='13'>
+	<D value='20.6135604'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to112.5' formula='Al' Z='13'>
+	<D value='20.251424399999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to112.5' formula='Al' Z='13'>
+	<D value='20.0458893'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to112.5' formula='Al' Z='13'>
+	<D value='19.9877871'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to112.5' formula='Al' Z='13'>
+	<D value='20.0726484'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to112.5' formula='Al' Z='13'>
+	<D value='20.299613700000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to112.5' formula='Al' Z='13'>
+	<D value='20.6695998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to112.5' formula='Al' Z='13'>
+	<D value='21.181174199999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to112.5' formula='Al' Z='13'>
+	<D value='20.075857199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to112.5' formula='Al' Z='13'>
+	<D value='18.2046111'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to112.5' formula='Al' Z='13'>
+	<D value='15.936333299999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to117.5' formula='Al' Z='13'>
+	<D value='21.0047475'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to117.5' formula='Al' Z='13'>
+	<D value='20.3433336'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to117.5' formula='Al' Z='13'>
+	<D value='19.8619563'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to117.5' formula='Al' Z='13'>
+	<D value='19.5397584'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to117.5' formula='Al' Z='13'>
+	<D value='19.3621857'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to117.5' formula='Al' Z='13'>
+	<D value='19.318924199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to117.5' formula='Al' Z='13'>
+	<D value='19.40178'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to117.5' formula='Al' Z='13'>
+	<D value='19.6003245'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to117.5' formula='Al' Z='13'>
+	<D value='19.892153399999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to117.5' formula='Al' Z='13'>
+	<D value='20.208621299999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to117.5' formula='Al' Z='13'>
+	<D value='18.4705977'/>
+	<atom value='26.98'/>
+</material>
+<material name='density57.5to117.5' formula='Al' Z='13'>
+	<D value='13.912439999999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to122.5' formula='Al' Z='13'>
+	<D value='20.8707228'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to122.5' formula='Al' Z='13'>
+	<D value='20.0923023'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to122.5' formula='Al' Z='13'>
+	<D value='19.503774'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to122.5' formula='Al' Z='13'>
+	<D value='19.0785507'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to122.5' formula='Al' Z='13'>
+	<D value='18.7967493'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to122.5' formula='Al' Z='13'>
+	<D value='18.642268499999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to122.5' formula='Al' Z='13'>
+	<D value='18.5989497'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to122.5' formula='Al' Z='13'>
+	<D value='18.643013399999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to122.5' formula='Al' Z='13'>
+	<D value='18.7211133'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to122.5' formula='Al' Z='13'>
+	<D value='18.663813299999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density52.5to122.5' formula='Al' Z='13'>
+	<D value='17.592876299999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to127.5' formula='Al' Z='13'>
+	<D value='20.7460953'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to127.5' formula='Al' Z='13'>
+	<D value='19.8612114'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to127.5' formula='Al' Z='13'>
+	<D value='19.1771067'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to127.5' formula='Al' Z='13'>
+	<D value='18.6612348'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to127.5' formula='Al' Z='13'>
+	<D value='18.2884983'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to127.5' formula='Al' Z='13'>
+	<D value='18.0367794'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to127.5' formula='Al' Z='13'>
+	<D value='17.881037999999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to127.5' formula='Al' Z='13'>
+	<D value='17.7795597'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to127.5' formula='Al' Z='13'>
+	<D value='17.6285169'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to127.5' formula='Al' Z='13'>
+	<D value='17.0296746'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to132.5' formula='Al' Z='13'>
+	<D value='20.6314953'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to132.5' formula='Al' Z='13'>
+	<D value='19.6506912'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to132.5' formula='Al' Z='13'>
+	<D value='18.8818398'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to132.5' formula='Al' Z='13'>
+	<D value='18.286722'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to132.5' formula='Al' Z='13'>
+	<D value='17.8347969'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to132.5' formula='Al' Z='13'>
+	<D value='17.4976437'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to132.5' formula='Al' Z='13'>
+	<D value='17.2395645'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to132.5' formula='Al' Z='13'>
+	<D value='16.993976699999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to132.5' formula='Al' Z='13'>
+	<D value='16.5686388'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to132.5' formula='Al' Z='13'>
+	<D value='14.9551281'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to137.5' formula='Al' Z='13'>
+	<D value='20.5274958'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to137.5' formula='Al' Z='13'>
+	<D value='19.4612574'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to137.5' formula='Al' Z='13'>
+	<D value='18.6180879'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to137.5' formula='Al' Z='13'>
+	<D value='17.9540955'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to137.5' formula='Al' Z='13'>
+	<D value='17.433353099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to137.5' formula='Al' Z='13'>
+	<D value='17.020678499999995'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to137.5' formula='Al' Z='13'>
+	<D value='16.6676532'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to137.5' formula='Al' Z='13'>
+	<D value='16.2722259'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to137.5' formula='Al' Z='13'>
+	<D value='15.480626399999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density47.5to137.5' formula='Al' Z='13'>
+	<D value='11.1656499'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to142.5' formula='Al' Z='13'>
+	<D value='20.4345552'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to142.5' formula='Al' Z='13'>
+	<D value='19.2933111'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to142.5' formula='Al' Z='13'>
+	<D value='18.385679099999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to142.5' formula='Al' Z='13'>
+	<D value='17.6624385'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to142.5' formula='Al' Z='13'>
+	<D value='17.0823333'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to142.5' formula='Al' Z='13'>
+	<D value='16.6028469'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to142.5' formula='Al' Z='13'>
+	<D value='16.1603763'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to142.5' formula='Al' Z='13'>
+	<D value='15.602618099999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to142.5' formula='Al' Z='13'>
+	<D value='14.2706223'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to147.5' formula='Al' Z='13'>
+	<D value='20.3531892'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to147.5' formula='Al' Z='13'>
+	<D value='19.1471388'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to147.5' formula='Al' Z='13'>
+	<D value='18.184613399999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to147.5' formula='Al' Z='13'>
+	<D value='17.4110061'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to147.5' formula='Al' Z='13'>
+	<D value='16.780133099999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to147.5' formula='Al' Z='13'>
+	<D value='16.2418569'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to147.5' formula='Al' Z='13'>
+	<D value='15.714754199999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to147.5' formula='Al' Z='13'>
+	<D value='14.976902099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to147.5' formula='Al' Z='13'>
+	<D value='12.773086799999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to152.5' formula='Al' Z='13'>
+	<D value='20.2837416'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to152.5' formula='Al' Z='13'>
+	<D value='19.0230843'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to152.5' formula='Al' Z='13'>
+	<D value='18.0146616'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to152.5' formula='Al' Z='13'>
+	<D value='17.199167999999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to152.5' formula='Al' Z='13'>
+	<D value='16.525663799999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to152.5' formula='Al' Z='13'>
+	<D value='15.9364479'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to152.5' formula='Al' Z='13'>
+	<D value='15.3298128'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to152.5' formula='Al' Z='13'>
+	<D value='14.391926399999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density42.5to152.5' formula='Al' Z='13'>
+	<D value='10.6536171'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to157.5' formula='Al' Z='13'>
+	<D value='20.2264989'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to157.5' formula='Al' Z='13'>
+	<D value='18.921376799999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to157.5' formula='Al' Z='13'>
+	<D value='17.875766399999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to157.5' formula='Al' Z='13'>
+	<D value='17.0264658'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to157.5' formula='Al' Z='13'>
+	<D value='16.3181805'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to157.5' formula='Al' Z='13'>
+	<D value='15.685875'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to157.5' formula='Al' Z='13'>
+	<D value='15.006698099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to157.5' formula='Al' Z='13'>
+	<D value='13.8529053'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to162.5' formula='Al' Z='13'>
+	<D value='20.181747599999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to162.5' formula='Al' Z='13'>
+	<D value='18.8420736'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to162.5' formula='Al' Z='13'>
+	<D value='17.767870499999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to162.5' formula='Al' Z='13'>
+	<D value='16.8924984'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to162.5' formula='Al' Z='13'>
+	<D value='16.1571675'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to162.5' formula='Al' Z='13'>
+	<D value='15.490252799999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to162.5' formula='Al' Z='13'>
+	<D value='14.7483324'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to162.5' formula='Al' Z='13'>
+	<D value='13.376856900000002'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to167.5' formula='Al' Z='13'>
+	<D value='20.1496596'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to167.5' formula='Al' Z='13'>
+	<D value='18.7853466'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to167.5' formula='Al' Z='13'>
+	<D value='17.690859299999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to167.5' formula='Al' Z='13'>
+	<D value='16.796979299999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to167.5' formula='Al' Z='13'>
+	<D value='16.042280999999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to167.5' formula='Al' Z='13'>
+	<D value='15.349925099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to167.5' formula='Al' Z='13'>
+	<D value='14.559070499999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to167.5' formula='Al' Z='13'>
+	<D value='12.993462599999997'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to172.5' formula='Al' Z='13'>
+	<D value='20.1303495'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to172.5' formula='Al' Z='13'>
+	<D value='18.7513104'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to172.5' formula='Al' Z='13'>
+	<D value='17.6446182'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to172.5' formula='Al' Z='13'>
+	<D value='16.7397366'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to172.5' formula='Al' Z='13'>
+	<D value='15.973349099999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to172.5' formula='Al' Z='13'>
+	<D value='15.265464900000001'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to172.5' formula='Al' Z='13'>
+	<D value='14.4432672'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to172.5' formula='Al' Z='13'>
+	<D value='12.740597699999999'/>
+	<atom value='26.98'/>
+</material>
+<material name='density2.5to177.5' formula='Al' Z='13'>
+	<D value='20.1238746'/>
+	<atom value='26.98'/>
+</material>
+<material name='density7.5to177.5' formula='Al' Z='13'>
+	<D value='18.739907699999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density12.5to177.5' formula='Al' Z='13'>
+	<D value='17.6292618'/>
+	<atom value='26.98'/>
+</material>
+<material name='density17.5to177.5' formula='Al' Z='13'>
+	<D value='16.720712999999996'/>
+	<atom value='26.98'/>
+</material>
+<material name='density22.5to177.5' formula='Al' Z='13'>
+	<D value='15.9503718'/>
+	<atom value='26.98'/>
+</material>
+<material name='density27.5to177.5' formula='Al' Z='13'>
+	<D value='15.237215999999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density32.5to177.5' formula='Al' Z='13'>
+	<D value='14.404245899999998'/>
+	<atom value='26.98'/>
+</material>
+<material name='density37.5to177.5' formula='Al' Z='13'>
+	<D value='12.651782699999998'/>
+	<atom value='26.98'/>
+</material>

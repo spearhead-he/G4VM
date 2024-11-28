@@ -1,0 +1,3116 @@
+<volume name='name0.0to0.0'>
+	<materialref ref='density0.0to0.0'/>
+	<solidref ref='ShieldElement0.0to0.0'/>
+</volume>
+<volume name='name2.5to-177.5'>
+	<materialref ref='density2.5to-177.5'/>
+	<solidref ref='ShieldElement2.5to-177.5'/>
+</volume>
+<volume name='name7.5to-177.5'>
+	<materialref ref='density7.5to-177.5'/>
+	<solidref ref='ShieldElement7.5to-177.5'/>
+</volume>
+<volume name='name12.5to-177.5'>
+	<materialref ref='density12.5to-177.5'/>
+	<solidref ref='ShieldElement12.5to-177.5'/>
+</volume>
+<volume name='name17.5to-177.5'>
+	<materialref ref='density17.5to-177.5'/>
+	<solidref ref='ShieldElement17.5to-177.5'/>
+</volume>
+<volume name='name22.5to-177.5'>
+	<materialref ref='density22.5to-177.5'/>
+	<solidref ref='ShieldElement22.5to-177.5'/>
+</volume>
+<volume name='name27.5to-177.5'>
+	<materialref ref='density27.5to-177.5'/>
+	<solidref ref='ShieldElement27.5to-177.5'/>
+</volume>
+<volume name='name32.5to-177.5'>
+	<materialref ref='density32.5to-177.5'/>
+	<solidref ref='ShieldElement32.5to-177.5'/>
+</volume>
+<volume name='name37.5to-177.5'>
+	<materialref ref='density37.5to-177.5'/>
+	<solidref ref='ShieldElement37.5to-177.5'/>
+</volume>
+<volume name='name2.5to-172.5'>
+	<materialref ref='density2.5to-172.5'/>
+	<solidref ref='ShieldElement2.5to-172.5'/>
+</volume>
+<volume name='name7.5to-172.5'>
+	<materialref ref='density7.5to-172.5'/>
+	<solidref ref='ShieldElement7.5to-172.5'/>
+</volume>
+<volume name='name12.5to-172.5'>
+	<materialref ref='density12.5to-172.5'/>
+	<solidref ref='ShieldElement12.5to-172.5'/>
+</volume>
+<volume name='name17.5to-172.5'>
+	<materialref ref='density17.5to-172.5'/>
+	<solidref ref='ShieldElement17.5to-172.5'/>
+</volume>
+<volume name='name22.5to-172.5'>
+	<materialref ref='density22.5to-172.5'/>
+	<solidref ref='ShieldElement22.5to-172.5'/>
+</volume>
+<volume name='name27.5to-172.5'>
+	<materialref ref='density27.5to-172.5'/>
+	<solidref ref='ShieldElement27.5to-172.5'/>
+</volume>
+<volume name='name32.5to-172.5'>
+	<materialref ref='density32.5to-172.5'/>
+	<solidref ref='ShieldElement32.5to-172.5'/>
+</volume>
+<volume name='name37.5to-172.5'>
+	<materialref ref='density37.5to-172.5'/>
+	<solidref ref='ShieldElement37.5to-172.5'/>
+</volume>
+<volume name='name2.5to-167.5'>
+	<materialref ref='density2.5to-167.5'/>
+	<solidref ref='ShieldElement2.5to-167.5'/>
+</volume>
+<volume name='name7.5to-167.5'>
+	<materialref ref='density7.5to-167.5'/>
+	<solidref ref='ShieldElement7.5to-167.5'/>
+</volume>
+<volume name='name12.5to-167.5'>
+	<materialref ref='density12.5to-167.5'/>
+	<solidref ref='ShieldElement12.5to-167.5'/>
+</volume>
+<volume name='name17.5to-167.5'>
+	<materialref ref='density17.5to-167.5'/>
+	<solidref ref='ShieldElement17.5to-167.5'/>
+</volume>
+<volume name='name22.5to-167.5'>
+	<materialref ref='density22.5to-167.5'/>
+	<solidref ref='ShieldElement22.5to-167.5'/>
+</volume>
+<volume name='name27.5to-167.5'>
+	<materialref ref='density27.5to-167.5'/>
+	<solidref ref='ShieldElement27.5to-167.5'/>
+</volume>
+<volume name='name32.5to-167.5'>
+	<materialref ref='density32.5to-167.5'/>
+	<solidref ref='ShieldElement32.5to-167.5'/>
+</volume>
+<volume name='name37.5to-167.5'>
+	<materialref ref='density37.5to-167.5'/>
+	<solidref ref='ShieldElement37.5to-167.5'/>
+</volume>
+<volume name='name2.5to-162.5'>
+	<materialref ref='density2.5to-162.5'/>
+	<solidref ref='ShieldElement2.5to-162.5'/>
+</volume>
+<volume name='name7.5to-162.5'>
+	<materialref ref='density7.5to-162.5'/>
+	<solidref ref='ShieldElement7.5to-162.5'/>
+</volume>
+<volume name='name12.5to-162.5'>
+	<materialref ref='density12.5to-162.5'/>
+	<solidref ref='ShieldElement12.5to-162.5'/>
+</volume>
+<volume name='name17.5to-162.5'>
+	<materialref ref='density17.5to-162.5'/>
+	<solidref ref='ShieldElement17.5to-162.5'/>
+</volume>
+<volume name='name22.5to-162.5'>
+	<materialref ref='density22.5to-162.5'/>
+	<solidref ref='ShieldElement22.5to-162.5'/>
+</volume>
+<volume name='name27.5to-162.5'>
+	<materialref ref='density27.5to-162.5'/>
+	<solidref ref='ShieldElement27.5to-162.5'/>
+</volume>
+<volume name='name32.5to-162.5'>
+	<materialref ref='density32.5to-162.5'/>
+	<solidref ref='ShieldElement32.5to-162.5'/>
+</volume>
+<volume name='name37.5to-162.5'>
+	<materialref ref='density37.5to-162.5'/>
+	<solidref ref='ShieldElement37.5to-162.5'/>
+</volume>
+<volume name='name2.5to-157.5'>
+	<materialref ref='density2.5to-157.5'/>
+	<solidref ref='ShieldElement2.5to-157.5'/>
+</volume>
+<volume name='name7.5to-157.5'>
+	<materialref ref='density7.5to-157.5'/>
+	<solidref ref='ShieldElement7.5to-157.5'/>
+</volume>
+<volume name='name12.5to-157.5'>
+	<materialref ref='density12.5to-157.5'/>
+	<solidref ref='ShieldElement12.5to-157.5'/>
+</volume>
+<volume name='name17.5to-157.5'>
+	<materialref ref='density17.5to-157.5'/>
+	<solidref ref='ShieldElement17.5to-157.5'/>
+</volume>
+<volume name='name22.5to-157.5'>
+	<materialref ref='density22.5to-157.5'/>
+	<solidref ref='ShieldElement22.5to-157.5'/>
+</volume>
+<volume name='name27.5to-157.5'>
+	<materialref ref='density27.5to-157.5'/>
+	<solidref ref='ShieldElement27.5to-157.5'/>
+</volume>
+<volume name='name32.5to-157.5'>
+	<materialref ref='density32.5to-157.5'/>
+	<solidref ref='ShieldElement32.5to-157.5'/>
+</volume>
+<volume name='name37.5to-157.5'>
+	<materialref ref='density37.5to-157.5'/>
+	<solidref ref='ShieldElement37.5to-157.5'/>
+</volume>
+<volume name='name42.5to-157.5'>
+	<materialref ref='density42.5to-157.5'/>
+	<solidref ref='ShieldElement42.5to-157.5'/>
+</volume>
+<volume name='name2.5to-152.5'>
+	<materialref ref='density2.5to-152.5'/>
+	<solidref ref='ShieldElement2.5to-152.5'/>
+</volume>
+<volume name='name7.5to-152.5'>
+	<materialref ref='density7.5to-152.5'/>
+	<solidref ref='ShieldElement7.5to-152.5'/>
+</volume>
+<volume name='name12.5to-152.5'>
+	<materialref ref='density12.5to-152.5'/>
+	<solidref ref='ShieldElement12.5to-152.5'/>
+</volume>
+<volume name='name17.5to-152.5'>
+	<materialref ref='density17.5to-152.5'/>
+	<solidref ref='ShieldElement17.5to-152.5'/>
+</volume>
+<volume name='name22.5to-152.5'>
+	<materialref ref='density22.5to-152.5'/>
+	<solidref ref='ShieldElement22.5to-152.5'/>
+</volume>
+<volume name='name27.5to-152.5'>
+	<materialref ref='density27.5to-152.5'/>
+	<solidref ref='ShieldElement27.5to-152.5'/>
+</volume>
+<volume name='name32.5to-152.5'>
+	<materialref ref='density32.5to-152.5'/>
+	<solidref ref='ShieldElement32.5to-152.5'/>
+</volume>
+<volume name='name37.5to-152.5'>
+	<materialref ref='density37.5to-152.5'/>
+	<solidref ref='ShieldElement37.5to-152.5'/>
+</volume>
+<volume name='name42.5to-152.5'>
+	<materialref ref='density42.5to-152.5'/>
+	<solidref ref='ShieldElement42.5to-152.5'/>
+</volume>
+<volume name='name2.5to-147.5'>
+	<materialref ref='density2.5to-147.5'/>
+	<solidref ref='ShieldElement2.5to-147.5'/>
+</volume>
+<volume name='name7.5to-147.5'>
+	<materialref ref='density7.5to-147.5'/>
+	<solidref ref='ShieldElement7.5to-147.5'/>
+</volume>
+<volume name='name12.5to-147.5'>
+	<materialref ref='density12.5to-147.5'/>
+	<solidref ref='ShieldElement12.5to-147.5'/>
+</volume>
+<volume name='name17.5to-147.5'>
+	<materialref ref='density17.5to-147.5'/>
+	<solidref ref='ShieldElement17.5to-147.5'/>
+</volume>
+<volume name='name22.5to-147.5'>
+	<materialref ref='density22.5to-147.5'/>
+	<solidref ref='ShieldElement22.5to-147.5'/>
+</volume>
+<volume name='name27.5to-147.5'>
+	<materialref ref='density27.5to-147.5'/>
+	<solidref ref='ShieldElement27.5to-147.5'/>
+</volume>
+<volume name='name32.5to-147.5'>
+	<materialref ref='density32.5to-147.5'/>
+	<solidref ref='ShieldElement32.5to-147.5'/>
+</volume>
+<volume name='name37.5to-147.5'>
+	<materialref ref='density37.5to-147.5'/>
+	<solidref ref='ShieldElement37.5to-147.5'/>
+</volume>
+<volume name='name42.5to-147.5'>
+	<materialref ref='density42.5to-147.5'/>
+	<solidref ref='ShieldElement42.5to-147.5'/>
+</volume>
+<volume name='name2.5to-142.5'>
+	<materialref ref='density2.5to-142.5'/>
+	<solidref ref='ShieldElement2.5to-142.5'/>
+</volume>
+<volume name='name7.5to-142.5'>
+	<materialref ref='density7.5to-142.5'/>
+	<solidref ref='ShieldElement7.5to-142.5'/>
+</volume>
+<volume name='name12.5to-142.5'>
+	<materialref ref='density12.5to-142.5'/>
+	<solidref ref='ShieldElement12.5to-142.5'/>
+</volume>
+<volume name='name17.5to-142.5'>
+	<materialref ref='density17.5to-142.5'/>
+	<solidref ref='ShieldElement17.5to-142.5'/>
+</volume>
+<volume name='name22.5to-142.5'>
+	<materialref ref='density22.5to-142.5'/>
+	<solidref ref='ShieldElement22.5to-142.5'/>
+</volume>
+<volume name='name27.5to-142.5'>
+	<materialref ref='density27.5to-142.5'/>
+	<solidref ref='ShieldElement27.5to-142.5'/>
+</volume>
+<volume name='name32.5to-142.5'>
+	<materialref ref='density32.5to-142.5'/>
+	<solidref ref='ShieldElement32.5to-142.5'/>
+</volume>
+<volume name='name37.5to-142.5'>
+	<materialref ref='density37.5to-142.5'/>
+	<solidref ref='ShieldElement37.5to-142.5'/>
+</volume>
+<volume name='name42.5to-142.5'>
+	<materialref ref='density42.5to-142.5'/>
+	<solidref ref='ShieldElement42.5to-142.5'/>
+</volume>
+<volume name='name47.5to-142.5'>
+	<materialref ref='density47.5to-142.5'/>
+	<solidref ref='ShieldElement47.5to-142.5'/>
+</volume>
+<volume name='name2.5to-137.5'>
+	<materialref ref='density2.5to-137.5'/>
+	<solidref ref='ShieldElement2.5to-137.5'/>
+</volume>
+<volume name='name7.5to-137.5'>
+	<materialref ref='density7.5to-137.5'/>
+	<solidref ref='ShieldElement7.5to-137.5'/>
+</volume>
+<volume name='name12.5to-137.5'>
+	<materialref ref='density12.5to-137.5'/>
+	<solidref ref='ShieldElement12.5to-137.5'/>
+</volume>
+<volume name='name17.5to-137.5'>
+	<materialref ref='density17.5to-137.5'/>
+	<solidref ref='ShieldElement17.5to-137.5'/>
+</volume>
+<volume name='name22.5to-137.5'>
+	<materialref ref='density22.5to-137.5'/>
+	<solidref ref='ShieldElement22.5to-137.5'/>
+</volume>
+<volume name='name27.5to-137.5'>
+	<materialref ref='density27.5to-137.5'/>
+	<solidref ref='ShieldElement27.5to-137.5'/>
+</volume>
+<volume name='name32.5to-137.5'>
+	<materialref ref='density32.5to-137.5'/>
+	<solidref ref='ShieldElement32.5to-137.5'/>
+</volume>
+<volume name='name37.5to-137.5'>
+	<materialref ref='density37.5to-137.5'/>
+	<solidref ref='ShieldElement37.5to-137.5'/>
+</volume>
+<volume name='name42.5to-137.5'>
+	<materialref ref='density42.5to-137.5'/>
+	<solidref ref='ShieldElement42.5to-137.5'/>
+</volume>
+<volume name='name47.5to-137.5'>
+	<materialref ref='density47.5to-137.5'/>
+	<solidref ref='ShieldElement47.5to-137.5'/>
+</volume>
+<volume name='name2.5to-132.5'>
+	<materialref ref='density2.5to-132.5'/>
+	<solidref ref='ShieldElement2.5to-132.5'/>
+</volume>
+<volume name='name7.5to-132.5'>
+	<materialref ref='density7.5to-132.5'/>
+	<solidref ref='ShieldElement7.5to-132.5'/>
+</volume>
+<volume name='name12.5to-132.5'>
+	<materialref ref='density12.5to-132.5'/>
+	<solidref ref='ShieldElement12.5to-132.5'/>
+</volume>
+<volume name='name17.5to-132.5'>
+	<materialref ref='density17.5to-132.5'/>
+	<solidref ref='ShieldElement17.5to-132.5'/>
+</volume>
+<volume name='name22.5to-132.5'>
+	<materialref ref='density22.5to-132.5'/>
+	<solidref ref='ShieldElement22.5to-132.5'/>
+</volume>
+<volume name='name27.5to-132.5'>
+	<materialref ref='density27.5to-132.5'/>
+	<solidref ref='ShieldElement27.5to-132.5'/>
+</volume>
+<volume name='name32.5to-132.5'>
+	<materialref ref='density32.5to-132.5'/>
+	<solidref ref='ShieldElement32.5to-132.5'/>
+</volume>
+<volume name='name37.5to-132.5'>
+	<materialref ref='density37.5to-132.5'/>
+	<solidref ref='ShieldElement37.5to-132.5'/>
+</volume>
+<volume name='name42.5to-132.5'>
+	<materialref ref='density42.5to-132.5'/>
+	<solidref ref='ShieldElement42.5to-132.5'/>
+</volume>
+<volume name='name47.5to-132.5'>
+	<materialref ref='density47.5to-132.5'/>
+	<solidref ref='ShieldElement47.5to-132.5'/>
+</volume>
+<volume name='name2.5to-127.5'>
+	<materialref ref='density2.5to-127.5'/>
+	<solidref ref='ShieldElement2.5to-127.5'/>
+</volume>
+<volume name='name7.5to-127.5'>
+	<materialref ref='density7.5to-127.5'/>
+	<solidref ref='ShieldElement7.5to-127.5'/>
+</volume>
+<volume name='name12.5to-127.5'>
+	<materialref ref='density12.5to-127.5'/>
+	<solidref ref='ShieldElement12.5to-127.5'/>
+</volume>
+<volume name='name17.5to-127.5'>
+	<materialref ref='density17.5to-127.5'/>
+	<solidref ref='ShieldElement17.5to-127.5'/>
+</volume>
+<volume name='name22.5to-127.5'>
+	<materialref ref='density22.5to-127.5'/>
+	<solidref ref='ShieldElement22.5to-127.5'/>
+</volume>
+<volume name='name27.5to-127.5'>
+	<materialref ref='density27.5to-127.5'/>
+	<solidref ref='ShieldElement27.5to-127.5'/>
+</volume>
+<volume name='name32.5to-127.5'>
+	<materialref ref='density32.5to-127.5'/>
+	<solidref ref='ShieldElement32.5to-127.5'/>
+</volume>
+<volume name='name37.5to-127.5'>
+	<materialref ref='density37.5to-127.5'/>
+	<solidref ref='ShieldElement37.5to-127.5'/>
+</volume>
+<volume name='name42.5to-127.5'>
+	<materialref ref='density42.5to-127.5'/>
+	<solidref ref='ShieldElement42.5to-127.5'/>
+</volume>
+<volume name='name47.5to-127.5'>
+	<materialref ref='density47.5to-127.5'/>
+	<solidref ref='ShieldElement47.5to-127.5'/>
+</volume>
+<volume name='name52.5to-127.5'>
+	<materialref ref='density52.5to-127.5'/>
+	<solidref ref='ShieldElement52.5to-127.5'/>
+</volume>
+<volume name='name2.5to-122.5'>
+	<materialref ref='density2.5to-122.5'/>
+	<solidref ref='ShieldElement2.5to-122.5'/>
+</volume>
+<volume name='name7.5to-122.5'>
+	<materialref ref='density7.5to-122.5'/>
+	<solidref ref='ShieldElement7.5to-122.5'/>
+</volume>
+<volume name='name12.5to-122.5'>
+	<materialref ref='density12.5to-122.5'/>
+	<solidref ref='ShieldElement12.5to-122.5'/>
+</volume>
+<volume name='name17.5to-122.5'>
+	<materialref ref='density17.5to-122.5'/>
+	<solidref ref='ShieldElement17.5to-122.5'/>
+</volume>
+<volume name='name22.5to-122.5'>
+	<materialref ref='density22.5to-122.5'/>
+	<solidref ref='ShieldElement22.5to-122.5'/>
+</volume>
+<volume name='name27.5to-122.5'>
+	<materialref ref='density27.5to-122.5'/>
+	<solidref ref='ShieldElement27.5to-122.5'/>
+</volume>
+<volume name='name32.5to-122.5'>
+	<materialref ref='density32.5to-122.5'/>
+	<solidref ref='ShieldElement32.5to-122.5'/>
+</volume>
+<volume name='name37.5to-122.5'>
+	<materialref ref='density37.5to-122.5'/>
+	<solidref ref='ShieldElement37.5to-122.5'/>
+</volume>
+<volume name='name42.5to-122.5'>
+	<materialref ref='density42.5to-122.5'/>
+	<solidref ref='ShieldElement42.5to-122.5'/>
+</volume>
+<volume name='name47.5to-122.5'>
+	<materialref ref='density47.5to-122.5'/>
+	<solidref ref='ShieldElement47.5to-122.5'/>
+</volume>
+<volume name='name52.5to-122.5'>
+	<materialref ref='density52.5to-122.5'/>
+	<solidref ref='ShieldElement52.5to-122.5'/>
+</volume>
+<volume name='name57.5to-122.5'>
+	<materialref ref='density57.5to-122.5'/>
+	<solidref ref='ShieldElement57.5to-122.5'/>
+</volume>
+<volume name='name2.5to-117.5'>
+	<materialref ref='density2.5to-117.5'/>
+	<solidref ref='ShieldElement2.5to-117.5'/>
+</volume>
+<volume name='name7.5to-117.5'>
+	<materialref ref='density7.5to-117.5'/>
+	<solidref ref='ShieldElement7.5to-117.5'/>
+</volume>
+<volume name='name12.5to-117.5'>
+	<materialref ref='density12.5to-117.5'/>
+	<solidref ref='ShieldElement12.5to-117.5'/>
+</volume>
+<volume name='name17.5to-117.5'>
+	<materialref ref='density17.5to-117.5'/>
+	<solidref ref='ShieldElement17.5to-117.5'/>
+</volume>
+<volume name='name22.5to-117.5'>
+	<materialref ref='density22.5to-117.5'/>
+	<solidref ref='ShieldElement22.5to-117.5'/>
+</volume>
+<volume name='name27.5to-117.5'>
+	<materialref ref='density27.5to-117.5'/>
+	<solidref ref='ShieldElement27.5to-117.5'/>
+</volume>
+<volume name='name32.5to-117.5'>
+	<materialref ref='density32.5to-117.5'/>
+	<solidref ref='ShieldElement32.5to-117.5'/>
+</volume>
+<volume name='name37.5to-117.5'>
+	<materialref ref='density37.5to-117.5'/>
+	<solidref ref='ShieldElement37.5to-117.5'/>
+</volume>
+<volume name='name42.5to-117.5'>
+	<materialref ref='density42.5to-117.5'/>
+	<solidref ref='ShieldElement42.5to-117.5'/>
+</volume>
+<volume name='name47.5to-117.5'>
+	<materialref ref='density47.5to-117.5'/>
+	<solidref ref='ShieldElement47.5to-117.5'/>
+</volume>
+<volume name='name52.5to-117.5'>
+	<materialref ref='density52.5to-117.5'/>
+	<solidref ref='ShieldElement52.5to-117.5'/>
+</volume>
+<volume name='name57.5to-117.5'>
+	<materialref ref='density57.5to-117.5'/>
+	<solidref ref='ShieldElement57.5to-117.5'/>
+</volume>
+<volume name='name2.5to-112.5'>
+	<materialref ref='density2.5to-112.5'/>
+	<solidref ref='ShieldElement2.5to-112.5'/>
+</volume>
+<volume name='name7.5to-112.5'>
+	<materialref ref='density7.5to-112.5'/>
+	<solidref ref='ShieldElement7.5to-112.5'/>
+</volume>
+<volume name='name12.5to-112.5'>
+	<materialref ref='density12.5to-112.5'/>
+	<solidref ref='ShieldElement12.5to-112.5'/>
+</volume>
+<volume name='name17.5to-112.5'>
+	<materialref ref='density17.5to-112.5'/>
+	<solidref ref='ShieldElement17.5to-112.5'/>
+</volume>
+<volume name='name22.5to-112.5'>
+	<materialref ref='density22.5to-112.5'/>
+	<solidref ref='ShieldElement22.5to-112.5'/>
+</volume>
+<volume name='name27.5to-112.5'>
+	<materialref ref='density27.5to-112.5'/>
+	<solidref ref='ShieldElement27.5to-112.5'/>
+</volume>
+<volume name='name32.5to-112.5'>
+	<materialref ref='density32.5to-112.5'/>
+	<solidref ref='ShieldElement32.5to-112.5'/>
+</volume>
+<volume name='name37.5to-112.5'>
+	<materialref ref='density37.5to-112.5'/>
+	<solidref ref='ShieldElement37.5to-112.5'/>
+</volume>
+<volume name='name42.5to-112.5'>
+	<materialref ref='density42.5to-112.5'/>
+	<solidref ref='ShieldElement42.5to-112.5'/>
+</volume>
+<volume name='name47.5to-112.5'>
+	<materialref ref='density47.5to-112.5'/>
+	<solidref ref='ShieldElement47.5to-112.5'/>
+</volume>
+<volume name='name52.5to-112.5'>
+	<materialref ref='density52.5to-112.5'/>
+	<solidref ref='ShieldElement52.5to-112.5'/>
+</volume>
+<volume name='name57.5to-112.5'>
+	<materialref ref='density57.5to-112.5'/>
+	<solidref ref='ShieldElement57.5to-112.5'/>
+</volume>
+<volume name='name62.5to-112.5'>
+	<materialref ref='density62.5to-112.5'/>
+	<solidref ref='ShieldElement62.5to-112.5'/>
+</volume>
+<volume name='name2.5to-107.5'>
+	<materialref ref='density2.5to-107.5'/>
+	<solidref ref='ShieldElement2.5to-107.5'/>
+</volume>
+<volume name='name7.5to-107.5'>
+	<materialref ref='density7.5to-107.5'/>
+	<solidref ref='ShieldElement7.5to-107.5'/>
+</volume>
+<volume name='name12.5to-107.5'>
+	<materialref ref='density12.5to-107.5'/>
+	<solidref ref='ShieldElement12.5to-107.5'/>
+</volume>
+<volume name='name17.5to-107.5'>
+	<materialref ref='density17.5to-107.5'/>
+	<solidref ref='ShieldElement17.5to-107.5'/>
+</volume>
+<volume name='name22.5to-107.5'>
+	<materialref ref='density22.5to-107.5'/>
+	<solidref ref='ShieldElement22.5to-107.5'/>
+</volume>
+<volume name='name27.5to-107.5'>
+	<materialref ref='density27.5to-107.5'/>
+	<solidref ref='ShieldElement27.5to-107.5'/>
+</volume>
+<volume name='name32.5to-107.5'>
+	<materialref ref='density32.5to-107.5'/>
+	<solidref ref='ShieldElement32.5to-107.5'/>
+</volume>
+<volume name='name37.5to-107.5'>
+	<materialref ref='density37.5to-107.5'/>
+	<solidref ref='ShieldElement37.5to-107.5'/>
+</volume>
+<volume name='name42.5to-107.5'>
+	<materialref ref='density42.5to-107.5'/>
+	<solidref ref='ShieldElement42.5to-107.5'/>
+</volume>
+<volume name='name47.5to-107.5'>
+	<materialref ref='density47.5to-107.5'/>
+	<solidref ref='ShieldElement47.5to-107.5'/>
+</volume>
+<volume name='name52.5to-107.5'>
+	<materialref ref='density52.5to-107.5'/>
+	<solidref ref='ShieldElement52.5to-107.5'/>
+</volume>
+<volume name='name57.5to-107.5'>
+	<materialref ref='density57.5to-107.5'/>
+	<solidref ref='ShieldElement57.5to-107.5'/>
+</volume>
+<volume name='name62.5to-107.5'>
+	<materialref ref='density62.5to-107.5'/>
+	<solidref ref='ShieldElement62.5to-107.5'/>
+</volume>
+<volume name='name67.5to-107.5'>
+	<materialref ref='density67.5to-107.5'/>
+	<solidref ref='ShieldElement67.5to-107.5'/>
+</volume>
+<volume name='name2.5to-102.5'>
+	<materialref ref='density2.5to-102.5'/>
+	<solidref ref='ShieldElement2.5to-102.5'/>
+</volume>
+<volume name='name7.5to-102.5'>
+	<materialref ref='density7.5to-102.5'/>
+	<solidref ref='ShieldElement7.5to-102.5'/>
+</volume>
+<volume name='name12.5to-102.5'>
+	<materialref ref='density12.5to-102.5'/>
+	<solidref ref='ShieldElement12.5to-102.5'/>
+</volume>
+<volume name='name17.5to-102.5'>
+	<materialref ref='density17.5to-102.5'/>
+	<solidref ref='ShieldElement17.5to-102.5'/>
+</volume>
+<volume name='name22.5to-102.5'>
+	<materialref ref='density22.5to-102.5'/>
+	<solidref ref='ShieldElement22.5to-102.5'/>
+</volume>
+<volume name='name27.5to-102.5'>
+	<materialref ref='density27.5to-102.5'/>
+	<solidref ref='ShieldElement27.5to-102.5'/>
+</volume>
+<volume name='name32.5to-102.5'>
+	<materialref ref='density32.5to-102.5'/>
+	<solidref ref='ShieldElement32.5to-102.5'/>
+</volume>
+<volume name='name37.5to-102.5'>
+	<materialref ref='density37.5to-102.5'/>
+	<solidref ref='ShieldElement37.5to-102.5'/>
+</volume>
+<volume name='name42.5to-102.5'>
+	<materialref ref='density42.5to-102.5'/>
+	<solidref ref='ShieldElement42.5to-102.5'/>
+</volume>
+<volume name='name47.5to-102.5'>
+	<materialref ref='density47.5to-102.5'/>
+	<solidref ref='ShieldElement47.5to-102.5'/>
+</volume>
+<volume name='name52.5to-102.5'>
+	<materialref ref='density52.5to-102.5'/>
+	<solidref ref='ShieldElement52.5to-102.5'/>
+</volume>
+<volume name='name57.5to-102.5'>
+	<materialref ref='density57.5to-102.5'/>
+	<solidref ref='ShieldElement57.5to-102.5'/>
+</volume>
+<volume name='name62.5to-102.5'>
+	<materialref ref='density62.5to-102.5'/>
+	<solidref ref='ShieldElement62.5to-102.5'/>
+</volume>
+<volume name='name67.5to-102.5'>
+	<materialref ref='density67.5to-102.5'/>
+	<solidref ref='ShieldElement67.5to-102.5'/>
+</volume>
+<volume name='name72.5to-102.5'>
+	<materialref ref='density72.5to-102.5'/>
+	<solidref ref='ShieldElement72.5to-102.5'/>
+</volume>
+<volume name='name2.5to-97.5'>
+	<materialref ref='density2.5to-97.5'/>
+	<solidref ref='ShieldElement2.5to-97.5'/>
+</volume>
+<volume name='name7.5to-97.5'>
+	<materialref ref='density7.5to-97.5'/>
+	<solidref ref='ShieldElement7.5to-97.5'/>
+</volume>
+<volume name='name12.5to-97.5'>
+	<materialref ref='density12.5to-97.5'/>
+	<solidref ref='ShieldElement12.5to-97.5'/>
+</volume>
+<volume name='name17.5to-97.5'>
+	<materialref ref='density17.5to-97.5'/>
+	<solidref ref='ShieldElement17.5to-97.5'/>
+</volume>
+<volume name='name22.5to-97.5'>
+	<materialref ref='density22.5to-97.5'/>
+	<solidref ref='ShieldElement22.5to-97.5'/>
+</volume>
+<volume name='name27.5to-97.5'>
+	<materialref ref='density27.5to-97.5'/>
+	<solidref ref='ShieldElement27.5to-97.5'/>
+</volume>
+<volume name='name32.5to-97.5'>
+	<materialref ref='density32.5to-97.5'/>
+	<solidref ref='ShieldElement32.5to-97.5'/>
+</volume>
+<volume name='name37.5to-97.5'>
+	<materialref ref='density37.5to-97.5'/>
+	<solidref ref='ShieldElement37.5to-97.5'/>
+</volume>
+<volume name='name42.5to-97.5'>
+	<materialref ref='density42.5to-97.5'/>
+	<solidref ref='ShieldElement42.5to-97.5'/>
+</volume>
+<volume name='name47.5to-97.5'>
+	<materialref ref='density47.5to-97.5'/>
+	<solidref ref='ShieldElement47.5to-97.5'/>
+</volume>
+<volume name='name52.5to-97.5'>
+	<materialref ref='density52.5to-97.5'/>
+	<solidref ref='ShieldElement52.5to-97.5'/>
+</volume>
+<volume name='name57.5to-97.5'>
+	<materialref ref='density57.5to-97.5'/>
+	<solidref ref='ShieldElement57.5to-97.5'/>
+</volume>
+<volume name='name62.5to-97.5'>
+	<materialref ref='density62.5to-97.5'/>
+	<solidref ref='ShieldElement62.5to-97.5'/>
+</volume>
+<volume name='name67.5to-97.5'>
+	<materialref ref='density67.5to-97.5'/>
+	<solidref ref='ShieldElement67.5to-97.5'/>
+</volume>
+<volume name='name72.5to-97.5'>
+	<materialref ref='density72.5to-97.5'/>
+	<solidref ref='ShieldElement72.5to-97.5'/>
+</volume>
+<volume name='name77.5to-97.5'>
+	<materialref ref='density77.5to-97.5'/>
+	<solidref ref='ShieldElement77.5to-97.5'/>
+</volume>
+<volume name='name2.5to-92.5'>
+	<materialref ref='density2.5to-92.5'/>
+	<solidref ref='ShieldElement2.5to-92.5'/>
+</volume>
+<volume name='name7.5to-92.5'>
+	<materialref ref='density7.5to-92.5'/>
+	<solidref ref='ShieldElement7.5to-92.5'/>
+</volume>
+<volume name='name12.5to-92.5'>
+	<materialref ref='density12.5to-92.5'/>
+	<solidref ref='ShieldElement12.5to-92.5'/>
+</volume>
+<volume name='name17.5to-92.5'>
+	<materialref ref='density17.5to-92.5'/>
+	<solidref ref='ShieldElement17.5to-92.5'/>
+</volume>
+<volume name='name22.5to-92.5'>
+	<materialref ref='density22.5to-92.5'/>
+	<solidref ref='ShieldElement22.5to-92.5'/>
+</volume>
+<volume name='name27.5to-92.5'>
+	<materialref ref='density27.5to-92.5'/>
+	<solidref ref='ShieldElement27.5to-92.5'/>
+</volume>
+<volume name='name32.5to-92.5'>
+	<materialref ref='density32.5to-92.5'/>
+	<solidref ref='ShieldElement32.5to-92.5'/>
+</volume>
+<volume name='name37.5to-92.5'>
+	<materialref ref='density37.5to-92.5'/>
+	<solidref ref='ShieldElement37.5to-92.5'/>
+</volume>
+<volume name='name42.5to-92.5'>
+	<materialref ref='density42.5to-92.5'/>
+	<solidref ref='ShieldElement42.5to-92.5'/>
+</volume>
+<volume name='name47.5to-92.5'>
+	<materialref ref='density47.5to-92.5'/>
+	<solidref ref='ShieldElement47.5to-92.5'/>
+</volume>
+<volume name='name52.5to-92.5'>
+	<materialref ref='density52.5to-92.5'/>
+	<solidref ref='ShieldElement52.5to-92.5'/>
+</volume>
+<volume name='name57.5to-92.5'>
+	<materialref ref='density57.5to-92.5'/>
+	<solidref ref='ShieldElement57.5to-92.5'/>
+</volume>
+<volume name='name62.5to-92.5'>
+	<materialref ref='density62.5to-92.5'/>
+	<solidref ref='ShieldElement62.5to-92.5'/>
+</volume>
+<volume name='name67.5to-92.5'>
+	<materialref ref='density67.5to-92.5'/>
+	<solidref ref='ShieldElement67.5to-92.5'/>
+</volume>
+<volume name='name72.5to-92.5'>
+	<materialref ref='density72.5to-92.5'/>
+	<solidref ref='ShieldElement72.5to-92.5'/>
+</volume>
+<volume name='name77.5to-92.5'>
+	<materialref ref='density77.5to-92.5'/>
+	<solidref ref='ShieldElement77.5to-92.5'/>
+</volume>
+<volume name='name82.5to-92.5'>
+	<materialref ref='density82.5to-92.5'/>
+	<solidref ref='ShieldElement82.5to-92.5'/>
+</volume>
+<volume name='name2.5to-87.5'>
+	<materialref ref='density2.5to-87.5'/>
+	<solidref ref='ShieldElement2.5to-87.5'/>
+</volume>
+<volume name='name7.5to-87.5'>
+	<materialref ref='density7.5to-87.5'/>
+	<solidref ref='ShieldElement7.5to-87.5'/>
+</volume>
+<volume name='name12.5to-87.5'>
+	<materialref ref='density12.5to-87.5'/>
+	<solidref ref='ShieldElement12.5to-87.5'/>
+</volume>
+<volume name='name17.5to-87.5'>
+	<materialref ref='density17.5to-87.5'/>
+	<solidref ref='ShieldElement17.5to-87.5'/>
+</volume>
+<volume name='name22.5to-87.5'>
+	<materialref ref='density22.5to-87.5'/>
+	<solidref ref='ShieldElement22.5to-87.5'/>
+</volume>
+<volume name='name27.5to-87.5'>
+	<materialref ref='density27.5to-87.5'/>
+	<solidref ref='ShieldElement27.5to-87.5'/>
+</volume>
+<volume name='name32.5to-87.5'>
+	<materialref ref='density32.5to-87.5'/>
+	<solidref ref='ShieldElement32.5to-87.5'/>
+</volume>
+<volume name='name37.5to-87.5'>
+	<materialref ref='density37.5to-87.5'/>
+	<solidref ref='ShieldElement37.5to-87.5'/>
+</volume>
+<volume name='name42.5to-87.5'>
+	<materialref ref='density42.5to-87.5'/>
+	<solidref ref='ShieldElement42.5to-87.5'/>
+</volume>
+<volume name='name47.5to-87.5'>
+	<materialref ref='density47.5to-87.5'/>
+	<solidref ref='ShieldElement47.5to-87.5'/>
+</volume>
+<volume name='name52.5to-87.5'>
+	<materialref ref='density52.5to-87.5'/>
+	<solidref ref='ShieldElement52.5to-87.5'/>
+</volume>
+<volume name='name57.5to-87.5'>
+	<materialref ref='density57.5to-87.5'/>
+	<solidref ref='ShieldElement57.5to-87.5'/>
+</volume>
+<volume name='name62.5to-87.5'>
+	<materialref ref='density62.5to-87.5'/>
+	<solidref ref='ShieldElement62.5to-87.5'/>
+</volume>
+<volume name='name67.5to-87.5'>
+	<materialref ref='density67.5to-87.5'/>
+	<solidref ref='ShieldElement67.5to-87.5'/>
+</volume>
+<volume name='name72.5to-87.5'>
+	<materialref ref='density72.5to-87.5'/>
+	<solidref ref='ShieldElement72.5to-87.5'/>
+</volume>
+<volume name='name77.5to-87.5'>
+	<materialref ref='density77.5to-87.5'/>
+	<solidref ref='ShieldElement77.5to-87.5'/>
+</volume>
+<volume name='name2.5to-82.5'>
+	<materialref ref='density2.5to-82.5'/>
+	<solidref ref='ShieldElement2.5to-82.5'/>
+</volume>
+<volume name='name7.5to-82.5'>
+	<materialref ref='density7.5to-82.5'/>
+	<solidref ref='ShieldElement7.5to-82.5'/>
+</volume>
+<volume name='name12.5to-82.5'>
+	<materialref ref='density12.5to-82.5'/>
+	<solidref ref='ShieldElement12.5to-82.5'/>
+</volume>
+<volume name='name17.5to-82.5'>
+	<materialref ref='density17.5to-82.5'/>
+	<solidref ref='ShieldElement17.5to-82.5'/>
+</volume>
+<volume name='name22.5to-82.5'>
+	<materialref ref='density22.5to-82.5'/>
+	<solidref ref='ShieldElement22.5to-82.5'/>
+</volume>
+<volume name='name27.5to-82.5'>
+	<materialref ref='density27.5to-82.5'/>
+	<solidref ref='ShieldElement27.5to-82.5'/>
+</volume>
+<volume name='name32.5to-82.5'>
+	<materialref ref='density32.5to-82.5'/>
+	<solidref ref='ShieldElement32.5to-82.5'/>
+</volume>
+<volume name='name37.5to-82.5'>
+	<materialref ref='density37.5to-82.5'/>
+	<solidref ref='ShieldElement37.5to-82.5'/>
+</volume>
+<volume name='name42.5to-82.5'>
+	<materialref ref='density42.5to-82.5'/>
+	<solidref ref='ShieldElement42.5to-82.5'/>
+</volume>
+<volume name='name47.5to-82.5'>
+	<materialref ref='density47.5to-82.5'/>
+	<solidref ref='ShieldElement47.5to-82.5'/>
+</volume>
+<volume name='name52.5to-82.5'>
+	<materialref ref='density52.5to-82.5'/>
+	<solidref ref='ShieldElement52.5to-82.5'/>
+</volume>
+<volume name='name57.5to-82.5'>
+	<materialref ref='density57.5to-82.5'/>
+	<solidref ref='ShieldElement57.5to-82.5'/>
+</volume>
+<volume name='name62.5to-82.5'>
+	<materialref ref='density62.5to-82.5'/>
+	<solidref ref='ShieldElement62.5to-82.5'/>
+</volume>
+<volume name='name67.5to-82.5'>
+	<materialref ref='density67.5to-82.5'/>
+	<solidref ref='ShieldElement67.5to-82.5'/>
+</volume>
+<volume name='name72.5to-82.5'>
+	<materialref ref='density72.5to-82.5'/>
+	<solidref ref='ShieldElement72.5to-82.5'/>
+</volume>
+<volume name='name2.5to-77.5'>
+	<materialref ref='density2.5to-77.5'/>
+	<solidref ref='ShieldElement2.5to-77.5'/>
+</volume>
+<volume name='name7.5to-77.5'>
+	<materialref ref='density7.5to-77.5'/>
+	<solidref ref='ShieldElement7.5to-77.5'/>
+</volume>
+<volume name='name12.5to-77.5'>
+	<materialref ref='density12.5to-77.5'/>
+	<solidref ref='ShieldElement12.5to-77.5'/>
+</volume>
+<volume name='name17.5to-77.5'>
+	<materialref ref='density17.5to-77.5'/>
+	<solidref ref='ShieldElement17.5to-77.5'/>
+</volume>
+<volume name='name22.5to-77.5'>
+	<materialref ref='density22.5to-77.5'/>
+	<solidref ref='ShieldElement22.5to-77.5'/>
+</volume>
+<volume name='name27.5to-77.5'>
+	<materialref ref='density27.5to-77.5'/>
+	<solidref ref='ShieldElement27.5to-77.5'/>
+</volume>
+<volume name='name32.5to-77.5'>
+	<materialref ref='density32.5to-77.5'/>
+	<solidref ref='ShieldElement32.5to-77.5'/>
+</volume>
+<volume name='name37.5to-77.5'>
+	<materialref ref='density37.5to-77.5'/>
+	<solidref ref='ShieldElement37.5to-77.5'/>
+</volume>
+<volume name='name42.5to-77.5'>
+	<materialref ref='density42.5to-77.5'/>
+	<solidref ref='ShieldElement42.5to-77.5'/>
+</volume>
+<volume name='name47.5to-77.5'>
+	<materialref ref='density47.5to-77.5'/>
+	<solidref ref='ShieldElement47.5to-77.5'/>
+</volume>
+<volume name='name52.5to-77.5'>
+	<materialref ref='density52.5to-77.5'/>
+	<solidref ref='ShieldElement52.5to-77.5'/>
+</volume>
+<volume name='name57.5to-77.5'>
+	<materialref ref='density57.5to-77.5'/>
+	<solidref ref='ShieldElement57.5to-77.5'/>
+</volume>
+<volume name='name62.5to-77.5'>
+	<materialref ref='density62.5to-77.5'/>
+	<solidref ref='ShieldElement62.5to-77.5'/>
+</volume>
+<volume name='name67.5to-77.5'>
+	<materialref ref='density67.5to-77.5'/>
+	<solidref ref='ShieldElement67.5to-77.5'/>
+</volume>
+<volume name='name2.5to-72.5'>
+	<materialref ref='density2.5to-72.5'/>
+	<solidref ref='ShieldElement2.5to-72.5'/>
+</volume>
+<volume name='name7.5to-72.5'>
+	<materialref ref='density7.5to-72.5'/>
+	<solidref ref='ShieldElement7.5to-72.5'/>
+</volume>
+<volume name='name12.5to-72.5'>
+	<materialref ref='density12.5to-72.5'/>
+	<solidref ref='ShieldElement12.5to-72.5'/>
+</volume>
+<volume name='name17.5to-72.5'>
+	<materialref ref='density17.5to-72.5'/>
+	<solidref ref='ShieldElement17.5to-72.5'/>
+</volume>
+<volume name='name22.5to-72.5'>
+	<materialref ref='density22.5to-72.5'/>
+	<solidref ref='ShieldElement22.5to-72.5'/>
+</volume>
+<volume name='name27.5to-72.5'>
+	<materialref ref='density27.5to-72.5'/>
+	<solidref ref='ShieldElement27.5to-72.5'/>
+</volume>
+<volume name='name32.5to-72.5'>
+	<materialref ref='density32.5to-72.5'/>
+	<solidref ref='ShieldElement32.5to-72.5'/>
+</volume>
+<volume name='name37.5to-72.5'>
+	<materialref ref='density37.5to-72.5'/>
+	<solidref ref='ShieldElement37.5to-72.5'/>
+</volume>
+<volume name='name42.5to-72.5'>
+	<materialref ref='density42.5to-72.5'/>
+	<solidref ref='ShieldElement42.5to-72.5'/>
+</volume>
+<volume name='name47.5to-72.5'>
+	<materialref ref='density47.5to-72.5'/>
+	<solidref ref='ShieldElement47.5to-72.5'/>
+</volume>
+<volume name='name52.5to-72.5'>
+	<materialref ref='density52.5to-72.5'/>
+	<solidref ref='ShieldElement52.5to-72.5'/>
+</volume>
+<volume name='name57.5to-72.5'>
+	<materialref ref='density57.5to-72.5'/>
+	<solidref ref='ShieldElement57.5to-72.5'/>
+</volume>
+<volume name='name62.5to-72.5'>
+	<materialref ref='density62.5to-72.5'/>
+	<solidref ref='ShieldElement62.5to-72.5'/>
+</volume>
+<volume name='name2.5to-67.5'>
+	<materialref ref='density2.5to-67.5'/>
+	<solidref ref='ShieldElement2.5to-67.5'/>
+</volume>
+<volume name='name7.5to-67.5'>
+	<materialref ref='density7.5to-67.5'/>
+	<solidref ref='ShieldElement7.5to-67.5'/>
+</volume>
+<volume name='name12.5to-67.5'>
+	<materialref ref='density12.5to-67.5'/>
+	<solidref ref='ShieldElement12.5to-67.5'/>
+</volume>
+<volume name='name17.5to-67.5'>
+	<materialref ref='density17.5to-67.5'/>
+	<solidref ref='ShieldElement17.5to-67.5'/>
+</volume>
+<volume name='name22.5to-67.5'>
+	<materialref ref='density22.5to-67.5'/>
+	<solidref ref='ShieldElement22.5to-67.5'/>
+</volume>
+<volume name='name27.5to-67.5'>
+	<materialref ref='density27.5to-67.5'/>
+	<solidref ref='ShieldElement27.5to-67.5'/>
+</volume>
+<volume name='name32.5to-67.5'>
+	<materialref ref='density32.5to-67.5'/>
+	<solidref ref='ShieldElement32.5to-67.5'/>
+</volume>
+<volume name='name37.5to-67.5'>
+	<materialref ref='density37.5to-67.5'/>
+	<solidref ref='ShieldElement37.5to-67.5'/>
+</volume>
+<volume name='name42.5to-67.5'>
+	<materialref ref='density42.5to-67.5'/>
+	<solidref ref='ShieldElement42.5to-67.5'/>
+</volume>
+<volume name='name47.5to-67.5'>
+	<materialref ref='density47.5to-67.5'/>
+	<solidref ref='ShieldElement47.5to-67.5'/>
+</volume>
+<volume name='name52.5to-67.5'>
+	<materialref ref='density52.5to-67.5'/>
+	<solidref ref='ShieldElement52.5to-67.5'/>
+</volume>
+<volume name='name57.5to-67.5'>
+	<materialref ref='density57.5to-67.5'/>
+	<solidref ref='ShieldElement57.5to-67.5'/>
+</volume>
+<volume name='name2.5to-62.5'>
+	<materialref ref='density2.5to-62.5'/>
+	<solidref ref='ShieldElement2.5to-62.5'/>
+</volume>
+<volume name='name7.5to-62.5'>
+	<materialref ref='density7.5to-62.5'/>
+	<solidref ref='ShieldElement7.5to-62.5'/>
+</volume>
+<volume name='name12.5to-62.5'>
+	<materialref ref='density12.5to-62.5'/>
+	<solidref ref='ShieldElement12.5to-62.5'/>
+</volume>
+<volume name='name17.5to-62.5'>
+	<materialref ref='density17.5to-62.5'/>
+	<solidref ref='ShieldElement17.5to-62.5'/>
+</volume>
+<volume name='name22.5to-62.5'>
+	<materialref ref='density22.5to-62.5'/>
+	<solidref ref='ShieldElement22.5to-62.5'/>
+</volume>
+<volume name='name27.5to-62.5'>
+	<materialref ref='density27.5to-62.5'/>
+	<solidref ref='ShieldElement27.5to-62.5'/>
+</volume>
+<volume name='name32.5to-62.5'>
+	<materialref ref='density32.5to-62.5'/>
+	<solidref ref='ShieldElement32.5to-62.5'/>
+</volume>
+<volume name='name37.5to-62.5'>
+	<materialref ref='density37.5to-62.5'/>
+	<solidref ref='ShieldElement37.5to-62.5'/>
+</volume>
+<volume name='name42.5to-62.5'>
+	<materialref ref='density42.5to-62.5'/>
+	<solidref ref='ShieldElement42.5to-62.5'/>
+</volume>
+<volume name='name47.5to-62.5'>
+	<materialref ref='density47.5to-62.5'/>
+	<solidref ref='ShieldElement47.5to-62.5'/>
+</volume>
+<volume name='name52.5to-62.5'>
+	<materialref ref='density52.5to-62.5'/>
+	<solidref ref='ShieldElement52.5to-62.5'/>
+</volume>
+<volume name='name57.5to-62.5'>
+	<materialref ref='density57.5to-62.5'/>
+	<solidref ref='ShieldElement57.5to-62.5'/>
+</volume>
+<volume name='name2.5to-57.5'>
+	<materialref ref='density2.5to-57.5'/>
+	<solidref ref='ShieldElement2.5to-57.5'/>
+</volume>
+<volume name='name7.5to-57.5'>
+	<materialref ref='density7.5to-57.5'/>
+	<solidref ref='ShieldElement7.5to-57.5'/>
+</volume>
+<volume name='name12.5to-57.5'>
+	<materialref ref='density12.5to-57.5'/>
+	<solidref ref='ShieldElement12.5to-57.5'/>
+</volume>
+<volume name='name17.5to-57.5'>
+	<materialref ref='density17.5to-57.5'/>
+	<solidref ref='ShieldElement17.5to-57.5'/>
+</volume>
+<volume name='name22.5to-57.5'>
+	<materialref ref='density22.5to-57.5'/>
+	<solidref ref='ShieldElement22.5to-57.5'/>
+</volume>
+<volume name='name27.5to-57.5'>
+	<materialref ref='density27.5to-57.5'/>
+	<solidref ref='ShieldElement27.5to-57.5'/>
+</volume>
+<volume name='name32.5to-57.5'>
+	<materialref ref='density32.5to-57.5'/>
+	<solidref ref='ShieldElement32.5to-57.5'/>
+</volume>
+<volume name='name37.5to-57.5'>
+	<materialref ref='density37.5to-57.5'/>
+	<solidref ref='ShieldElement37.5to-57.5'/>
+</volume>
+<volume name='name42.5to-57.5'>
+	<materialref ref='density42.5to-57.5'/>
+	<solidref ref='ShieldElement42.5to-57.5'/>
+</volume>
+<volume name='name47.5to-57.5'>
+	<materialref ref='density47.5to-57.5'/>
+	<solidref ref='ShieldElement47.5to-57.5'/>
+</volume>
+<volume name='name52.5to-57.5'>
+	<materialref ref='density52.5to-57.5'/>
+	<solidref ref='ShieldElement52.5to-57.5'/>
+</volume>
+<volume name='name2.5to-52.5'>
+	<materialref ref='density2.5to-52.5'/>
+	<solidref ref='ShieldElement2.5to-52.5'/>
+</volume>
+<volume name='name7.5to-52.5'>
+	<materialref ref='density7.5to-52.5'/>
+	<solidref ref='ShieldElement7.5to-52.5'/>
+</volume>
+<volume name='name12.5to-52.5'>
+	<materialref ref='density12.5to-52.5'/>
+	<solidref ref='ShieldElement12.5to-52.5'/>
+</volume>
+<volume name='name17.5to-52.5'>
+	<materialref ref='density17.5to-52.5'/>
+	<solidref ref='ShieldElement17.5to-52.5'/>
+</volume>
+<volume name='name22.5to-52.5'>
+	<materialref ref='density22.5to-52.5'/>
+	<solidref ref='ShieldElement22.5to-52.5'/>
+</volume>
+<volume name='name27.5to-52.5'>
+	<materialref ref='density27.5to-52.5'/>
+	<solidref ref='ShieldElement27.5to-52.5'/>
+</volume>
+<volume name='name32.5to-52.5'>
+	<materialref ref='density32.5to-52.5'/>
+	<solidref ref='ShieldElement32.5to-52.5'/>
+</volume>
+<volume name='name37.5to-52.5'>
+	<materialref ref='density37.5to-52.5'/>
+	<solidref ref='ShieldElement37.5to-52.5'/>
+</volume>
+<volume name='name42.5to-52.5'>
+	<materialref ref='density42.5to-52.5'/>
+	<solidref ref='ShieldElement42.5to-52.5'/>
+</volume>
+<volume name='name47.5to-52.5'>
+	<materialref ref='density47.5to-52.5'/>
+	<solidref ref='ShieldElement47.5to-52.5'/>
+</volume>
+<volume name='name2.5to-47.5'>
+	<materialref ref='density2.5to-47.5'/>
+	<solidref ref='ShieldElement2.5to-47.5'/>
+</volume>
+<volume name='name7.5to-47.5'>
+	<materialref ref='density7.5to-47.5'/>
+	<solidref ref='ShieldElement7.5to-47.5'/>
+</volume>
+<volume name='name12.5to-47.5'>
+	<materialref ref='density12.5to-47.5'/>
+	<solidref ref='ShieldElement12.5to-47.5'/>
+</volume>
+<volume name='name17.5to-47.5'>
+	<materialref ref='density17.5to-47.5'/>
+	<solidref ref='ShieldElement17.5to-47.5'/>
+</volume>
+<volume name='name22.5to-47.5'>
+	<materialref ref='density22.5to-47.5'/>
+	<solidref ref='ShieldElement22.5to-47.5'/>
+</volume>
+<volume name='name27.5to-47.5'>
+	<materialref ref='density27.5to-47.5'/>
+	<solidref ref='ShieldElement27.5to-47.5'/>
+</volume>
+<volume name='name32.5to-47.5'>
+	<materialref ref='density32.5to-47.5'/>
+	<solidref ref='ShieldElement32.5to-47.5'/>
+</volume>
+<volume name='name37.5to-47.5'>
+	<materialref ref='density37.5to-47.5'/>
+	<solidref ref='ShieldElement37.5to-47.5'/>
+</volume>
+<volume name='name42.5to-47.5'>
+	<materialref ref='density42.5to-47.5'/>
+	<solidref ref='ShieldElement42.5to-47.5'/>
+</volume>
+<volume name='name47.5to-47.5'>
+	<materialref ref='density47.5to-47.5'/>
+	<solidref ref='ShieldElement47.5to-47.5'/>
+</volume>
+<volume name='name2.5to-42.5'>
+	<materialref ref='density2.5to-42.5'/>
+	<solidref ref='ShieldElement2.5to-42.5'/>
+</volume>
+<volume name='name7.5to-42.5'>
+	<materialref ref='density7.5to-42.5'/>
+	<solidref ref='ShieldElement7.5to-42.5'/>
+</volume>
+<volume name='name12.5to-42.5'>
+	<materialref ref='density12.5to-42.5'/>
+	<solidref ref='ShieldElement12.5to-42.5'/>
+</volume>
+<volume name='name17.5to-42.5'>
+	<materialref ref='density17.5to-42.5'/>
+	<solidref ref='ShieldElement17.5to-42.5'/>
+</volume>
+<volume name='name22.5to-42.5'>
+	<materialref ref='density22.5to-42.5'/>
+	<solidref ref='ShieldElement22.5to-42.5'/>
+</volume>
+<volume name='name27.5to-42.5'>
+	<materialref ref='density27.5to-42.5'/>
+	<solidref ref='ShieldElement27.5to-42.5'/>
+</volume>
+<volume name='name32.5to-42.5'>
+	<materialref ref='density32.5to-42.5'/>
+	<solidref ref='ShieldElement32.5to-42.5'/>
+</volume>
+<volume name='name37.5to-42.5'>
+	<materialref ref='density37.5to-42.5'/>
+	<solidref ref='ShieldElement37.5to-42.5'/>
+</volume>
+<volume name='name42.5to-42.5'>
+	<materialref ref='density42.5to-42.5'/>
+	<solidref ref='ShieldElement42.5to-42.5'/>
+</volume>
+<volume name='name47.5to-42.5'>
+	<materialref ref='density47.5to-42.5'/>
+	<solidref ref='ShieldElement47.5to-42.5'/>
+</volume>
+<volume name='name2.5to-37.5'>
+	<materialref ref='density2.5to-37.5'/>
+	<solidref ref='ShieldElement2.5to-37.5'/>
+</volume>
+<volume name='name7.5to-37.5'>
+	<materialref ref='density7.5to-37.5'/>
+	<solidref ref='ShieldElement7.5to-37.5'/>
+</volume>
+<volume name='name12.5to-37.5'>
+	<materialref ref='density12.5to-37.5'/>
+	<solidref ref='ShieldElement12.5to-37.5'/>
+</volume>
+<volume name='name17.5to-37.5'>
+	<materialref ref='density17.5to-37.5'/>
+	<solidref ref='ShieldElement17.5to-37.5'/>
+</volume>
+<volume name='name22.5to-37.5'>
+	<materialref ref='density22.5to-37.5'/>
+	<solidref ref='ShieldElement22.5to-37.5'/>
+</volume>
+<volume name='name27.5to-37.5'>
+	<materialref ref='density27.5to-37.5'/>
+	<solidref ref='ShieldElement27.5to-37.5'/>
+</volume>
+<volume name='name32.5to-37.5'>
+	<materialref ref='density32.5to-37.5'/>
+	<solidref ref='ShieldElement32.5to-37.5'/>
+</volume>
+<volume name='name37.5to-37.5'>
+	<materialref ref='density37.5to-37.5'/>
+	<solidref ref='ShieldElement37.5to-37.5'/>
+</volume>
+<volume name='name42.5to-37.5'>
+	<materialref ref='density42.5to-37.5'/>
+	<solidref ref='ShieldElement42.5to-37.5'/>
+</volume>
+<volume name='name2.5to-32.5'>
+	<materialref ref='density2.5to-32.5'/>
+	<solidref ref='ShieldElement2.5to-32.5'/>
+</volume>
+<volume name='name7.5to-32.5'>
+	<materialref ref='density7.5to-32.5'/>
+	<solidref ref='ShieldElement7.5to-32.5'/>
+</volume>
+<volume name='name12.5to-32.5'>
+	<materialref ref='density12.5to-32.5'/>
+	<solidref ref='ShieldElement12.5to-32.5'/>
+</volume>
+<volume name='name17.5to-32.5'>
+	<materialref ref='density17.5to-32.5'/>
+	<solidref ref='ShieldElement17.5to-32.5'/>
+</volume>
+<volume name='name22.5to-32.5'>
+	<materialref ref='density22.5to-32.5'/>
+	<solidref ref='ShieldElement22.5to-32.5'/>
+</volume>
+<volume name='name27.5to-32.5'>
+	<materialref ref='density27.5to-32.5'/>
+	<solidref ref='ShieldElement27.5to-32.5'/>
+</volume>
+<volume name='name32.5to-32.5'>
+	<materialref ref='density32.5to-32.5'/>
+	<solidref ref='ShieldElement32.5to-32.5'/>
+</volume>
+<volume name='name37.5to-32.5'>
+	<materialref ref='density37.5to-32.5'/>
+	<solidref ref='ShieldElement37.5to-32.5'/>
+</volume>
+<volume name='name42.5to-32.5'>
+	<materialref ref='density42.5to-32.5'/>
+	<solidref ref='ShieldElement42.5to-32.5'/>
+</volume>
+<volume name='name2.5to-27.5'>
+	<materialref ref='density2.5to-27.5'/>
+	<solidref ref='ShieldElement2.5to-27.5'/>
+</volume>
+<volume name='name7.5to-27.5'>
+	<materialref ref='density7.5to-27.5'/>
+	<solidref ref='ShieldElement7.5to-27.5'/>
+</volume>
+<volume name='name12.5to-27.5'>
+	<materialref ref='density12.5to-27.5'/>
+	<solidref ref='ShieldElement12.5to-27.5'/>
+</volume>
+<volume name='name17.5to-27.5'>
+	<materialref ref='density17.5to-27.5'/>
+	<solidref ref='ShieldElement17.5to-27.5'/>
+</volume>
+<volume name='name22.5to-27.5'>
+	<materialref ref='density22.5to-27.5'/>
+	<solidref ref='ShieldElement22.5to-27.5'/>
+</volume>
+<volume name='name27.5to-27.5'>
+	<materialref ref='density27.5to-27.5'/>
+	<solidref ref='ShieldElement27.5to-27.5'/>
+</volume>
+<volume name='name32.5to-27.5'>
+	<materialref ref='density32.5to-27.5'/>
+	<solidref ref='ShieldElement32.5to-27.5'/>
+</volume>
+<volume name='name37.5to-27.5'>
+	<materialref ref='density37.5to-27.5'/>
+	<solidref ref='ShieldElement37.5to-27.5'/>
+</volume>
+<volume name='name42.5to-27.5'>
+	<materialref ref='density42.5to-27.5'/>
+	<solidref ref='ShieldElement42.5to-27.5'/>
+</volume>
+<volume name='name2.5to-22.5'>
+	<materialref ref='density2.5to-22.5'/>
+	<solidref ref='ShieldElement2.5to-22.5'/>
+</volume>
+<volume name='name7.5to-22.5'>
+	<materialref ref='density7.5to-22.5'/>
+	<solidref ref='ShieldElement7.5to-22.5'/>
+</volume>
+<volume name='name12.5to-22.5'>
+	<materialref ref='density12.5to-22.5'/>
+	<solidref ref='ShieldElement12.5to-22.5'/>
+</volume>
+<volume name='name17.5to-22.5'>
+	<materialref ref='density17.5to-22.5'/>
+	<solidref ref='ShieldElement17.5to-22.5'/>
+</volume>
+<volume name='name22.5to-22.5'>
+	<materialref ref='density22.5to-22.5'/>
+	<solidref ref='ShieldElement22.5to-22.5'/>
+</volume>
+<volume name='name27.5to-22.5'>
+	<materialref ref='density27.5to-22.5'/>
+	<solidref ref='ShieldElement27.5to-22.5'/>
+</volume>
+<volume name='name32.5to-22.5'>
+	<materialref ref='density32.5to-22.5'/>
+	<solidref ref='ShieldElement32.5to-22.5'/>
+</volume>
+<volume name='name37.5to-22.5'>
+	<materialref ref='density37.5to-22.5'/>
+	<solidref ref='ShieldElement37.5to-22.5'/>
+</volume>
+<volume name='name2.5to-17.5'>
+	<materialref ref='density2.5to-17.5'/>
+	<solidref ref='ShieldElement2.5to-17.5'/>
+</volume>
+<volume name='name7.5to-17.5'>
+	<materialref ref='density7.5to-17.5'/>
+	<solidref ref='ShieldElement7.5to-17.5'/>
+</volume>
+<volume name='name12.5to-17.5'>
+	<materialref ref='density12.5to-17.5'/>
+	<solidref ref='ShieldElement12.5to-17.5'/>
+</volume>
+<volume name='name17.5to-17.5'>
+	<materialref ref='density17.5to-17.5'/>
+	<solidref ref='ShieldElement17.5to-17.5'/>
+</volume>
+<volume name='name22.5to-17.5'>
+	<materialref ref='density22.5to-17.5'/>
+	<solidref ref='ShieldElement22.5to-17.5'/>
+</volume>
+<volume name='name27.5to-17.5'>
+	<materialref ref='density27.5to-17.5'/>
+	<solidref ref='ShieldElement27.5to-17.5'/>
+</volume>
+<volume name='name32.5to-17.5'>
+	<materialref ref='density32.5to-17.5'/>
+	<solidref ref='ShieldElement32.5to-17.5'/>
+</volume>
+<volume name='name37.5to-17.5'>
+	<materialref ref='density37.5to-17.5'/>
+	<solidref ref='ShieldElement37.5to-17.5'/>
+</volume>
+<volume name='name2.5to-12.5'>
+	<materialref ref='density2.5to-12.5'/>
+	<solidref ref='ShieldElement2.5to-12.5'/>
+</volume>
+<volume name='name7.5to-12.5'>
+	<materialref ref='density7.5to-12.5'/>
+	<solidref ref='ShieldElement7.5to-12.5'/>
+</volume>
+<volume name='name12.5to-12.5'>
+	<materialref ref='density12.5to-12.5'/>
+	<solidref ref='ShieldElement12.5to-12.5'/>
+</volume>
+<volume name='name17.5to-12.5'>
+	<materialref ref='density17.5to-12.5'/>
+	<solidref ref='ShieldElement17.5to-12.5'/>
+</volume>
+<volume name='name22.5to-12.5'>
+	<materialref ref='density22.5to-12.5'/>
+	<solidref ref='ShieldElement22.5to-12.5'/>
+</volume>
+<volume name='name27.5to-12.5'>
+	<materialref ref='density27.5to-12.5'/>
+	<solidref ref='ShieldElement27.5to-12.5'/>
+</volume>
+<volume name='name32.5to-12.5'>
+	<materialref ref='density32.5to-12.5'/>
+	<solidref ref='ShieldElement32.5to-12.5'/>
+</volume>
+<volume name='name37.5to-12.5'>
+	<materialref ref='density37.5to-12.5'/>
+	<solidref ref='ShieldElement37.5to-12.5'/>
+</volume>
+<volume name='name2.5to-7.5'>
+	<materialref ref='density2.5to-7.5'/>
+	<solidref ref='ShieldElement2.5to-7.5'/>
+</volume>
+<volume name='name7.5to-7.5'>
+	<materialref ref='density7.5to-7.5'/>
+	<solidref ref='ShieldElement7.5to-7.5'/>
+</volume>
+<volume name='name12.5to-7.5'>
+	<materialref ref='density12.5to-7.5'/>
+	<solidref ref='ShieldElement12.5to-7.5'/>
+</volume>
+<volume name='name17.5to-7.5'>
+	<materialref ref='density17.5to-7.5'/>
+	<solidref ref='ShieldElement17.5to-7.5'/>
+</volume>
+<volume name='name22.5to-7.5'>
+	<materialref ref='density22.5to-7.5'/>
+	<solidref ref='ShieldElement22.5to-7.5'/>
+</volume>
+<volume name='name27.5to-7.5'>
+	<materialref ref='density27.5to-7.5'/>
+	<solidref ref='ShieldElement27.5to-7.5'/>
+</volume>
+<volume name='name32.5to-7.5'>
+	<materialref ref='density32.5to-7.5'/>
+	<solidref ref='ShieldElement32.5to-7.5'/>
+</volume>
+<volume name='name37.5to-7.5'>
+	<materialref ref='density37.5to-7.5'/>
+	<solidref ref='ShieldElement37.5to-7.5'/>
+</volume>
+<volume name='name2.5to-2.5'>
+	<materialref ref='density2.5to-2.5'/>
+	<solidref ref='ShieldElement2.5to-2.5'/>
+</volume>
+<volume name='name7.5to-2.5'>
+	<materialref ref='density7.5to-2.5'/>
+	<solidref ref='ShieldElement7.5to-2.5'/>
+</volume>
+<volume name='name12.5to-2.5'>
+	<materialref ref='density12.5to-2.5'/>
+	<solidref ref='ShieldElement12.5to-2.5'/>
+</volume>
+<volume name='name17.5to-2.5'>
+	<materialref ref='density17.5to-2.5'/>
+	<solidref ref='ShieldElement17.5to-2.5'/>
+</volume>
+<volume name='name22.5to-2.5'>
+	<materialref ref='density22.5to-2.5'/>
+	<solidref ref='ShieldElement22.5to-2.5'/>
+</volume>
+<volume name='name27.5to-2.5'>
+	<materialref ref='density27.5to-2.5'/>
+	<solidref ref='ShieldElement27.5to-2.5'/>
+</volume>
+<volume name='name32.5to-2.5'>
+	<materialref ref='density32.5to-2.5'/>
+	<solidref ref='ShieldElement32.5to-2.5'/>
+</volume>
+<volume name='name37.5to-2.5'>
+	<materialref ref='density37.5to-2.5'/>
+	<solidref ref='ShieldElement37.5to-2.5'/>
+</volume>
+<volume name='name2.5to2.5'>
+	<materialref ref='density2.5to2.5'/>
+	<solidref ref='ShieldElement2.5to2.5'/>
+</volume>
+<volume name='name7.5to2.5'>
+	<materialref ref='density7.5to2.5'/>
+	<solidref ref='ShieldElement7.5to2.5'/>
+</volume>
+<volume name='name12.5to2.5'>
+	<materialref ref='density12.5to2.5'/>
+	<solidref ref='ShieldElement12.5to2.5'/>
+</volume>
+<volume name='name17.5to2.5'>
+	<materialref ref='density17.5to2.5'/>
+	<solidref ref='ShieldElement17.5to2.5'/>
+</volume>
+<volume name='name22.5to2.5'>
+	<materialref ref='density22.5to2.5'/>
+	<solidref ref='ShieldElement22.5to2.5'/>
+</volume>
+<volume name='name27.5to2.5'>
+	<materialref ref='density27.5to2.5'/>
+	<solidref ref='ShieldElement27.5to2.5'/>
+</volume>
+<volume name='name32.5to2.5'>
+	<materialref ref='density32.5to2.5'/>
+	<solidref ref='ShieldElement32.5to2.5'/>
+</volume>
+<volume name='name37.5to2.5'>
+	<materialref ref='density37.5to2.5'/>
+	<solidref ref='ShieldElement37.5to2.5'/>
+</volume>
+<volume name='name2.5to7.5'>
+	<materialref ref='density2.5to7.5'/>
+	<solidref ref='ShieldElement2.5to7.5'/>
+</volume>
+<volume name='name7.5to7.5'>
+	<materialref ref='density7.5to7.5'/>
+	<solidref ref='ShieldElement7.5to7.5'/>
+</volume>
+<volume name='name12.5to7.5'>
+	<materialref ref='density12.5to7.5'/>
+	<solidref ref='ShieldElement12.5to7.5'/>
+</volume>
+<volume name='name17.5to7.5'>
+	<materialref ref='density17.5to7.5'/>
+	<solidref ref='ShieldElement17.5to7.5'/>
+</volume>
+<volume name='name22.5to7.5'>
+	<materialref ref='density22.5to7.5'/>
+	<solidref ref='ShieldElement22.5to7.5'/>
+</volume>
+<volume name='name27.5to7.5'>
+	<materialref ref='density27.5to7.5'/>
+	<solidref ref='ShieldElement27.5to7.5'/>
+</volume>
+<volume name='name32.5to7.5'>
+	<materialref ref='density32.5to7.5'/>
+	<solidref ref='ShieldElement32.5to7.5'/>
+</volume>
+<volume name='name37.5to7.5'>
+	<materialref ref='density37.5to7.5'/>
+	<solidref ref='ShieldElement37.5to7.5'/>
+</volume>
+<volume name='name2.5to12.5'>
+	<materialref ref='density2.5to12.5'/>
+	<solidref ref='ShieldElement2.5to12.5'/>
+</volume>
+<volume name='name7.5to12.5'>
+	<materialref ref='density7.5to12.5'/>
+	<solidref ref='ShieldElement7.5to12.5'/>
+</volume>
+<volume name='name12.5to12.5'>
+	<materialref ref='density12.5to12.5'/>
+	<solidref ref='ShieldElement12.5to12.5'/>
+</volume>
+<volume name='name17.5to12.5'>
+	<materialref ref='density17.5to12.5'/>
+	<solidref ref='ShieldElement17.5to12.5'/>
+</volume>
+<volume name='name22.5to12.5'>
+	<materialref ref='density22.5to12.5'/>
+	<solidref ref='ShieldElement22.5to12.5'/>
+</volume>
+<volume name='name27.5to12.5'>
+	<materialref ref='density27.5to12.5'/>
+	<solidref ref='ShieldElement27.5to12.5'/>
+</volume>
+<volume name='name32.5to12.5'>
+	<materialref ref='density32.5to12.5'/>
+	<solidref ref='ShieldElement32.5to12.5'/>
+</volume>
+<volume name='name37.5to12.5'>
+	<materialref ref='density37.5to12.5'/>
+	<solidref ref='ShieldElement37.5to12.5'/>
+</volume>
+<volume name='name2.5to17.5'>
+	<materialref ref='density2.5to17.5'/>
+	<solidref ref='ShieldElement2.5to17.5'/>
+</volume>
+<volume name='name7.5to17.5'>
+	<materialref ref='density7.5to17.5'/>
+	<solidref ref='ShieldElement7.5to17.5'/>
+</volume>
+<volume name='name12.5to17.5'>
+	<materialref ref='density12.5to17.5'/>
+	<solidref ref='ShieldElement12.5to17.5'/>
+</volume>
+<volume name='name17.5to17.5'>
+	<materialref ref='density17.5to17.5'/>
+	<solidref ref='ShieldElement17.5to17.5'/>
+</volume>
+<volume name='name22.5to17.5'>
+	<materialref ref='density22.5to17.5'/>
+	<solidref ref='ShieldElement22.5to17.5'/>
+</volume>
+<volume name='name27.5to17.5'>
+	<materialref ref='density27.5to17.5'/>
+	<solidref ref='ShieldElement27.5to17.5'/>
+</volume>
+<volume name='name32.5to17.5'>
+	<materialref ref='density32.5to17.5'/>
+	<solidref ref='ShieldElement32.5to17.5'/>
+</volume>
+<volume name='name37.5to17.5'>
+	<materialref ref='density37.5to17.5'/>
+	<solidref ref='ShieldElement37.5to17.5'/>
+</volume>
+<volume name='name2.5to22.5'>
+	<materialref ref='density2.5to22.5'/>
+	<solidref ref='ShieldElement2.5to22.5'/>
+</volume>
+<volume name='name7.5to22.5'>
+	<materialref ref='density7.5to22.5'/>
+	<solidref ref='ShieldElement7.5to22.5'/>
+</volume>
+<volume name='name12.5to22.5'>
+	<materialref ref='density12.5to22.5'/>
+	<solidref ref='ShieldElement12.5to22.5'/>
+</volume>
+<volume name='name17.5to22.5'>
+	<materialref ref='density17.5to22.5'/>
+	<solidref ref='ShieldElement17.5to22.5'/>
+</volume>
+<volume name='name22.5to22.5'>
+	<materialref ref='density22.5to22.5'/>
+	<solidref ref='ShieldElement22.5to22.5'/>
+</volume>
+<volume name='name27.5to22.5'>
+	<materialref ref='density27.5to22.5'/>
+	<solidref ref='ShieldElement27.5to22.5'/>
+</volume>
+<volume name='name32.5to22.5'>
+	<materialref ref='density32.5to22.5'/>
+	<solidref ref='ShieldElement32.5to22.5'/>
+</volume>
+<volume name='name37.5to22.5'>
+	<materialref ref='density37.5to22.5'/>
+	<solidref ref='ShieldElement37.5to22.5'/>
+</volume>
+<volume name='name42.5to22.5'>
+	<materialref ref='density42.5to22.5'/>
+	<solidref ref='ShieldElement42.5to22.5'/>
+</volume>
+<volume name='name2.5to27.5'>
+	<materialref ref='density2.5to27.5'/>
+	<solidref ref='ShieldElement2.5to27.5'/>
+</volume>
+<volume name='name7.5to27.5'>
+	<materialref ref='density7.5to27.5'/>
+	<solidref ref='ShieldElement7.5to27.5'/>
+</volume>
+<volume name='name12.5to27.5'>
+	<materialref ref='density12.5to27.5'/>
+	<solidref ref='ShieldElement12.5to27.5'/>
+</volume>
+<volume name='name17.5to27.5'>
+	<materialref ref='density17.5to27.5'/>
+	<solidref ref='ShieldElement17.5to27.5'/>
+</volume>
+<volume name='name22.5to27.5'>
+	<materialref ref='density22.5to27.5'/>
+	<solidref ref='ShieldElement22.5to27.5'/>
+</volume>
+<volume name='name27.5to27.5'>
+	<materialref ref='density27.5to27.5'/>
+	<solidref ref='ShieldElement27.5to27.5'/>
+</volume>
+<volume name='name32.5to27.5'>
+	<materialref ref='density32.5to27.5'/>
+	<solidref ref='ShieldElement32.5to27.5'/>
+</volume>
+<volume name='name37.5to27.5'>
+	<materialref ref='density37.5to27.5'/>
+	<solidref ref='ShieldElement37.5to27.5'/>
+</volume>
+<volume name='name42.5to27.5'>
+	<materialref ref='density42.5to27.5'/>
+	<solidref ref='ShieldElement42.5to27.5'/>
+</volume>
+<volume name='name2.5to32.5'>
+	<materialref ref='density2.5to32.5'/>
+	<solidref ref='ShieldElement2.5to32.5'/>
+</volume>
+<volume name='name7.5to32.5'>
+	<materialref ref='density7.5to32.5'/>
+	<solidref ref='ShieldElement7.5to32.5'/>
+</volume>
+<volume name='name12.5to32.5'>
+	<materialref ref='density12.5to32.5'/>
+	<solidref ref='ShieldElement12.5to32.5'/>
+</volume>
+<volume name='name17.5to32.5'>
+	<materialref ref='density17.5to32.5'/>
+	<solidref ref='ShieldElement17.5to32.5'/>
+</volume>
+<volume name='name22.5to32.5'>
+	<materialref ref='density22.5to32.5'/>
+	<solidref ref='ShieldElement22.5to32.5'/>
+</volume>
+<volume name='name27.5to32.5'>
+	<materialref ref='density27.5to32.5'/>
+	<solidref ref='ShieldElement27.5to32.5'/>
+</volume>
+<volume name='name32.5to32.5'>
+	<materialref ref='density32.5to32.5'/>
+	<solidref ref='ShieldElement32.5to32.5'/>
+</volume>
+<volume name='name37.5to32.5'>
+	<materialref ref='density37.5to32.5'/>
+	<solidref ref='ShieldElement37.5to32.5'/>
+</volume>
+<volume name='name42.5to32.5'>
+	<materialref ref='density42.5to32.5'/>
+	<solidref ref='ShieldElement42.5to32.5'/>
+</volume>
+<volume name='name2.5to37.5'>
+	<materialref ref='density2.5to37.5'/>
+	<solidref ref='ShieldElement2.5to37.5'/>
+</volume>
+<volume name='name7.5to37.5'>
+	<materialref ref='density7.5to37.5'/>
+	<solidref ref='ShieldElement7.5to37.5'/>
+</volume>
+<volume name='name12.5to37.5'>
+	<materialref ref='density12.5to37.5'/>
+	<solidref ref='ShieldElement12.5to37.5'/>
+</volume>
+<volume name='name17.5to37.5'>
+	<materialref ref='density17.5to37.5'/>
+	<solidref ref='ShieldElement17.5to37.5'/>
+</volume>
+<volume name='name22.5to37.5'>
+	<materialref ref='density22.5to37.5'/>
+	<solidref ref='ShieldElement22.5to37.5'/>
+</volume>
+<volume name='name27.5to37.5'>
+	<materialref ref='density27.5to37.5'/>
+	<solidref ref='ShieldElement27.5to37.5'/>
+</volume>
+<volume name='name32.5to37.5'>
+	<materialref ref='density32.5to37.5'/>
+	<solidref ref='ShieldElement32.5to37.5'/>
+</volume>
+<volume name='name37.5to37.5'>
+	<materialref ref='density37.5to37.5'/>
+	<solidref ref='ShieldElement37.5to37.5'/>
+</volume>
+<volume name='name42.5to37.5'>
+	<materialref ref='density42.5to37.5'/>
+	<solidref ref='ShieldElement42.5to37.5'/>
+</volume>
+<volume name='name47.5to37.5'>
+	<materialref ref='density47.5to37.5'/>
+	<solidref ref='ShieldElement47.5to37.5'/>
+</volume>
+<volume name='name2.5to42.5'>
+	<materialref ref='density2.5to42.5'/>
+	<solidref ref='ShieldElement2.5to42.5'/>
+</volume>
+<volume name='name7.5to42.5'>
+	<materialref ref='density7.5to42.5'/>
+	<solidref ref='ShieldElement7.5to42.5'/>
+</volume>
+<volume name='name12.5to42.5'>
+	<materialref ref='density12.5to42.5'/>
+	<solidref ref='ShieldElement12.5to42.5'/>
+</volume>
+<volume name='name17.5to42.5'>
+	<materialref ref='density17.5to42.5'/>
+	<solidref ref='ShieldElement17.5to42.5'/>
+</volume>
+<volume name='name22.5to42.5'>
+	<materialref ref='density22.5to42.5'/>
+	<solidref ref='ShieldElement22.5to42.5'/>
+</volume>
+<volume name='name27.5to42.5'>
+	<materialref ref='density27.5to42.5'/>
+	<solidref ref='ShieldElement27.5to42.5'/>
+</volume>
+<volume name='name32.5to42.5'>
+	<materialref ref='density32.5to42.5'/>
+	<solidref ref='ShieldElement32.5to42.5'/>
+</volume>
+<volume name='name37.5to42.5'>
+	<materialref ref='density37.5to42.5'/>
+	<solidref ref='ShieldElement37.5to42.5'/>
+</volume>
+<volume name='name42.5to42.5'>
+	<materialref ref='density42.5to42.5'/>
+	<solidref ref='ShieldElement42.5to42.5'/>
+</volume>
+<volume name='name47.5to42.5'>
+	<materialref ref='density47.5to42.5'/>
+	<solidref ref='ShieldElement47.5to42.5'/>
+</volume>
+<volume name='name2.5to47.5'>
+	<materialref ref='density2.5to47.5'/>
+	<solidref ref='ShieldElement2.5to47.5'/>
+</volume>
+<volume name='name7.5to47.5'>
+	<materialref ref='density7.5to47.5'/>
+	<solidref ref='ShieldElement7.5to47.5'/>
+</volume>
+<volume name='name12.5to47.5'>
+	<materialref ref='density12.5to47.5'/>
+	<solidref ref='ShieldElement12.5to47.5'/>
+</volume>
+<volume name='name17.5to47.5'>
+	<materialref ref='density17.5to47.5'/>
+	<solidref ref='ShieldElement17.5to47.5'/>
+</volume>
+<volume name='name22.5to47.5'>
+	<materialref ref='density22.5to47.5'/>
+	<solidref ref='ShieldElement22.5to47.5'/>
+</volume>
+<volume name='name27.5to47.5'>
+	<materialref ref='density27.5to47.5'/>
+	<solidref ref='ShieldElement27.5to47.5'/>
+</volume>
+<volume name='name32.5to47.5'>
+	<materialref ref='density32.5to47.5'/>
+	<solidref ref='ShieldElement32.5to47.5'/>
+</volume>
+<volume name='name37.5to47.5'>
+	<materialref ref='density37.5to47.5'/>
+	<solidref ref='ShieldElement37.5to47.5'/>
+</volume>
+<volume name='name42.5to47.5'>
+	<materialref ref='density42.5to47.5'/>
+	<solidref ref='ShieldElement42.5to47.5'/>
+</volume>
+<volume name='name47.5to47.5'>
+	<materialref ref='density47.5to47.5'/>
+	<solidref ref='ShieldElement47.5to47.5'/>
+</volume>
+<volume name='name2.5to52.5'>
+	<materialref ref='density2.5to52.5'/>
+	<solidref ref='ShieldElement2.5to52.5'/>
+</volume>
+<volume name='name7.5to52.5'>
+	<materialref ref='density7.5to52.5'/>
+	<solidref ref='ShieldElement7.5to52.5'/>
+</volume>
+<volume name='name12.5to52.5'>
+	<materialref ref='density12.5to52.5'/>
+	<solidref ref='ShieldElement12.5to52.5'/>
+</volume>
+<volume name='name17.5to52.5'>
+	<materialref ref='density17.5to52.5'/>
+	<solidref ref='ShieldElement17.5to52.5'/>
+</volume>
+<volume name='name22.5to52.5'>
+	<materialref ref='density22.5to52.5'/>
+	<solidref ref='ShieldElement22.5to52.5'/>
+</volume>
+<volume name='name27.5to52.5'>
+	<materialref ref='density27.5to52.5'/>
+	<solidref ref='ShieldElement27.5to52.5'/>
+</volume>
+<volume name='name32.5to52.5'>
+	<materialref ref='density32.5to52.5'/>
+	<solidref ref='ShieldElement32.5to52.5'/>
+</volume>
+<volume name='name37.5to52.5'>
+	<materialref ref='density37.5to52.5'/>
+	<solidref ref='ShieldElement37.5to52.5'/>
+</volume>
+<volume name='name42.5to52.5'>
+	<materialref ref='density42.5to52.5'/>
+	<solidref ref='ShieldElement42.5to52.5'/>
+</volume>
+<volume name='name47.5to52.5'>
+	<materialref ref='density47.5to52.5'/>
+	<solidref ref='ShieldElement47.5to52.5'/>
+</volume>
+<volume name='name52.5to52.5'>
+	<materialref ref='density52.5to52.5'/>
+	<solidref ref='ShieldElement52.5to52.5'/>
+</volume>
+<volume name='name2.5to57.5'>
+	<materialref ref='density2.5to57.5'/>
+	<solidref ref='ShieldElement2.5to57.5'/>
+</volume>
+<volume name='name7.5to57.5'>
+	<materialref ref='density7.5to57.5'/>
+	<solidref ref='ShieldElement7.5to57.5'/>
+</volume>
+<volume name='name12.5to57.5'>
+	<materialref ref='density12.5to57.5'/>
+	<solidref ref='ShieldElement12.5to57.5'/>
+</volume>
+<volume name='name17.5to57.5'>
+	<materialref ref='density17.5to57.5'/>
+	<solidref ref='ShieldElement17.5to57.5'/>
+</volume>
+<volume name='name22.5to57.5'>
+	<materialref ref='density22.5to57.5'/>
+	<solidref ref='ShieldElement22.5to57.5'/>
+</volume>
+<volume name='name27.5to57.5'>
+	<materialref ref='density27.5to57.5'/>
+	<solidref ref='ShieldElement27.5to57.5'/>
+</volume>
+<volume name='name32.5to57.5'>
+	<materialref ref='density32.5to57.5'/>
+	<solidref ref='ShieldElement32.5to57.5'/>
+</volume>
+<volume name='name37.5to57.5'>
+	<materialref ref='density37.5to57.5'/>
+	<solidref ref='ShieldElement37.5to57.5'/>
+</volume>
+<volume name='name42.5to57.5'>
+	<materialref ref='density42.5to57.5'/>
+	<solidref ref='ShieldElement42.5to57.5'/>
+</volume>
+<volume name='name47.5to57.5'>
+	<materialref ref='density47.5to57.5'/>
+	<solidref ref='ShieldElement47.5to57.5'/>
+</volume>
+<volume name='name52.5to57.5'>
+	<materialref ref='density52.5to57.5'/>
+	<solidref ref='ShieldElement52.5to57.5'/>
+</volume>
+<volume name='name57.5to57.5'>
+	<materialref ref='density57.5to57.5'/>
+	<solidref ref='ShieldElement57.5to57.5'/>
+</volume>
+<volume name='name2.5to62.5'>
+	<materialref ref='density2.5to62.5'/>
+	<solidref ref='ShieldElement2.5to62.5'/>
+</volume>
+<volume name='name7.5to62.5'>
+	<materialref ref='density7.5to62.5'/>
+	<solidref ref='ShieldElement7.5to62.5'/>
+</volume>
+<volume name='name12.5to62.5'>
+	<materialref ref='density12.5to62.5'/>
+	<solidref ref='ShieldElement12.5to62.5'/>
+</volume>
+<volume name='name17.5to62.5'>
+	<materialref ref='density17.5to62.5'/>
+	<solidref ref='ShieldElement17.5to62.5'/>
+</volume>
+<volume name='name22.5to62.5'>
+	<materialref ref='density22.5to62.5'/>
+	<solidref ref='ShieldElement22.5to62.5'/>
+</volume>
+<volume name='name27.5to62.5'>
+	<materialref ref='density27.5to62.5'/>
+	<solidref ref='ShieldElement27.5to62.5'/>
+</volume>
+<volume name='name32.5to62.5'>
+	<materialref ref='density32.5to62.5'/>
+	<solidref ref='ShieldElement32.5to62.5'/>
+</volume>
+<volume name='name37.5to62.5'>
+	<materialref ref='density37.5to62.5'/>
+	<solidref ref='ShieldElement37.5to62.5'/>
+</volume>
+<volume name='name42.5to62.5'>
+	<materialref ref='density42.5to62.5'/>
+	<solidref ref='ShieldElement42.5to62.5'/>
+</volume>
+<volume name='name47.5to62.5'>
+	<materialref ref='density47.5to62.5'/>
+	<solidref ref='ShieldElement47.5to62.5'/>
+</volume>
+<volume name='name52.5to62.5'>
+	<materialref ref='density52.5to62.5'/>
+	<solidref ref='ShieldElement52.5to62.5'/>
+</volume>
+<volume name='name57.5to62.5'>
+	<materialref ref='density57.5to62.5'/>
+	<solidref ref='ShieldElement57.5to62.5'/>
+</volume>
+<volume name='name2.5to67.5'>
+	<materialref ref='density2.5to67.5'/>
+	<solidref ref='ShieldElement2.5to67.5'/>
+</volume>
+<volume name='name7.5to67.5'>
+	<materialref ref='density7.5to67.5'/>
+	<solidref ref='ShieldElement7.5to67.5'/>
+</volume>
+<volume name='name12.5to67.5'>
+	<materialref ref='density12.5to67.5'/>
+	<solidref ref='ShieldElement12.5to67.5'/>
+</volume>
+<volume name='name17.5to67.5'>
+	<materialref ref='density17.5to67.5'/>
+	<solidref ref='ShieldElement17.5to67.5'/>
+</volume>
+<volume name='name22.5to67.5'>
+	<materialref ref='density22.5to67.5'/>
+	<solidref ref='ShieldElement22.5to67.5'/>
+</volume>
+<volume name='name27.5to67.5'>
+	<materialref ref='density27.5to67.5'/>
+	<solidref ref='ShieldElement27.5to67.5'/>
+</volume>
+<volume name='name32.5to67.5'>
+	<materialref ref='density32.5to67.5'/>
+	<solidref ref='ShieldElement32.5to67.5'/>
+</volume>
+<volume name='name37.5to67.5'>
+	<materialref ref='density37.5to67.5'/>
+	<solidref ref='ShieldElement37.5to67.5'/>
+</volume>
+<volume name='name42.5to67.5'>
+	<materialref ref='density42.5to67.5'/>
+	<solidref ref='ShieldElement42.5to67.5'/>
+</volume>
+<volume name='name47.5to67.5'>
+	<materialref ref='density47.5to67.5'/>
+	<solidref ref='ShieldElement47.5to67.5'/>
+</volume>
+<volume name='name52.5to67.5'>
+	<materialref ref='density52.5to67.5'/>
+	<solidref ref='ShieldElement52.5to67.5'/>
+</volume>
+<volume name='name57.5to67.5'>
+	<materialref ref='density57.5to67.5'/>
+	<solidref ref='ShieldElement57.5to67.5'/>
+</volume>
+<volume name='name62.5to67.5'>
+	<materialref ref='density62.5to67.5'/>
+	<solidref ref='ShieldElement62.5to67.5'/>
+</volume>
+<volume name='name2.5to72.5'>
+	<materialref ref='density2.5to72.5'/>
+	<solidref ref='ShieldElement2.5to72.5'/>
+</volume>
+<volume name='name7.5to72.5'>
+	<materialref ref='density7.5to72.5'/>
+	<solidref ref='ShieldElement7.5to72.5'/>
+</volume>
+<volume name='name12.5to72.5'>
+	<materialref ref='density12.5to72.5'/>
+	<solidref ref='ShieldElement12.5to72.5'/>
+</volume>
+<volume name='name17.5to72.5'>
+	<materialref ref='density17.5to72.5'/>
+	<solidref ref='ShieldElement17.5to72.5'/>
+</volume>
+<volume name='name22.5to72.5'>
+	<materialref ref='density22.5to72.5'/>
+	<solidref ref='ShieldElement22.5to72.5'/>
+</volume>
+<volume name='name27.5to72.5'>
+	<materialref ref='density27.5to72.5'/>
+	<solidref ref='ShieldElement27.5to72.5'/>
+</volume>
+<volume name='name32.5to72.5'>
+	<materialref ref='density32.5to72.5'/>
+	<solidref ref='ShieldElement32.5to72.5'/>
+</volume>
+<volume name='name37.5to72.5'>
+	<materialref ref='density37.5to72.5'/>
+	<solidref ref='ShieldElement37.5to72.5'/>
+</volume>
+<volume name='name42.5to72.5'>
+	<materialref ref='density42.5to72.5'/>
+	<solidref ref='ShieldElement42.5to72.5'/>
+</volume>
+<volume name='name47.5to72.5'>
+	<materialref ref='density47.5to72.5'/>
+	<solidref ref='ShieldElement47.5to72.5'/>
+</volume>
+<volume name='name52.5to72.5'>
+	<materialref ref='density52.5to72.5'/>
+	<solidref ref='ShieldElement52.5to72.5'/>
+</volume>
+<volume name='name57.5to72.5'>
+	<materialref ref='density57.5to72.5'/>
+	<solidref ref='ShieldElement57.5to72.5'/>
+</volume>
+<volume name='name62.5to72.5'>
+	<materialref ref='density62.5to72.5'/>
+	<solidref ref='ShieldElement62.5to72.5'/>
+</volume>
+<volume name='name67.5to72.5'>
+	<materialref ref='density67.5to72.5'/>
+	<solidref ref='ShieldElement67.5to72.5'/>
+</volume>
+<volume name='name2.5to77.5'>
+	<materialref ref='density2.5to77.5'/>
+	<solidref ref='ShieldElement2.5to77.5'/>
+</volume>
+<volume name='name7.5to77.5'>
+	<materialref ref='density7.5to77.5'/>
+	<solidref ref='ShieldElement7.5to77.5'/>
+</volume>
+<volume name='name12.5to77.5'>
+	<materialref ref='density12.5to77.5'/>
+	<solidref ref='ShieldElement12.5to77.5'/>
+</volume>
+<volume name='name17.5to77.5'>
+	<materialref ref='density17.5to77.5'/>
+	<solidref ref='ShieldElement17.5to77.5'/>
+</volume>
+<volume name='name22.5to77.5'>
+	<materialref ref='density22.5to77.5'/>
+	<solidref ref='ShieldElement22.5to77.5'/>
+</volume>
+<volume name='name27.5to77.5'>
+	<materialref ref='density27.5to77.5'/>
+	<solidref ref='ShieldElement27.5to77.5'/>
+</volume>
+<volume name='name32.5to77.5'>
+	<materialref ref='density32.5to77.5'/>
+	<solidref ref='ShieldElement32.5to77.5'/>
+</volume>
+<volume name='name37.5to77.5'>
+	<materialref ref='density37.5to77.5'/>
+	<solidref ref='ShieldElement37.5to77.5'/>
+</volume>
+<volume name='name42.5to77.5'>
+	<materialref ref='density42.5to77.5'/>
+	<solidref ref='ShieldElement42.5to77.5'/>
+</volume>
+<volume name='name47.5to77.5'>
+	<materialref ref='density47.5to77.5'/>
+	<solidref ref='ShieldElement47.5to77.5'/>
+</volume>
+<volume name='name52.5to77.5'>
+	<materialref ref='density52.5to77.5'/>
+	<solidref ref='ShieldElement52.5to77.5'/>
+</volume>
+<volume name='name57.5to77.5'>
+	<materialref ref='density57.5to77.5'/>
+	<solidref ref='ShieldElement57.5to77.5'/>
+</volume>
+<volume name='name62.5to77.5'>
+	<materialref ref='density62.5to77.5'/>
+	<solidref ref='ShieldElement62.5to77.5'/>
+</volume>
+<volume name='name67.5to77.5'>
+	<materialref ref='density67.5to77.5'/>
+	<solidref ref='ShieldElement67.5to77.5'/>
+</volume>
+<volume name='name72.5to77.5'>
+	<materialref ref='density72.5to77.5'/>
+	<solidref ref='ShieldElement72.5to77.5'/>
+</volume>
+<volume name='name2.5to82.5'>
+	<materialref ref='density2.5to82.5'/>
+	<solidref ref='ShieldElement2.5to82.5'/>
+</volume>
+<volume name='name7.5to82.5'>
+	<materialref ref='density7.5to82.5'/>
+	<solidref ref='ShieldElement7.5to82.5'/>
+</volume>
+<volume name='name12.5to82.5'>
+	<materialref ref='density12.5to82.5'/>
+	<solidref ref='ShieldElement12.5to82.5'/>
+</volume>
+<volume name='name17.5to82.5'>
+	<materialref ref='density17.5to82.5'/>
+	<solidref ref='ShieldElement17.5to82.5'/>
+</volume>
+<volume name='name22.5to82.5'>
+	<materialref ref='density22.5to82.5'/>
+	<solidref ref='ShieldElement22.5to82.5'/>
+</volume>
+<volume name='name27.5to82.5'>
+	<materialref ref='density27.5to82.5'/>
+	<solidref ref='ShieldElement27.5to82.5'/>
+</volume>
+<volume name='name32.5to82.5'>
+	<materialref ref='density32.5to82.5'/>
+	<solidref ref='ShieldElement32.5to82.5'/>
+</volume>
+<volume name='name37.5to82.5'>
+	<materialref ref='density37.5to82.5'/>
+	<solidref ref='ShieldElement37.5to82.5'/>
+</volume>
+<volume name='name42.5to82.5'>
+	<materialref ref='density42.5to82.5'/>
+	<solidref ref='ShieldElement42.5to82.5'/>
+</volume>
+<volume name='name47.5to82.5'>
+	<materialref ref='density47.5to82.5'/>
+	<solidref ref='ShieldElement47.5to82.5'/>
+</volume>
+<volume name='name52.5to82.5'>
+	<materialref ref='density52.5to82.5'/>
+	<solidref ref='ShieldElement52.5to82.5'/>
+</volume>
+<volume name='name57.5to82.5'>
+	<materialref ref='density57.5to82.5'/>
+	<solidref ref='ShieldElement57.5to82.5'/>
+</volume>
+<volume name='name62.5to82.5'>
+	<materialref ref='density62.5to82.5'/>
+	<solidref ref='ShieldElement62.5to82.5'/>
+</volume>
+<volume name='name67.5to82.5'>
+	<materialref ref='density67.5to82.5'/>
+	<solidref ref='ShieldElement67.5to82.5'/>
+</volume>
+<volume name='name72.5to82.5'>
+	<materialref ref='density72.5to82.5'/>
+	<solidref ref='ShieldElement72.5to82.5'/>
+</volume>
+<volume name='name77.5to82.5'>
+	<materialref ref='density77.5to82.5'/>
+	<solidref ref='ShieldElement77.5to82.5'/>
+</volume>
+<volume name='name2.5to87.5'>
+	<materialref ref='density2.5to87.5'/>
+	<solidref ref='ShieldElement2.5to87.5'/>
+</volume>
+<volume name='name7.5to87.5'>
+	<materialref ref='density7.5to87.5'/>
+	<solidref ref='ShieldElement7.5to87.5'/>
+</volume>
+<volume name='name12.5to87.5'>
+	<materialref ref='density12.5to87.5'/>
+	<solidref ref='ShieldElement12.5to87.5'/>
+</volume>
+<volume name='name17.5to87.5'>
+	<materialref ref='density17.5to87.5'/>
+	<solidref ref='ShieldElement17.5to87.5'/>
+</volume>
+<volume name='name22.5to87.5'>
+	<materialref ref='density22.5to87.5'/>
+	<solidref ref='ShieldElement22.5to87.5'/>
+</volume>
+<volume name='name27.5to87.5'>
+	<materialref ref='density27.5to87.5'/>
+	<solidref ref='ShieldElement27.5to87.5'/>
+</volume>
+<volume name='name32.5to87.5'>
+	<materialref ref='density32.5to87.5'/>
+	<solidref ref='ShieldElement32.5to87.5'/>
+</volume>
+<volume name='name37.5to87.5'>
+	<materialref ref='density37.5to87.5'/>
+	<solidref ref='ShieldElement37.5to87.5'/>
+</volume>
+<volume name='name42.5to87.5'>
+	<materialref ref='density42.5to87.5'/>
+	<solidref ref='ShieldElement42.5to87.5'/>
+</volume>
+<volume name='name47.5to87.5'>
+	<materialref ref='density47.5to87.5'/>
+	<solidref ref='ShieldElement47.5to87.5'/>
+</volume>
+<volume name='name52.5to87.5'>
+	<materialref ref='density52.5to87.5'/>
+	<solidref ref='ShieldElement52.5to87.5'/>
+</volume>
+<volume name='name57.5to87.5'>
+	<materialref ref='density57.5to87.5'/>
+	<solidref ref='ShieldElement57.5to87.5'/>
+</volume>
+<volume name='name62.5to87.5'>
+	<materialref ref='density62.5to87.5'/>
+	<solidref ref='ShieldElement62.5to87.5'/>
+</volume>
+<volume name='name67.5to87.5'>
+	<materialref ref='density67.5to87.5'/>
+	<solidref ref='ShieldElement67.5to87.5'/>
+</volume>
+<volume name='name72.5to87.5'>
+	<materialref ref='density72.5to87.5'/>
+	<solidref ref='ShieldElement72.5to87.5'/>
+</volume>
+<volume name='name77.5to87.5'>
+	<materialref ref='density77.5to87.5'/>
+	<solidref ref='ShieldElement77.5to87.5'/>
+</volume>
+<volume name='name82.5to87.5'>
+	<materialref ref='density82.5to87.5'/>
+	<solidref ref='ShieldElement82.5to87.5'/>
+</volume>
+<volume name='name2.5to92.5'>
+	<materialref ref='density2.5to92.5'/>
+	<solidref ref='ShieldElement2.5to92.5'/>
+</volume>
+<volume name='name7.5to92.5'>
+	<materialref ref='density7.5to92.5'/>
+	<solidref ref='ShieldElement7.5to92.5'/>
+</volume>
+<volume name='name12.5to92.5'>
+	<materialref ref='density12.5to92.5'/>
+	<solidref ref='ShieldElement12.5to92.5'/>
+</volume>
+<volume name='name17.5to92.5'>
+	<materialref ref='density17.5to92.5'/>
+	<solidref ref='ShieldElement17.5to92.5'/>
+</volume>
+<volume name='name22.5to92.5'>
+	<materialref ref='density22.5to92.5'/>
+	<solidref ref='ShieldElement22.5to92.5'/>
+</volume>
+<volume name='name27.5to92.5'>
+	<materialref ref='density27.5to92.5'/>
+	<solidref ref='ShieldElement27.5to92.5'/>
+</volume>
+<volume name='name32.5to92.5'>
+	<materialref ref='density32.5to92.5'/>
+	<solidref ref='ShieldElement32.5to92.5'/>
+</volume>
+<volume name='name37.5to92.5'>
+	<materialref ref='density37.5to92.5'/>
+	<solidref ref='ShieldElement37.5to92.5'/>
+</volume>
+<volume name='name42.5to92.5'>
+	<materialref ref='density42.5to92.5'/>
+	<solidref ref='ShieldElement42.5to92.5'/>
+</volume>
+<volume name='name47.5to92.5'>
+	<materialref ref='density47.5to92.5'/>
+	<solidref ref='ShieldElement47.5to92.5'/>
+</volume>
+<volume name='name52.5to92.5'>
+	<materialref ref='density52.5to92.5'/>
+	<solidref ref='ShieldElement52.5to92.5'/>
+</volume>
+<volume name='name57.5to92.5'>
+	<materialref ref='density57.5to92.5'/>
+	<solidref ref='ShieldElement57.5to92.5'/>
+</volume>
+<volume name='name62.5to92.5'>
+	<materialref ref='density62.5to92.5'/>
+	<solidref ref='ShieldElement62.5to92.5'/>
+</volume>
+<volume name='name67.5to92.5'>
+	<materialref ref='density67.5to92.5'/>
+	<solidref ref='ShieldElement67.5to92.5'/>
+</volume>
+<volume name='name72.5to92.5'>
+	<materialref ref='density72.5to92.5'/>
+	<solidref ref='ShieldElement72.5to92.5'/>
+</volume>
+<volume name='name77.5to92.5'>
+	<materialref ref='density77.5to92.5'/>
+	<solidref ref='ShieldElement77.5to92.5'/>
+</volume>
+<volume name='name2.5to97.5'>
+	<materialref ref='density2.5to97.5'/>
+	<solidref ref='ShieldElement2.5to97.5'/>
+</volume>
+<volume name='name7.5to97.5'>
+	<materialref ref='density7.5to97.5'/>
+	<solidref ref='ShieldElement7.5to97.5'/>
+</volume>
+<volume name='name12.5to97.5'>
+	<materialref ref='density12.5to97.5'/>
+	<solidref ref='ShieldElement12.5to97.5'/>
+</volume>
+<volume name='name17.5to97.5'>
+	<materialref ref='density17.5to97.5'/>
+	<solidref ref='ShieldElement17.5to97.5'/>
+</volume>
+<volume name='name22.5to97.5'>
+	<materialref ref='density22.5to97.5'/>
+	<solidref ref='ShieldElement22.5to97.5'/>
+</volume>
+<volume name='name27.5to97.5'>
+	<materialref ref='density27.5to97.5'/>
+	<solidref ref='ShieldElement27.5to97.5'/>
+</volume>
+<volume name='name32.5to97.5'>
+	<materialref ref='density32.5to97.5'/>
+	<solidref ref='ShieldElement32.5to97.5'/>
+</volume>
+<volume name='name37.5to97.5'>
+	<materialref ref='density37.5to97.5'/>
+	<solidref ref='ShieldElement37.5to97.5'/>
+</volume>
+<volume name='name42.5to97.5'>
+	<materialref ref='density42.5to97.5'/>
+	<solidref ref='ShieldElement42.5to97.5'/>
+</volume>
+<volume name='name47.5to97.5'>
+	<materialref ref='density47.5to97.5'/>
+	<solidref ref='ShieldElement47.5to97.5'/>
+</volume>
+<volume name='name52.5to97.5'>
+	<materialref ref='density52.5to97.5'/>
+	<solidref ref='ShieldElement52.5to97.5'/>
+</volume>
+<volume name='name57.5to97.5'>
+	<materialref ref='density57.5to97.5'/>
+	<solidref ref='ShieldElement57.5to97.5'/>
+</volume>
+<volume name='name62.5to97.5'>
+	<materialref ref='density62.5to97.5'/>
+	<solidref ref='ShieldElement62.5to97.5'/>
+</volume>
+<volume name='name67.5to97.5'>
+	<materialref ref='density67.5to97.5'/>
+	<solidref ref='ShieldElement67.5to97.5'/>
+</volume>
+<volume name='name72.5to97.5'>
+	<materialref ref='density72.5to97.5'/>
+	<solidref ref='ShieldElement72.5to97.5'/>
+</volume>
+<volume name='name2.5to102.5'>
+	<materialref ref='density2.5to102.5'/>
+	<solidref ref='ShieldElement2.5to102.5'/>
+</volume>
+<volume name='name7.5to102.5'>
+	<materialref ref='density7.5to102.5'/>
+	<solidref ref='ShieldElement7.5to102.5'/>
+</volume>
+<volume name='name12.5to102.5'>
+	<materialref ref='density12.5to102.5'/>
+	<solidref ref='ShieldElement12.5to102.5'/>
+</volume>
+<volume name='name17.5to102.5'>
+	<materialref ref='density17.5to102.5'/>
+	<solidref ref='ShieldElement17.5to102.5'/>
+</volume>
+<volume name='name22.5to102.5'>
+	<materialref ref='density22.5to102.5'/>
+	<solidref ref='ShieldElement22.5to102.5'/>
+</volume>
+<volume name='name27.5to102.5'>
+	<materialref ref='density27.5to102.5'/>
+	<solidref ref='ShieldElement27.5to102.5'/>
+</volume>
+<volume name='name32.5to102.5'>
+	<materialref ref='density32.5to102.5'/>
+	<solidref ref='ShieldElement32.5to102.5'/>
+</volume>
+<volume name='name37.5to102.5'>
+	<materialref ref='density37.5to102.5'/>
+	<solidref ref='ShieldElement37.5to102.5'/>
+</volume>
+<volume name='name42.5to102.5'>
+	<materialref ref='density42.5to102.5'/>
+	<solidref ref='ShieldElement42.5to102.5'/>
+</volume>
+<volume name='name47.5to102.5'>
+	<materialref ref='density47.5to102.5'/>
+	<solidref ref='ShieldElement47.5to102.5'/>
+</volume>
+<volume name='name52.5to102.5'>
+	<materialref ref='density52.5to102.5'/>
+	<solidref ref='ShieldElement52.5to102.5'/>
+</volume>
+<volume name='name57.5to102.5'>
+	<materialref ref='density57.5to102.5'/>
+	<solidref ref='ShieldElement57.5to102.5'/>
+</volume>
+<volume name='name62.5to102.5'>
+	<materialref ref='density62.5to102.5'/>
+	<solidref ref='ShieldElement62.5to102.5'/>
+</volume>
+<volume name='name67.5to102.5'>
+	<materialref ref='density67.5to102.5'/>
+	<solidref ref='ShieldElement67.5to102.5'/>
+</volume>
+<volume name='name2.5to107.5'>
+	<materialref ref='density2.5to107.5'/>
+	<solidref ref='ShieldElement2.5to107.5'/>
+</volume>
+<volume name='name7.5to107.5'>
+	<materialref ref='density7.5to107.5'/>
+	<solidref ref='ShieldElement7.5to107.5'/>
+</volume>
+<volume name='name12.5to107.5'>
+	<materialref ref='density12.5to107.5'/>
+	<solidref ref='ShieldElement12.5to107.5'/>
+</volume>
+<volume name='name17.5to107.5'>
+	<materialref ref='density17.5to107.5'/>
+	<solidref ref='ShieldElement17.5to107.5'/>
+</volume>
+<volume name='name22.5to107.5'>
+	<materialref ref='density22.5to107.5'/>
+	<solidref ref='ShieldElement22.5to107.5'/>
+</volume>
+<volume name='name27.5to107.5'>
+	<materialref ref='density27.5to107.5'/>
+	<solidref ref='ShieldElement27.5to107.5'/>
+</volume>
+<volume name='name32.5to107.5'>
+	<materialref ref='density32.5to107.5'/>
+	<solidref ref='ShieldElement32.5to107.5'/>
+</volume>
+<volume name='name37.5to107.5'>
+	<materialref ref='density37.5to107.5'/>
+	<solidref ref='ShieldElement37.5to107.5'/>
+</volume>
+<volume name='name42.5to107.5'>
+	<materialref ref='density42.5to107.5'/>
+	<solidref ref='ShieldElement42.5to107.5'/>
+</volume>
+<volume name='name47.5to107.5'>
+	<materialref ref='density47.5to107.5'/>
+	<solidref ref='ShieldElement47.5to107.5'/>
+</volume>
+<volume name='name52.5to107.5'>
+	<materialref ref='density52.5to107.5'/>
+	<solidref ref='ShieldElement52.5to107.5'/>
+</volume>
+<volume name='name57.5to107.5'>
+	<materialref ref='density57.5to107.5'/>
+	<solidref ref='ShieldElement57.5to107.5'/>
+</volume>
+<volume name='name62.5to107.5'>
+	<materialref ref='density62.5to107.5'/>
+	<solidref ref='ShieldElement62.5to107.5'/>
+</volume>
+<volume name='name2.5to112.5'>
+	<materialref ref='density2.5to112.5'/>
+	<solidref ref='ShieldElement2.5to112.5'/>
+</volume>
+<volume name='name7.5to112.5'>
+	<materialref ref='density7.5to112.5'/>
+	<solidref ref='ShieldElement7.5to112.5'/>
+</volume>
+<volume name='name12.5to112.5'>
+	<materialref ref='density12.5to112.5'/>
+	<solidref ref='ShieldElement12.5to112.5'/>
+</volume>
+<volume name='name17.5to112.5'>
+	<materialref ref='density17.5to112.5'/>
+	<solidref ref='ShieldElement17.5to112.5'/>
+</volume>
+<volume name='name22.5to112.5'>
+	<materialref ref='density22.5to112.5'/>
+	<solidref ref='ShieldElement22.5to112.5'/>
+</volume>
+<volume name='name27.5to112.5'>
+	<materialref ref='density27.5to112.5'/>
+	<solidref ref='ShieldElement27.5to112.5'/>
+</volume>
+<volume name='name32.5to112.5'>
+	<materialref ref='density32.5to112.5'/>
+	<solidref ref='ShieldElement32.5to112.5'/>
+</volume>
+<volume name='name37.5to112.5'>
+	<materialref ref='density37.5to112.5'/>
+	<solidref ref='ShieldElement37.5to112.5'/>
+</volume>
+<volume name='name42.5to112.5'>
+	<materialref ref='density42.5to112.5'/>
+	<solidref ref='ShieldElement42.5to112.5'/>
+</volume>
+<volume name='name47.5to112.5'>
+	<materialref ref='density47.5to112.5'/>
+	<solidref ref='ShieldElement47.5to112.5'/>
+</volume>
+<volume name='name52.5to112.5'>
+	<materialref ref='density52.5to112.5'/>
+	<solidref ref='ShieldElement52.5to112.5'/>
+</volume>
+<volume name='name57.5to112.5'>
+	<materialref ref='density57.5to112.5'/>
+	<solidref ref='ShieldElement57.5to112.5'/>
+</volume>
+<volume name='name2.5to117.5'>
+	<materialref ref='density2.5to117.5'/>
+	<solidref ref='ShieldElement2.5to117.5'/>
+</volume>
+<volume name='name7.5to117.5'>
+	<materialref ref='density7.5to117.5'/>
+	<solidref ref='ShieldElement7.5to117.5'/>
+</volume>
+<volume name='name12.5to117.5'>
+	<materialref ref='density12.5to117.5'/>
+	<solidref ref='ShieldElement12.5to117.5'/>
+</volume>
+<volume name='name17.5to117.5'>
+	<materialref ref='density17.5to117.5'/>
+	<solidref ref='ShieldElement17.5to117.5'/>
+</volume>
+<volume name='name22.5to117.5'>
+	<materialref ref='density22.5to117.5'/>
+	<solidref ref='ShieldElement22.5to117.5'/>
+</volume>
+<volume name='name27.5to117.5'>
+	<materialref ref='density27.5to117.5'/>
+	<solidref ref='ShieldElement27.5to117.5'/>
+</volume>
+<volume name='name32.5to117.5'>
+	<materialref ref='density32.5to117.5'/>
+	<solidref ref='ShieldElement32.5to117.5'/>
+</volume>
+<volume name='name37.5to117.5'>
+	<materialref ref='density37.5to117.5'/>
+	<solidref ref='ShieldElement37.5to117.5'/>
+</volume>
+<volume name='name42.5to117.5'>
+	<materialref ref='density42.5to117.5'/>
+	<solidref ref='ShieldElement42.5to117.5'/>
+</volume>
+<volume name='name47.5to117.5'>
+	<materialref ref='density47.5to117.5'/>
+	<solidref ref='ShieldElement47.5to117.5'/>
+</volume>
+<volume name='name52.5to117.5'>
+	<materialref ref='density52.5to117.5'/>
+	<solidref ref='ShieldElement52.5to117.5'/>
+</volume>
+<volume name='name57.5to117.5'>
+	<materialref ref='density57.5to117.5'/>
+	<solidref ref='ShieldElement57.5to117.5'/>
+</volume>
+<volume name='name2.5to122.5'>
+	<materialref ref='density2.5to122.5'/>
+	<solidref ref='ShieldElement2.5to122.5'/>
+</volume>
+<volume name='name7.5to122.5'>
+	<materialref ref='density7.5to122.5'/>
+	<solidref ref='ShieldElement7.5to122.5'/>
+</volume>
+<volume name='name12.5to122.5'>
+	<materialref ref='density12.5to122.5'/>
+	<solidref ref='ShieldElement12.5to122.5'/>
+</volume>
+<volume name='name17.5to122.5'>
+	<materialref ref='density17.5to122.5'/>
+	<solidref ref='ShieldElement17.5to122.5'/>
+</volume>
+<volume name='name22.5to122.5'>
+	<materialref ref='density22.5to122.5'/>
+	<solidref ref='ShieldElement22.5to122.5'/>
+</volume>
+<volume name='name27.5to122.5'>
+	<materialref ref='density27.5to122.5'/>
+	<solidref ref='ShieldElement27.5to122.5'/>
+</volume>
+<volume name='name32.5to122.5'>
+	<materialref ref='density32.5to122.5'/>
+	<solidref ref='ShieldElement32.5to122.5'/>
+</volume>
+<volume name='name37.5to122.5'>
+	<materialref ref='density37.5to122.5'/>
+	<solidref ref='ShieldElement37.5to122.5'/>
+</volume>
+<volume name='name42.5to122.5'>
+	<materialref ref='density42.5to122.5'/>
+	<solidref ref='ShieldElement42.5to122.5'/>
+</volume>
+<volume name='name47.5to122.5'>
+	<materialref ref='density47.5to122.5'/>
+	<solidref ref='ShieldElement47.5to122.5'/>
+</volume>
+<volume name='name52.5to122.5'>
+	<materialref ref='density52.5to122.5'/>
+	<solidref ref='ShieldElement52.5to122.5'/>
+</volume>
+<volume name='name2.5to127.5'>
+	<materialref ref='density2.5to127.5'/>
+	<solidref ref='ShieldElement2.5to127.5'/>
+</volume>
+<volume name='name7.5to127.5'>
+	<materialref ref='density7.5to127.5'/>
+	<solidref ref='ShieldElement7.5to127.5'/>
+</volume>
+<volume name='name12.5to127.5'>
+	<materialref ref='density12.5to127.5'/>
+	<solidref ref='ShieldElement12.5to127.5'/>
+</volume>
+<volume name='name17.5to127.5'>
+	<materialref ref='density17.5to127.5'/>
+	<solidref ref='ShieldElement17.5to127.5'/>
+</volume>
+<volume name='name22.5to127.5'>
+	<materialref ref='density22.5to127.5'/>
+	<solidref ref='ShieldElement22.5to127.5'/>
+</volume>
+<volume name='name27.5to127.5'>
+	<materialref ref='density27.5to127.5'/>
+	<solidref ref='ShieldElement27.5to127.5'/>
+</volume>
+<volume name='name32.5to127.5'>
+	<materialref ref='density32.5to127.5'/>
+	<solidref ref='ShieldElement32.5to127.5'/>
+</volume>
+<volume name='name37.5to127.5'>
+	<materialref ref='density37.5to127.5'/>
+	<solidref ref='ShieldElement37.5to127.5'/>
+</volume>
+<volume name='name42.5to127.5'>
+	<materialref ref='density42.5to127.5'/>
+	<solidref ref='ShieldElement42.5to127.5'/>
+</volume>
+<volume name='name47.5to127.5'>
+	<materialref ref='density47.5to127.5'/>
+	<solidref ref='ShieldElement47.5to127.5'/>
+</volume>
+<volume name='name2.5to132.5'>
+	<materialref ref='density2.5to132.5'/>
+	<solidref ref='ShieldElement2.5to132.5'/>
+</volume>
+<volume name='name7.5to132.5'>
+	<materialref ref='density7.5to132.5'/>
+	<solidref ref='ShieldElement7.5to132.5'/>
+</volume>
+<volume name='name12.5to132.5'>
+	<materialref ref='density12.5to132.5'/>
+	<solidref ref='ShieldElement12.5to132.5'/>
+</volume>
+<volume name='name17.5to132.5'>
+	<materialref ref='density17.5to132.5'/>
+	<solidref ref='ShieldElement17.5to132.5'/>
+</volume>
+<volume name='name22.5to132.5'>
+	<materialref ref='density22.5to132.5'/>
+	<solidref ref='ShieldElement22.5to132.5'/>
+</volume>
+<volume name='name27.5to132.5'>
+	<materialref ref='density27.5to132.5'/>
+	<solidref ref='ShieldElement27.5to132.5'/>
+</volume>
+<volume name='name32.5to132.5'>
+	<materialref ref='density32.5to132.5'/>
+	<solidref ref='ShieldElement32.5to132.5'/>
+</volume>
+<volume name='name37.5to132.5'>
+	<materialref ref='density37.5to132.5'/>
+	<solidref ref='ShieldElement37.5to132.5'/>
+</volume>
+<volume name='name42.5to132.5'>
+	<materialref ref='density42.5to132.5'/>
+	<solidref ref='ShieldElement42.5to132.5'/>
+</volume>
+<volume name='name47.5to132.5'>
+	<materialref ref='density47.5to132.5'/>
+	<solidref ref='ShieldElement47.5to132.5'/>
+</volume>
+<volume name='name2.5to137.5'>
+	<materialref ref='density2.5to137.5'/>
+	<solidref ref='ShieldElement2.5to137.5'/>
+</volume>
+<volume name='name7.5to137.5'>
+	<materialref ref='density7.5to137.5'/>
+	<solidref ref='ShieldElement7.5to137.5'/>
+</volume>
+<volume name='name12.5to137.5'>
+	<materialref ref='density12.5to137.5'/>
+	<solidref ref='ShieldElement12.5to137.5'/>
+</volume>
+<volume name='name17.5to137.5'>
+	<materialref ref='density17.5to137.5'/>
+	<solidref ref='ShieldElement17.5to137.5'/>
+</volume>
+<volume name='name22.5to137.5'>
+	<materialref ref='density22.5to137.5'/>
+	<solidref ref='ShieldElement22.5to137.5'/>
+</volume>
+<volume name='name27.5to137.5'>
+	<materialref ref='density27.5to137.5'/>
+	<solidref ref='ShieldElement27.5to137.5'/>
+</volume>
+<volume name='name32.5to137.5'>
+	<materialref ref='density32.5to137.5'/>
+	<solidref ref='ShieldElement32.5to137.5'/>
+</volume>
+<volume name='name37.5to137.5'>
+	<materialref ref='density37.5to137.5'/>
+	<solidref ref='ShieldElement37.5to137.5'/>
+</volume>
+<volume name='name42.5to137.5'>
+	<materialref ref='density42.5to137.5'/>
+	<solidref ref='ShieldElement42.5to137.5'/>
+</volume>
+<volume name='name47.5to137.5'>
+	<materialref ref='density47.5to137.5'/>
+	<solidref ref='ShieldElement47.5to137.5'/>
+</volume>
+<volume name='name2.5to142.5'>
+	<materialref ref='density2.5to142.5'/>
+	<solidref ref='ShieldElement2.5to142.5'/>
+</volume>
+<volume name='name7.5to142.5'>
+	<materialref ref='density7.5to142.5'/>
+	<solidref ref='ShieldElement7.5to142.5'/>
+</volume>
+<volume name='name12.5to142.5'>
+	<materialref ref='density12.5to142.5'/>
+	<solidref ref='ShieldElement12.5to142.5'/>
+</volume>
+<volume name='name17.5to142.5'>
+	<materialref ref='density17.5to142.5'/>
+	<solidref ref='ShieldElement17.5to142.5'/>
+</volume>
+<volume name='name22.5to142.5'>
+	<materialref ref='density22.5to142.5'/>
+	<solidref ref='ShieldElement22.5to142.5'/>
+</volume>
+<volume name='name27.5to142.5'>
+	<materialref ref='density27.5to142.5'/>
+	<solidref ref='ShieldElement27.5to142.5'/>
+</volume>
+<volume name='name32.5to142.5'>
+	<materialref ref='density32.5to142.5'/>
+	<solidref ref='ShieldElement32.5to142.5'/>
+</volume>
+<volume name='name37.5to142.5'>
+	<materialref ref='density37.5to142.5'/>
+	<solidref ref='ShieldElement37.5to142.5'/>
+</volume>
+<volume name='name42.5to142.5'>
+	<materialref ref='density42.5to142.5'/>
+	<solidref ref='ShieldElement42.5to142.5'/>
+</volume>
+<volume name='name2.5to147.5'>
+	<materialref ref='density2.5to147.5'/>
+	<solidref ref='ShieldElement2.5to147.5'/>
+</volume>
+<volume name='name7.5to147.5'>
+	<materialref ref='density7.5to147.5'/>
+	<solidref ref='ShieldElement7.5to147.5'/>
+</volume>
+<volume name='name12.5to147.5'>
+	<materialref ref='density12.5to147.5'/>
+	<solidref ref='ShieldElement12.5to147.5'/>
+</volume>
+<volume name='name17.5to147.5'>
+	<materialref ref='density17.5to147.5'/>
+	<solidref ref='ShieldElement17.5to147.5'/>
+</volume>
+<volume name='name22.5to147.5'>
+	<materialref ref='density22.5to147.5'/>
+	<solidref ref='ShieldElement22.5to147.5'/>
+</volume>
+<volume name='name27.5to147.5'>
+	<materialref ref='density27.5to147.5'/>
+	<solidref ref='ShieldElement27.5to147.5'/>
+</volume>
+<volume name='name32.5to147.5'>
+	<materialref ref='density32.5to147.5'/>
+	<solidref ref='ShieldElement32.5to147.5'/>
+</volume>
+<volume name='name37.5to147.5'>
+	<materialref ref='density37.5to147.5'/>
+	<solidref ref='ShieldElement37.5to147.5'/>
+</volume>
+<volume name='name42.5to147.5'>
+	<materialref ref='density42.5to147.5'/>
+	<solidref ref='ShieldElement42.5to147.5'/>
+</volume>
+<volume name='name2.5to152.5'>
+	<materialref ref='density2.5to152.5'/>
+	<solidref ref='ShieldElement2.5to152.5'/>
+</volume>
+<volume name='name7.5to152.5'>
+	<materialref ref='density7.5to152.5'/>
+	<solidref ref='ShieldElement7.5to152.5'/>
+</volume>
+<volume name='name12.5to152.5'>
+	<materialref ref='density12.5to152.5'/>
+	<solidref ref='ShieldElement12.5to152.5'/>
+</volume>
+<volume name='name17.5to152.5'>
+	<materialref ref='density17.5to152.5'/>
+	<solidref ref='ShieldElement17.5to152.5'/>
+</volume>
+<volume name='name22.5to152.5'>
+	<materialref ref='density22.5to152.5'/>
+	<solidref ref='ShieldElement22.5to152.5'/>
+</volume>
+<volume name='name27.5to152.5'>
+	<materialref ref='density27.5to152.5'/>
+	<solidref ref='ShieldElement27.5to152.5'/>
+</volume>
+<volume name='name32.5to152.5'>
+	<materialref ref='density32.5to152.5'/>
+	<solidref ref='ShieldElement32.5to152.5'/>
+</volume>
+<volume name='name37.5to152.5'>
+	<materialref ref='density37.5to152.5'/>
+	<solidref ref='ShieldElement37.5to152.5'/>
+</volume>
+<volume name='name42.5to152.5'>
+	<materialref ref='density42.5to152.5'/>
+	<solidref ref='ShieldElement42.5to152.5'/>
+</volume>
+<volume name='name2.5to157.5'>
+	<materialref ref='density2.5to157.5'/>
+	<solidref ref='ShieldElement2.5to157.5'/>
+</volume>
+<volume name='name7.5to157.5'>
+	<materialref ref='density7.5to157.5'/>
+	<solidref ref='ShieldElement7.5to157.5'/>
+</volume>
+<volume name='name12.5to157.5'>
+	<materialref ref='density12.5to157.5'/>
+	<solidref ref='ShieldElement12.5to157.5'/>
+</volume>
+<volume name='name17.5to157.5'>
+	<materialref ref='density17.5to157.5'/>
+	<solidref ref='ShieldElement17.5to157.5'/>
+</volume>
+<volume name='name22.5to157.5'>
+	<materialref ref='density22.5to157.5'/>
+	<solidref ref='ShieldElement22.5to157.5'/>
+</volume>
+<volume name='name27.5to157.5'>
+	<materialref ref='density27.5to157.5'/>
+	<solidref ref='ShieldElement27.5to157.5'/>
+</volume>
+<volume name='name32.5to157.5'>
+	<materialref ref='density32.5to157.5'/>
+	<solidref ref='ShieldElement32.5to157.5'/>
+</volume>
+<volume name='name37.5to157.5'>
+	<materialref ref='density37.5to157.5'/>
+	<solidref ref='ShieldElement37.5to157.5'/>
+</volume>
+<volume name='name2.5to162.5'>
+	<materialref ref='density2.5to162.5'/>
+	<solidref ref='ShieldElement2.5to162.5'/>
+</volume>
+<volume name='name7.5to162.5'>
+	<materialref ref='density7.5to162.5'/>
+	<solidref ref='ShieldElement7.5to162.5'/>
+</volume>
+<volume name='name12.5to162.5'>
+	<materialref ref='density12.5to162.5'/>
+	<solidref ref='ShieldElement12.5to162.5'/>
+</volume>
+<volume name='name17.5to162.5'>
+	<materialref ref='density17.5to162.5'/>
+	<solidref ref='ShieldElement17.5to162.5'/>
+</volume>
+<volume name='name22.5to162.5'>
+	<materialref ref='density22.5to162.5'/>
+	<solidref ref='ShieldElement22.5to162.5'/>
+</volume>
+<volume name='name27.5to162.5'>
+	<materialref ref='density27.5to162.5'/>
+	<solidref ref='ShieldElement27.5to162.5'/>
+</volume>
+<volume name='name32.5to162.5'>
+	<materialref ref='density32.5to162.5'/>
+	<solidref ref='ShieldElement32.5to162.5'/>
+</volume>
+<volume name='name37.5to162.5'>
+	<materialref ref='density37.5to162.5'/>
+	<solidref ref='ShieldElement37.5to162.5'/>
+</volume>
+<volume name='name2.5to167.5'>
+	<materialref ref='density2.5to167.5'/>
+	<solidref ref='ShieldElement2.5to167.5'/>
+</volume>
+<volume name='name7.5to167.5'>
+	<materialref ref='density7.5to167.5'/>
+	<solidref ref='ShieldElement7.5to167.5'/>
+</volume>
+<volume name='name12.5to167.5'>
+	<materialref ref='density12.5to167.5'/>
+	<solidref ref='ShieldElement12.5to167.5'/>
+</volume>
+<volume name='name17.5to167.5'>
+	<materialref ref='density17.5to167.5'/>
+	<solidref ref='ShieldElement17.5to167.5'/>
+</volume>
+<volume name='name22.5to167.5'>
+	<materialref ref='density22.5to167.5'/>
+	<solidref ref='ShieldElement22.5to167.5'/>
+</volume>
+<volume name='name27.5to167.5'>
+	<materialref ref='density27.5to167.5'/>
+	<solidref ref='ShieldElement27.5to167.5'/>
+</volume>
+<volume name='name32.5to167.5'>
+	<materialref ref='density32.5to167.5'/>
+	<solidref ref='ShieldElement32.5to167.5'/>
+</volume>
+<volume name='name37.5to167.5'>
+	<materialref ref='density37.5to167.5'/>
+	<solidref ref='ShieldElement37.5to167.5'/>
+</volume>
+<volume name='name2.5to172.5'>
+	<materialref ref='density2.5to172.5'/>
+	<solidref ref='ShieldElement2.5to172.5'/>
+</volume>
+<volume name='name7.5to172.5'>
+	<materialref ref='density7.5to172.5'/>
+	<solidref ref='ShieldElement7.5to172.5'/>
+</volume>
+<volume name='name12.5to172.5'>
+	<materialref ref='density12.5to172.5'/>
+	<solidref ref='ShieldElement12.5to172.5'/>
+</volume>
+<volume name='name17.5to172.5'>
+	<materialref ref='density17.5to172.5'/>
+	<solidref ref='ShieldElement17.5to172.5'/>
+</volume>
+<volume name='name22.5to172.5'>
+	<materialref ref='density22.5to172.5'/>
+	<solidref ref='ShieldElement22.5to172.5'/>
+</volume>
+<volume name='name27.5to172.5'>
+	<materialref ref='density27.5to172.5'/>
+	<solidref ref='ShieldElement27.5to172.5'/>
+</volume>
+<volume name='name32.5to172.5'>
+	<materialref ref='density32.5to172.5'/>
+	<solidref ref='ShieldElement32.5to172.5'/>
+</volume>
+<volume name='name37.5to172.5'>
+	<materialref ref='density37.5to172.5'/>
+	<solidref ref='ShieldElement37.5to172.5'/>
+</volume>
+<volume name='name2.5to177.5'>
+	<materialref ref='density2.5to177.5'/>
+	<solidref ref='ShieldElement2.5to177.5'/>
+</volume>
+<volume name='name7.5to177.5'>
+	<materialref ref='density7.5to177.5'/>
+	<solidref ref='ShieldElement7.5to177.5'/>
+</volume>
+<volume name='name12.5to177.5'>
+	<materialref ref='density12.5to177.5'/>
+	<solidref ref='ShieldElement12.5to177.5'/>
+</volume>
+<volume name='name17.5to177.5'>
+	<materialref ref='density17.5to177.5'/>
+	<solidref ref='ShieldElement17.5to177.5'/>
+</volume>
+<volume name='name22.5to177.5'>
+	<materialref ref='density22.5to177.5'/>
+	<solidref ref='ShieldElement22.5to177.5'/>
+</volume>
+<volume name='name27.5to177.5'>
+	<materialref ref='density27.5to177.5'/>
+	<solidref ref='ShieldElement27.5to177.5'/>
+</volume>
+<volume name='name32.5to177.5'>
+	<materialref ref='density32.5to177.5'/>
+	<solidref ref='ShieldElement32.5to177.5'/>
+</volume>
+<volume name='name37.5to177.5'>
+	<materialref ref='density37.5to177.5'/>
+	<solidref ref='ShieldElement37.5to177.5'/>
+</volume>

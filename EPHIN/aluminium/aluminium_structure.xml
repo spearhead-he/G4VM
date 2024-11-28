@@ -1,0 +1,116 @@
+<volume name="vAL1">
+  <materialref ref="Aluminum" />
+  <solidref ref="AL1" />
+  </volume>
+<volume name="vAL2">
+  <materialref ref="Aluminum" />
+  <solidref ref="AL2" />
+  </volume>
+<volume name="vAL3">
+  <materialref ref="Aluminum" />
+  <solidref ref="AL3" />
+  </volume>
+<volume name="vAL4">
+  <materialref ref="Aluminum" />
+  <solidref ref="AL4" />
+  </volume>
+<volume name="vAL5">
+  <materialref ref="Aluminum" />
+  <solidref ref="AL5" />
+  </volume>
+<volume name="vAL6">
+  <materialref ref="Aluminum" />
+  <solidref ref="AL6" />
+  </volume>
+<volume name="vAL7">
+  <materialref ref="Aluminum" />
+  <solidref ref="AL7" />
+  </volume>
+<volume name="vAL8">
+  <materialref ref="Aluminum" />
+  <solidref ref="AL8" />
+  </volume>
+<volume name="vAL9">
+  <materialref ref="Aluminum" />
+  <solidref ref="AL9" />
+  </volume>
+
+<volume name="vA10">
+  <materialref ref="Aluminum" />
+  <solidref ref="A10" />
+  </volume>
+<volume name="vA11">
+  <materialref ref="Aluminum" />
+  <solidref ref="A11" />
+  </volume>
+<volume name="vA12">
+  <materialref ref="Aluminum" />
+  <solidref ref="A12" />
+  </volume>
+<volume name="vA13">
+  <materialref ref="Aluminum" />
+  <solidref ref="A13" />
+  </volume>
+<volume name="vA14">
+  <materialref ref="Aluminum" />
+  <solidref ref="A14" />
+  </volume>
+<volume name="vA15">
+  <materialref ref="Aluminum" />
+  <solidref ref="A15" />
+  </volume>
+<volume name="vA16">
+  <materialref ref="Aluminum" />
+  <solidref ref="A16" />
+  </volume>
+<volume name="vA17">
+  <materialref ref="Aluminum" />
+  <solidref ref="A17" />
+  </volume>
+<volume name="vA18">
+  <materialref ref="Aluminum" />
+  <solidref ref="A18" />
+  </volume>
+<volume name="vA19">
+  <materialref ref="Aluminum" />
+  <solidref ref="A19" />
+  </volume>
+<volume name="vA20">
+  <materialref ref="Aluminum" />
+  <solidref ref="A20" />
+  </volume>
+
+<volume name="vA21">
+  <materialref ref="Aluminum" />
+  <solidref ref="A21" />
+  </volume>
+<volume name="vA22">
+  <materialref ref="Aluminum" />
+  <solidref ref="A22" />
+  </volume>
+<volume name="vA23">
+  <materialref ref="Aluminum" />
+  <solidref ref="A23" />
+  </volume>
+<volume name="vA24">
+    <materialref ref="Vacuum" />
+  <solidref ref="A24" />
+  </volume>
+<volume name="vA25">
+  <materialref ref="Aluminum" />
+  <solidref ref="A25" />
+  </volume>
+<!--
+<volume name="vShield">
+  <materialref ref="DenseAluminum" />
+  <solidref ref="NewShield" />
+  </volume>
+-->
+<!--
+<volume name="vSCDecoy">
+	<materialref ref="SCDenseAluminum"/>
+	<solidref ref="SCDecoy"/>
+	<rotationref ref="SCRot"/>
+	<auxiliary auxtype="sensi" auxvalue="666" auxunit="id"/>
+</volume>
+-->

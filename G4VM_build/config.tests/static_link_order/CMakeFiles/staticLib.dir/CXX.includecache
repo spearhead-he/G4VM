@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/usr/lib64/cmake/Qt6/config.tests/static_link_order/staticlib1.cpp
+
+/usr/lib64/cmake/Qt6/config.tests/static_link_order/staticlib2.cpp
+

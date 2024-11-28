@@ -1,0 +1,77 @@
+<physvol>
+    <volumeref ref="vDE1" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE2" />
+    <position unit="cm" x="0"  y="0"   z= "0.135"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE3" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE4" />
+    <position unit="cm" x="0"  y="0"   z= "4.1675"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE5" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE6" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE7" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE8" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE9" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+
+<physvol>
+    <volumeref ref="vDL0" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL1" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL2" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL3" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL4" />
+    <position unit="cm" x="0"  y="0"   z= "9.42"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL5" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL6" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL7" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL8" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL9" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>

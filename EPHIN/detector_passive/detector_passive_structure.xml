@@ -1,0 +1,24 @@
+<volume name="vd1R">
+  <materialref ref="Semiconductor" />
+  <solidref ref="D1R" />
+  </volume>
+  <volume name="vd2R">
+  <materialref ref="Semiconductor" />
+  <solidref ref="D2R" />
+  </volume>
+  <volume name="vd3R">
+  <materialref ref="Semiconductor" />
+  <solidref ref="D3R" />
+  </volume>
+  <volume name="vd4R">
+  <materialref ref="Semiconductor" />
+  <solidref ref="D4R" />
+  </volume>
+  <volume name="vd5R">
+  <materialref ref="Semiconductor" />
+  <solidref ref="D5R" />
+  </volume>
+  <volume name="vd6R">
+  <materialref ref="Semiconductor" />
+  <solidref ref="D6R" />
+  </volume>

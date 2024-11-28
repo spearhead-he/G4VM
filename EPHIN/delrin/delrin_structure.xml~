@@ -1,0 +1,78 @@
+<volume name="vDE1">
+  <solidref ref="DE1" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDE2">
+  <solidref ref="DE2" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDE3">
+  <solidref ref="DE3" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDE4">
+  <solidref ref="DE4" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDE5">
+  <solidref ref="DE5" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDE6">
+  <solidref ref="DE6" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDE7">
+  <solidref ref="DE7" />
+  <materialref ref="Semiconductor" />
+  </volume>
+<volume name="vDE8">
+  <solidref ref="DE8" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDE9">
+  <solidref ref="DE9" />
+  <materialref ref="Delrin" />
+  </volume>
+
+<volume name="vDL0">
+  <solidref ref="DL0" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDL1">
+  <solidref ref="DL1" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDL2">
+  <solidref ref="DL2" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDL3">
+  <solidref ref="DL3" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDL4">
+  <solidref ref="DL4" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDL5">
+  <solidref ref="DL5" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDL6">
+  <solidref ref="DL6" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDL7">
+  <solidref ref="DL7" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDL8">
+  <solidref ref="DL8" />
+  <materialref ref="Delrin" />
+  </volume>
+<volume name="vDL9">
+  <solidref ref="DL9" />
+  <materialref ref="Delrin" />
+  </volume>
+

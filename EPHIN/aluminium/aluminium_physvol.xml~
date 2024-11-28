@@ -1,0 +1,119 @@
+<physvol>
+    <volumeref ref="vAL1" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vAL2" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vAL3" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vAL4" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vAL5" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vAL6" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vAL7" />
+    <position unit="cm" x="0"  y="0"   z= "6.155"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vAL8" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vAL9" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+
+<physvol>
+    <volumeref ref="vA10" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vA11" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vA12" />
+    <position unit="cm" x="0"  y="0"   z= "9.36"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vA13" />
+    <position unit="cm" x="0"  y="0"   z= "9.53"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vA14" />
+    <position unit="cm" x="0"  y="0"   z= "2.1475"/>
+    </physvol>
+
+<!--
+
+<physvol>
+    <volumeref ref="vA15" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+-->
+
+<physvol>
+    <volumeref ref="vA16" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vA17" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vA18" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vA19" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vA20" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+
+<!--
+<physvol>
+    <volumeref ref="vA21" />
+    <position unit="cm" x="0"  y="0"   z= "-2.075"/>
+    </physvol>
+-->
+<physvol>
+    <volumeref ref="vA22" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vA23" />
+    <position unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<!--
+<physvol>
+    <volumeref ref="vA24" />
+    <position unit="cm" x="0"  y="0"   z= "-2.075"/>
+    </physvol>
+-->
+
+<!--
+<physvol>
+    <volumeref ref="vA25" />
+    <position unit="cm" x="0"  y="-5.962"   z= "-3.175"/>
+    </physvol>
+-->
+
+<physvol>
+    <volumeref ref="vShield" />
+    <position unit="cm" x="0"  y="0"   z= "15"/>
+    </physvol>

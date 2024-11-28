@@ -1,0 +1,6 @@
+<volume name="vAnc">
+  <materialref ref="Scintillator" />
+  <solidref ref="Anc" />
+  <auxiliary auxtype="SD" auxvalue="100" auxunit="id"/>
+</volume>
+

@@ -1,0 +1,8 @@
+<polycone name = "Anc" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="2.85" rmax="2.85" z="-1.075"/>
+  <zplane rmin="2.85" rmax="3.195" z="-0.77"/>
+  <zplane rmin="3.19" rmax="3.8" z="-0.235"/>
+  <zplane rmin="3.4" rmax="3.8" z="-0.045"/>
+  <zplane rmin="3.4" rmax="3.8" z="8.405"/>
+</polycone>
+

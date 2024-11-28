@@ -1,0 +1,33 @@
+<cone name = "world" rmin1="0" ramax1="8" rmin2="0" rmax2="8" z="22" startphi="0" deltaphi="360" aunit="deg" lunit="cm" />
+<cone name = "D10" rmin1="0" rmax1="0.78" rmin2="0" rmax2="0.78" z="0.015"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "D11" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.015"
+startphi="0" deltaphi="72" aunit="deg" lunit= "cm" />
+<cone name = "D12" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.015"
+startphi="72" deltaphi="72" aunit="deg" lunit= "cm" />
+<cone name = "D13" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.015"
+startphi="144" deltaphi="72" aunit="deg" lunit= "cm" />
+<cone name = "D14" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.015"
+startphi="216" deltaphi="72" aunit="deg" lunit= "cm" />
+<cone name = "D15" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.015"
+startphi="288" deltaphi="72" aunit="deg" lunit= "cm" />
+<cone name = "D20" rmin1="0" rmax1="0.78" rmin2="0" rmax2="0.78" z="0.03"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "D21" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03"
+startphi="0" deltaphi="72" aunit="deg" lunit= "cm" />
+<cone name = "D22" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03"
+startphi="72" deltaphi="72" aunit="deg" lunit= "cm" />
+<cone name = "D23" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03"
+startphi="144" deltaphi="72" aunit="deg" lunit= "cm" />
+<cone name = "D24" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03"
+startphi="216" deltaphi="72" aunit="deg" lunit= "cm" />
+<cone name = "D25" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03"
+startphi="288" deltaphi="72" aunit="deg" lunit= "cm" />
+<cone name = "D30" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.3"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "D40" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.5"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "D50" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.5"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "D60" rmin1="0" rmax1="4" rmin2="0" rmax2="4" z="0.07"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />

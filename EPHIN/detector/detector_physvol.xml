@@ -1,0 +1,76 @@
+<physvol>
+    <volumeref ref="vd10" />
+    <position name="vd10Pos" unit="cm" x="0"  y="0"   z= "0.007475"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd11" />
+    <position name="vd11Pos" unit="cm" x="0"  y="0"   z= "0.007475"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd12" />
+    <position name="vd12Pos" unit="cm" x="0"  y="0"   z= "0.007475"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd13" />
+    <position name="vd13Pos" unit="cm" x="0"  y="0"   z= "0.007475"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd14" />
+    <position name="vd14Pos" unit="cm" x="0"  y="0"   z= "0.007475"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd15" />
+    <position name="vd15Pos" unit="cm" x="0"  y="0"   z= "0.007475"/>
+</physvol>
+<!--
+<physvol>
+    <volumeref ref="guardd1" />
+    <position name="gd1Pos" unit="cm" x="0"  y="0"   z= "0.007475"/>
+</physvol>
+-->
+<physvol>
+    <volumeref ref="vd20" />
+    <position name="vd20Pos" unit="cm" x="0"  y="0"   z= "4.295025"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd21" />
+    <position name="vd21Pos" unit="cm" x="0"  y="0"   z= "4.295025"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd22" />
+    <position name="vd22Pos" unit="cm" x="0"  y="0"   z= "4.295025"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd23" />
+    <position name="vd23Pos" unit="cm" x="0"  y="0"   z= "4.295025"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd24" />
+    <position name="vd24Pos" unit="cm" x="0"  y="0"   z= "4.295025"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd25" />
+    <position name="vd25Pos" unit="cm" x="0"  y="0"   z= "4.295025"/>
+</physvol>
+<!--
+<physvol>
+    <volumeref ref="guardd2" />
+    <position name="gd2Pos" unit="cm" x="0"  y="0"   z= "4.295025"/>
+</physvol>
+-->
+<physvol>
+    <volumeref ref="vd30" />
+    <position name="vd30Pos" unit="cm" x="0"  y="0"   z= "4.856175"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd40" />
+    <position name="vd40Pos" unit="cm" x="0"  y="0"   z= "5.556475"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd50" />
+    <position name="vd50Pos" unit="cm" x="0"  y="0"   z= "6.351475"/>
+</physvol>
+<physvol>
+    <volumeref ref="vd60" />
+    <position name="vd60Pos" unit="cm" x="0"  y="0"   z= "8.765"/>
+</physvol>

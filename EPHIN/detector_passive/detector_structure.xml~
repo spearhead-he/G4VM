@@ -1,0 +1,64 @@
+<volume name="vd10">
+  <solidref ref="D10" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd11">
+  <solidref ref="D11" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd12">
+  <solidref ref="D12" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd13">
+  <solidref ref="D13" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd14">
+  <solidref ref="D14" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd15">
+  <solidref ref="D15" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd20">
+  <solidref ref="D20" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd21">
+  <solidref ref="D21" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd22">
+  <solidref ref="D22" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd23">
+  <solidref ref="D23" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd24">
+  <solidref ref="D24" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd25">
+  <solidref ref="D25" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd30">
+  <solidref ref="D30" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd40">
+  <solidref ref="D40" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd50">
+  <solidref ref="D50" />
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd60">
+  <solidref ref="D60" />
+  <materialref ref="Semiconductor" />
+  </volume>

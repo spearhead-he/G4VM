@@ -1,0 +1,97 @@
+<volume name="vd10">
+  <solidref ref="D10" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="Color" auxvalue="blue"/>
+  <materialref ref="Semiconductor" />
+  <auxiliary auxtype="SensDet" auxvalue="D10"/>
+  </volume>
+  <volume name="vd11">
+  <solidref ref="D11" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D11"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd12">
+  <solidref ref="D12" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D12"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd13">
+  <solidref ref="D13" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D13"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd14">
+  <solidref ref="D14" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D14"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd15">
+  <solidref ref="D15" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D15"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd20">
+  <solidref ref="D20" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D20"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd21">
+  <solidref ref="D21" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D21"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd22">
+  <solidref ref="D22" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D22"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd23">
+  <solidref ref="D23" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D23"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd24">
+  <solidref ref="D24" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D24"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd25">
+  <solidref ref="D25" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D25"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd30">
+  <solidref ref="D30" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D30"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd40">
+  <solidref ref="D40" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D40"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd50">
+  <solidref ref="D50" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D50"/>
+  <materialref ref="Semiconductor" />
+  </volume>
+  <volume name="vd60">
+  <solidref ref="D60" />
+  <colorref ref="clGreen" /> 
+  <auxiliary auxtype="SensDet" auxvalue="D60"/>
+  <materialref ref="Semiconductor" />
+  </volume>

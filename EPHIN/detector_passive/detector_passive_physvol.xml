@@ -1,0 +1,24 @@
+<physvol>
+    <volumeref ref="vd1R" />
+    <position name="vd1RPos" unit="cm" x="0"  y="0"   z= "0.0075"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd2R" />
+    <position name="vd2RPos" unit="cm" x="0"  y="0"   z= "4.295"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd3R" />
+    <position name="vd3RPos" unit="cm" x="0"  y="0"   z= "0.0"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd4R" />
+    <position name="vd4RPos" unit="cm" x="0"  y="0"   z= "0.0"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd5R" />
+    <position name="vd5RPos" unit="cm" x="0"  y="0"   z= "0.0"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd6R" />
+    <position name="vd6RPos" unit="cm" x="0"  y="0"   z= "8.765"/>
+    </physvol>

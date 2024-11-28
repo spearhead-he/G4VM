@@ -1,0 +1,52 @@
+<materials>
+
+<material name="Semiconductor" Z="14.0" >
+<D type="density" value="2.33" unit="g/cm3" />
+<atom value="28.086" />
+</material>
+
+
+<material name="Scintillator" Z="6" >
+<D value="1.032" unit="g/cm3"/>
+<atom value="12.01"/>
+</material>
+
+
+
+
+<material name="Delrin" Z="4">
+<D type="denstiy" value="1.41" unit="g/cm3"/>
+<atom value="7.5"/>
+</material>
+
+
+<material name="Aluminum" formula="Aluminum" Z="13" >
+<D type="density" value="2.7" unit="g/cm3"/>
+<atom type="A" value="26.98"/>
+</material>
+
+
+
+<material name="Kaptonfoil" Z="5">
+<D type="denstiy" value="1.42" unit="g/cm3"/>
+<atom value="9.8"/>
+</material>
+<material name="Titanfoil" Z="22" >
+<D type="density" value="4.51" unit="g/cm3"/>
+<atom type="A" value="47.9"/>
+
+
+
+
+
+<element name="videRef" formula="VACUUM" Z="1">
+<atom value="1"/>
+</element>
+<material name="Vacuum" formula="Vacuum">
+<D value ="1E-25" unit="g/cm3"/>
+<fraction n="1.0" ref="videRef"/>
+</material>
+
+
+
+</materials>

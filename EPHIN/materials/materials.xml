@@ -1,0 +1,51 @@
+<material name="Semiconductor" Z="14.0" >
+<D value="2.33" />
+<atom value="28.086" />
+</material>
+
+<material name="Scintillator" Z="6" >
+<D value="1.032" />
+<atom value="12.01"/>
+</material>
+
+<material name="Delrin" Z="4">
+<D value="1.41" />
+<atom value="7.5"/>
+</material>
+
+<material name="Aluminum" formula="Al" Z="13" >
+<D value="2.7" />
+<atom value="26.98"/>
+</material>
+
+<material name="Kaptonfoil" Z="5">
+<D value="1.42" />
+<atom value="9.8"/>
+</material>
+
+<material name="Titanfoil" formula="Titanium" Z="22" state="solid">
+<T type="temperature" value="273.15" unit="kelvin"/>
+<P type="pressure" value="1.0" unit="atmosphere"/>
+<D value="4.51" />
+<atom type="A" value="47.9"/>
+</material>
+
+<element name="videRef" formula="VACUUM" Z="1">
+<atom value="1"/>
+</element>
+
+<material name="Vacuum" formula="Vacuum">
+<D value ="1E-25" unit="g/cm3"/>
+<fraction n="1.0" ref="videRef"/>
+</material>
+
+<material name="DenseAluminum" formula="Al" Z="13" >
+<D value="27" />
+<atom value="26.98"/>
+</material>
+
+<material name="SCDenseAluminum" formula="Al" Z="13" >
+<D value="1.145" />
+<atom value="26.98"/>
+</material>
+

@@ -1,0 +1,78 @@
+<physvol>
+    <volumeref ref="vd10" />
+    <position unit="cm" x="0"  y="0"   z= "0.0075"/>
+<sdID id="10"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd11" />
+    <position unit="cm" x="0"  y="0"   z= "0.0075"/>
+<sdID id="11"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd12" />
+    <position unit="cm" x="0"  y="0"   z= "0.0075"/>
+<sdID id="12"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd13" />
+    <position unit="cm" x="0"  y="0"   z= "0.0075"/>
+<sdID id="13"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd14" />
+    <position unit="cm" x="0"  y="0"   z= "0.0075"/>
+<sdID id="14"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd15" />
+    <position unit="cm" x="0"  y="0"   z= "0.0075"/>
+<sdID id="15"/>
+    </physvol>
+
+    <physvol>
+    <volumeref ref="vd20" />
+    <position unit="cm" x="0"  y="0"   z= "4.295"/>
+<sdID id="20"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd21" />
+    <position unit="cm" x="0"  y="0"   z= "4.295"/>
+<sdID id="21"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd22" />
+    <position unit="cm" x="0"  y="0"   z= "4.295"/>
+<sdID id="22"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd23" />
+    <position unit="cm" x="0"  y="0"   z= "4.295"/>
+<sdID id="23"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd24" />
+    <position unit="cm" x="0"  y="0"   z= "4.295"/>
+<sdID id="24"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd25" />
+    <position unit="cm" x="0"  y="0"   z= "4.295"/>
+<sdID id="25"/>
+    </physvol>
+
+    <physvol>
+    <volumeref ref="vd30" />
+    <position unit="cm" x="0"  y="0"   z= "4.855"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd40" />
+    <position unit="cm" x="0"  y="0"   z= "5.555"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd50" />
+    <position unit="cm" x="0"  y="0"   z= "6.35"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vd60" />
+    <position unit="cm" x="0"  y="0"   z= "8.765"/>
+    </physvol>

@@ -1,0 +1,134 @@
+<polycone name = "AL1" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="2.71" rmax="4.15" z="-1.295"/>
+  <zplane rmin="2.665" rmax="4.15" z="-1.245"/>
+  <zplane rmin="2.665" rmax="2.73" z="-1.245"/>
+  <zplane rmin="2.41" rmax="2.48" z="-0.965"/>
+  <zplane rmin="2.38" rmax="2.48" z="-0.925"/>
+  <zplane rmin="2.38" rmax="2.48" z="-0.315"/>
+</polycone>
+<polycone name = "AL2" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="1.94" rmax="2.84" z="-0.315"/>
+  <zplane rmin="1.94" rmax="2.84" z="-0.22"/>
+  <zplane rmin="2.77" rmax="2.84" z="-0.22"/>
+  <zplane rmin="2.77" rmax="2.84" z="0.055"/>
+  <zplane rmin="2.77" rmax="3.3" z="0.055"/>
+  <zplane rmin="2.77" rmax="3.3" z="0.49"/>
+  <zplane rmin="2.62" rmax="3.3" z="0.49"/>
+  <zplane rmin="2.62" rmax="3.3" z="0.59"/>
+</polycone>
+<polycone name = "AL3" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="1.94" rmax="2.62" z="-0.22"/>
+  <zplane rmin="1.94" rmax="2.62" z="-0.12"/>
+  <zplane rmin="2.35" rmax="2.62" z="-0.12"/>
+  <zplane rmin="2.35" rmax="2.62" z="0.39"/>
+  <zplane rmin="1.9" rmax="2.62" z="0.39"/>
+  <zplane rmin="1.9" rmax="2.62" z="0.59"/>
+</polycone>
+<polycone name = "AL4" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="3.1" rmax="4.8" z="-0.995"/>
+  <zplane rmin="3.2" rmax="4.8" z="-0.895"/>
+  <zplane rmin="3.2" rmax="3.5" z="-0.895"/>
+  <zplane rmin="3.375" rmax="3.5" z="-0.745"/>
+  <zplane rmin="3.92" rmax="4.03" z="-0.265"/>
+  <zplane rmin="3.95" rmax="4.03" z="-0.23"/>
+  <zplane rmin="3.95" rmax="4.03" z="7.605"/>
+  <zplane rmin="3.95" rmax="4.225" z="7.805"/>
+</polycone>
+<polycone name = "AL5" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="1.9" rmax="3.28" z="3.705"/>
+  <zplane rmin="1.9" rmax="3.28" z="3.805"/>
+  <zplane rmin="2.77" rmax="3.2" z="3.805"/>
+  <zplane rmin="2.77" rmax="3.2" z="4.205"/>
+</polycone>
+<polycone name = "AL6" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="1.9" rmax="2.62" z="3.805"/>
+  <zplane rmin="1.9" rmax="2.62" z="3.905"/>
+  <zplane rmin="2.35" rmax="2.62" z="3.905"/>
+  <zplane rmin="2.35" rmax="2.62" z="4.43"/>
+  <zplane rmin="1.94" rmax="2.62" z="4.43"/>
+  <zplane rmin="1.94" rmax="2.62" z="4.53"/>
+</polycone>
+<cone name = "AL7" rmin1="3.2" rmax1="3.28" rmin2="3.2" rmax2="3.28" z="4.7"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<polycone name = "AL8" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="2.43" rmax="3.2" z="7.105"/>
+  <zplane rmin="2.49" rmax="3.2" z="7.205"/>
+  <zplane rmin="2.75" rmax="3.2" z="7.205"/>
+  <zplane rmin="2.85" rmax="3.2" z="7.305"/>
+</polycone>
+<polycone name = "AL9" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="3.95" rmax="6.2" z="7.805"/>
+  <zplane rmin="3.95" rmax="6.2" z="7.955"/>
+  <zplane rmin="6.05" rmax="6.2" z="7.955"/>
+  <zplane rmin="6.05" rmax="6.2" z="9.455"/>
+</polycone>
+
+
+<polycone name = "A10" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="3.28" rmax="3.35" z="8.205"/>
+  <zplane rmin="3.28" rmax="3.4" z="8.405"/>
+  <zplane rmin="3.28" rmax="3.99" z="8.405"/>
+  <zplane rmin="3.28" rmax="3.99" z="8.585"/>
+</polycone>
+<polycone name = "A11" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="3.99" rmax="4.87" z="8.485"/>
+  <zplane rmin="3.99" rmax="4.87" z="8.615"/>
+  <zplane rmin="4.6" rmax="4.87" z="8.615"/>
+  <zplane rmin="4.6" rmax="4.87" z="9.205"/>
+  <zplane rmin="3.95" rmax="4.87" z="9.205"/>
+  <zplane rmin="3.95" rmax="4.87" z="9.335"/>
+</polycone>
+<cone name = "A12" rmin1="0" rmax1="4.92" rmin2="0"rmax2="4.92" z="0.05"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "A13" rmin1="0" rmax1="6.2" rmin2="0"rmax2="6.2" z="0.15"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "A14" rmin1="1.9" rmax1="1.98" rmin2="1.9" rmax2="1.98" z="3.115"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<polycone name = "A15" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="6.645" rmax="6.645" z="-3.62"/>
+  <zplane rmin="6.57" rmax="6.715" z="-3.545"/>
+  <zplane rmin="5.16" rmax="5.3" z="-2.125"/>
+</polycone>
+<polycone name = "A16" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="2.85" rmax="3.2" z="7.305"/>
+  <zplane rmin="2.85" rmax="3.2" z="8.455"/>
+  <zplane rmin="2.94" rmax="3.2" z="8.505"/>
+  <zplane rmin="2.94" rmax="3.28" z="8.505"/>
+  <zplane rmin="3.1" rmax="3.28" z="8.585"/>
+</polycone>
+<polycone name = "A17" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="3.95" rmax="6.05" z="7.955"/>
+  <zplane rmin="3.8" rmax="6.05" z="8.405"/>
+  <zplane rmin="3.99" rmax="6.05" z="8.405"/>
+  <zplane rmin="3.99" rmax="6.05" z="8.485"/>
+  <zplane rmin="4.87" rmax="6.05" z="8.485"/>
+  <zplane rmin="4.87" rmax="6.05" z="8.605"/>
+  <zplane rmin="5.37" rmax="6.05" z="8.605"/>
+  <zplane rmin="5.37" rmax="6.05" z="9.385"/>
+  <zplane rmin="5.45" rmax="6.05" z="9.385"/>
+  <zplane rmin="5.45" rmax="6.05" z="9.455"/>
+</polycone>
+<polycone name = "A18" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="4.7" rmax="5.3" z="-1.495"/>
+  <zplane rmin="4.7" rmax="5.3" z="-1.345"/>
+  <zplane rmin="4.7" rmax="4.8" z="-1.345"/>
+  <zplane rmin="4.7" rmax="4.8" z="-1.245"/>
+  <zplane rmin="4.25" rmax="4.8" z="-1.245"/>
+  <zplane rmin="4.25" rmax="4.8" z="-0.995"/>
+</polycone>
+<polycone name = "A19" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="3.66" rmax="3.8" z="-1.865"/>
+  <zplane rmin="3.59" rmax="3.8" z="-1.795"/>
+  <zplane rmin="3.59" rmax="4.7" z="-1.795"/>
+  <zplane rmin="3.51" rmax="4.7" z="-1.695"/>
+  <zplane rmin="4.25" rmax="4.7" z="-1.695"/>
+  <zplane rmin="4.25" rmax="4.7" z="-1.595"/>
+</polycone>
+<polycone name = "A20" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="3.8" rmax="5.3" z="-2.025"/>
+  <zplane rmin="3.68" rmax="5.3" z="-1.885"/>
+  <zplane rmin="3.82" rmax="5.3" z="-1.885"/>
+  <zplane rmin="3.82" rmax="5.3" z="-1.795"/>
+  <zplane rmin="4.7" rmax="5.3" z="-1.795"/>
+  <zplane rmin="4.7" rmax="5.3" z="-1.495"/>
+</polycone>

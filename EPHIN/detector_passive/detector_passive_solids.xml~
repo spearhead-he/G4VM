@@ -1,0 +1,14 @@
+<cone name = "D1R" rmin1="1.9" rmax1="2.25" rmin2="1.9" rmax2="2.25" z="0.015"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "D2R" rmin1="1.9" rmax1="2.25" rmin2="1.9" rmax2="2.25" z="0.03"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+
+<cone name = "D3R" rmin1="2.2" rmax1="2.3" rmin2="2.2" rmax2="2.3" z="0.3"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "D4R" rmin1="2.2" rmax1="2.3" rmin2="2.2" rmax2="2.3" z="0.5"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "D5R" rmin1="2.2" rmax1="2.3" rmin2="2.2" rmax2="2.3" z="0.5"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+
+<cone name = "D6R" rmin1="4" rmax1="4.5" rmin2="4" rmax2="4.5" z="0.07"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />

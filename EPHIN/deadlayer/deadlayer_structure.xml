@@ -1,0 +1,181 @@
+<volume name="vfrontdead10">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead10" />
+  <auxiliary auxtype="Color" auxvalue="blue"/>
+	  <!--<auxiliary auxtype="SD" auxvalue="10000" auxunit="id"/>-->
+</volume>
+<volume name="vfrontdead11">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead11" />
+  <!--<auxiliary auxtype="SD" auxvalue="11000" auxunit="id"/>-->
+</volume>
+<volume name="vfrontdead12">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead12" />
+  <!--<auxiliary auxtype="SD" auxvalue="12000" auxunit="id"/>-->
+</volume>
+<volume name="vfrontdead13">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead13" />
+  <!--<auxiliary auxtype="SD" auxvalue="13000" auxunit="id"/>-->
+</volume>
+<volume name="vfrontdead14">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead14" />
+  <!--<auxiliary auxtype="SD" auxvalue="14000" auxunit="id"/>-->
+</volume>
+<volume name="vfrontdead15">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead15" />
+  <!--<auxiliary auxtype="SD" auxvalue="15000" auxunit="id"/>-->
+</volume>
+<volume name="vbackdead10">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead10" />
+  <auxiliary auxtype="Color" auxvalue="blue"/>
+  <!--<auxiliary auxtype="SD" auxvalue="10500" auxunit="id"/>-->
+</volume>
+<volume name="vbackdead11">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead11" />
+  <!--<auxiliary auxtype="SD" auxvalue="11500" auxunit="id"/>-->
+</volume>
+<volume name="vbackdead12">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead12" />
+  <!--<auxiliary auxtype="SD" auxvalue="12500" auxunit="id"/>-->
+</volume>
+<volume name="vbackdead13">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead13" />
+  <!--<auxiliary auxtype="SD" auxvalue="13500" auxunit="id"/>-->
+</volume>
+<volume name="vbackdead14">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead14" />
+  <!--<auxiliary auxtype="SD" auxvalue="14500" auxunit="id"/>-->
+</volume>
+<volume name="vbackdead15">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead15" />
+  <!--<auxiliary auxtype="SD" auxvalue="15500" auxunit="id"/>-->
+</volume>
+
+
+
+
+<volume name="vfrontdead20">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead20" />
+  <auxiliary auxtype="SD" auxvalue="20000" auxunit="id"/>
+</volume>
+<volume name="vfrontdead21">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead21" />
+  <auxiliary auxtype="SD" auxvalue="21000" auxunit="id"/>
+</volume>
+<volume name="vfrontdead22">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead22" />
+  <auxiliary auxtype="SD" auxvalue="22000" auxunit="id"/>
+</volume>
+<volume name="vfrontdead23">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead23" />
+  <auxiliary auxtype="SD" auxvalue="23000" auxunit="id"/>
+</volume>
+<volume name="vfrontdead24">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead24" />
+  <auxiliary auxtype="SD" auxvalue="24000" auxunit="id"/>
+</volume>
+<volume name="vfrontdead25">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead25" />
+  <auxiliary auxtype="SD" auxvalue="25000" auxunit="id"/>
+</volume>
+<volume name="vbackdead20">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead20" />
+  <auxiliary auxtype="SD" auxvalue="20500" auxunit="id"/>
+</volume>
+<volume name="vbackdead21">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead21" />
+  <auxiliary auxtype="SD" auxvalue="21500" auxunit="id"/>
+</volume>
+<volume name="vbackdead22">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead22" />
+  <auxiliary auxtype="SD" auxvalue="22500" auxunit="id"/>
+</volume>
+<volume name="vbackdead23">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead23" />
+  <auxiliary auxtype="SD" auxvalue="23500" auxunit="id"/>
+</volume>
+<volume name="vbackdead24">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead24" />
+  <auxiliary auxtype="SD" auxvalue="24500" auxunit="id"/>
+</volume>
+<volume name="vbackdead25">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead25" />
+  <auxiliary auxtype="SD" auxvalue="25500" auxunit="id"/>
+</volume>
+
+
+
+
+<volume name="vfrontdead30">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead30" />
+  <auxiliary auxtype="SD" auxvalue="30000" auxunit="id"/>
+</volume>
+<volume name="vbackdead30">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead30" />
+  <auxiliary auxtype="SD" auxvalue="30500" auxunit="id"/>
+</volume>
+
+
+<volume name="vfrontdead40">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead40" />
+  <auxiliary auxtype="SD" auxvalue="40000" auxunit="id"/>
+</volume>
+<volume name="vbackdead40">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead40" />
+  <auxiliary auxtype="SD" auxvalue="40500" auxunit="id"/>
+</volume>
+
+
+
+<volume name="vfrontdead50">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead50" />
+  <auxiliary auxtype="SD" auxvalue="50000" auxunit="id"/>
+</volume>
+<volume name="vbackdead50">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead50" />
+  <auxiliary auxtype="SD" auxvalue="50500" auxunit="id"/>
+</volume>
+
+
+<volume name="vfrontdead60">
+  <materialref ref="Semiconductor" />
+  <solidref ref="frontdead60" />
+  <auxiliary auxtype="SD" auxvalue="60000" auxunit="id"/>
+</volume>
+<volume name="vbackdead60">
+  <materialref ref="Semiconductor" />
+  <solidref ref="backdead60" />
+  <auxiliary auxtype="SD" auxvalue="60500" auxunit="id"/>
+</volume>
+
+
+
+

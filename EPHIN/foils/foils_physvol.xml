@@ -1,0 +1,8 @@
+<physvol>
+    <volumeref ref="vKaf" />
+    <position name="vKafPos" unit="cm" x="0"  y="0"   z= "-1.865"/>
+    </physvol>
+    <physvol>
+    <volumeref ref="vTif" />
+    <position name="vTifPos" unit="cm" x="0"  y="0"   z= "-1.445"/>
+    </physvol>

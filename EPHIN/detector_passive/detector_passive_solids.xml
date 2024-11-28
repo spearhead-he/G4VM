@@ -1,0 +1,28 @@
+<cone name = "D1R" rmin1="1.9" rmax1="2.25" rmin2="1.9" rmax2="2.25" z="0.015"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "D2R" rmin1="1.9" rmax1="2.25" rmin2="1.9" rmax2="2.25" z="0.03"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+
+<polycone name = "D3R" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="2.2" rmax="2.5" z="4.7"/>
+  <zplane rmin="2.2" rmax="2.5" z="4.9"/>
+  <zplane rmin="2.3" rmax="2.5" z="4.9"/>
+  <zplane rmin="2.3" rmax="2.5" z="5"/>
+</polycone>
+
+<polycone name = "D4R" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="2.2" rmax="2.5" z="5.3"/>
+  <zplane rmin="2.2" rmax="2.5" z="5.7"/>
+  <zplane rmin="2.3" rmax="2.5" z="5.7"/>
+  <zplane rmin="2.3" rmax="2.5" z="5.805"/>
+</polycone>
+
+<polycone name = "D5R" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="2.2" rmax="2.5" z="6.1"/>
+  <zplane rmin="2.2" rmax="2.5" z="6.5"/>
+  <zplane rmin="2.3" rmax="2.5" z="6.5"/>
+  <zplane rmin="2.3" rmax="2.5" z="6.6"/>
+</polycone>
+
+<cone name = "D6R" rmin1="4" rmax1="4.5" rmin2="4" rmax2="4.5" z="0.07"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />

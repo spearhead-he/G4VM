@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gdml [ 
+<!ENTITY materials SYSTEM "materials/materials.xml">
+<!ENTITY shield_materials SYSTEM "shield/shield_materials.xml">
+
+<!ENTITY detector_solids SYSTEM "detector/detector_solids.xml">
+<!ENTITY detector_structure SYSTEM "detector/detector_structure.xml">
+<!ENTITY detector_physvol SYSTEM "detector/detector_physvol.xml">
+
+<!ENTITY detector_passive_solids SYSTEM "detector_passive/detector_passive_solids.xml">
+<!ENTITY detector_passive_structure SYSTEM "detector_passive/detector_passive_structure.xml">
+<!ENTITY detector_passive_physvol SYSTEM "detector_passive/detector_passive_physvol.xml">
+
+<!ENTITY foils_solids SYSTEM "foils/foils_solids.xml">
+<!ENTITY foils_structure SYSTEM "foils/foils_structure.xml">
+<!ENTITY foils_physvol SYSTEM "foils/foils_physvol.xml">
+
+<!ENTITY anticoincidence_solids SYSTEM "anticoincidence/anticoincidence_solids.xml">
+<!ENTITY anticoincidence_structure SYSTEM "anticoincidence/anticoincidence_structure.xml">
+<!ENTITY anticoincidence_physvol SYSTEM "anticoincidence/anticoincidence_physvol.xml">
+
+<!ENTITY rtv_solids SYSTEM "rtv/rtv_solids.xml">
+<!ENTITY rtv_structure SYSTEM "rtv/rtv_structure.xml">
+<!ENTITY rtv_physvol SYSTEM "rtv/rtv_physvol.xml">
+
+<!ENTITY delrin_solids SYSTEM "delrin/delrin_solids.xml">
+<!ENTITY delrin_structure SYSTEM "delrin/delrin_structure.xml">
+<!ENTITY delrin_physvol SYSTEM "delrin/delrin_physvol.xml">
+
+<!ENTITY aluminium_solids SYSTEM "aluminium/aluminium_solids.xml">
+<!ENTITY aluminium_structure SYSTEM "aluminium/aluminium_structure.xml">
+<!ENTITY aluminium_physvol SYSTEM "aluminium/aluminium_physvol.xml">
+
+<!ENTITY shield_solids SYSTEM "shield/shield_solids.xml">
+<!ENTITY shield_structure SYSTEM "shield/shield_structure.xml">
+<!ENTITY shield_physvol SYSTEM "shield/shield_physvol.xml">
+
+<!ENTITY deadlayer_solids SYSTEM "deadlayer/deadlayer_solids.xml">
+<!ENTITY deadlayer_structure SYSTEM "deadlayer/deadlayer_structure.xml">
+<!ENTITY deadlayer_physvol SYSTEM "deadlayer/deadlayer_physvol.xml">
+]>
+
+<gdml xmlns:gdml="http://cern.ch/2001/Schemas/GDML"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="schema/gdml.xsd"
+	 >
+	 
+<define>
+	<position name="TrackerinWorldpos" unit="mm" x="0" y="0" z="0"/>
+</define>
+
+<materials>
+&materials;
+&shield_materials;
+</materials>
+
+<solids>
+  <cone name = "world2" rmin1="0" rmax1="20" rmin2="0" rmax2="20" z="50" startphi="0" deltaphi="360" aunit="deg" lunit="cm" />
+  <polycone name="world" startphi="0" deltaphi="360" aunit="deg" lunit="cm">
+    <zplane rmin="0" rmax="100" z="100"/>
+    <zplane rmin="0" rmax="100" z="-100"/>
+  </polycone>
+
+  &detector_solids;
+  &detector_passive_solids;
+  &foils_solids;
+  &anticoincidence_solids;
+  &rtv_solids;
+  &delrin_solids;
+  &aluminium_solids;
+  &shield_solids;
+  &deadlayer_solids;
+</solids>
+
+
+<structure>
+  &detector_structure;
+  &detector_passive_structure;
+  &foils_structure;
+  &anticoincidence_structure;
+  &rtv_structure;
+  &delrin_structure;
+  &aluminium_structure;
+  <!-- &shield_structure; -->
+  &deadlayer_structure;
+  <volume name="World" >
+    <materialref ref="Vacuum" />
+    <solidref ref="world" />
+
+    &detector_physvol;
+    &aluminium_physvol;
+    &anticoincidence_physvol;
+    &detector_passive_physvol;
+    &foils_physvol;  
+    &rtv_physvol;
+    &delrin_physvol;
+    <!--&shield_physvol; -->
+    &deadlayer_physvol;
+	    <!--<auxiliary auxtype="poscut" auxunit="mm" auxvalue="1"/>-->
+  </volume>
+</structure>
+
+
+<setup name="Default" version="1.0" >
+<world ref="World" />
+</setup>
+
+</gdml>
+

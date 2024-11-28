@@ -1,0 +1,8 @@
+<volume name="vKaf">
+  <materialref ref="Kaptonfoil" />
+  <solidref ref="Kaf" />
+  </volume>
+  <volume name="vTif">
+  <materialref ref="Titanfoil" />
+  <solidref ref="Tif" />
+  </volume>

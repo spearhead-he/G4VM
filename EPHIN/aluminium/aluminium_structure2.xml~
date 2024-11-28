@@ -1,0 +1,82 @@
+<volume name="vAL1">
+  <solidref ref="AL1" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vAL2">
+  <solidref ref="AL2" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vAL3">
+  <solidref ref="AL3" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vAL4">
+  <solidref ref="AL4" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vAL5">
+  <solidref ref="AL5" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vAL6">
+  <solidref ref="AL6" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vAL7">
+  <solidref ref="AL7" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vAL8">
+  <solidref ref="AL8" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vAL9">
+  <solidref ref="AL9" />
+  <materialref ref="Aluminum" />
+  </volume>
+
+<volume name="vA10">
+  <solidref ref="A10" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vA11">
+  <solidref ref="A11" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vA12">
+  <solidref ref="A12" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vA13">
+  <solidref ref="A13" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vA14">
+  <solidref ref="A14" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vA15">
+  <solidref ref="A15" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vA16">
+  <solidref ref="A16" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vA17">
+  <solidref ref="A17" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vA18">
+  <solidref ref="A18" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vA19">
+  <solidref ref="A19" />
+  <materialref ref="Aluminum" />
+  </volume>
+<volume name="vA20">
+  <solidref ref="A20" />
+  <materialref ref="Aluminum" />
+  </volume>
+

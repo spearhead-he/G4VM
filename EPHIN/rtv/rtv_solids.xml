@@ -1,0 +1,11 @@
+<polycone name = "RTV1" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="2.785" rmax="2.85" z="-1.145"/>
+  <zplane rmin="2.715" rmax="2.85" z="-1.075"/>
+  <zplane rmin="2.65" rmax="2.78" z="-0.995"/>
+</polycone>
+
+<polycone name = "RTV2" startphi="0" deltaphi="360" aunit="deg" lunit= "cm">
+  <zplane rmin="2.85" rmax="3.1" z="-1.145"/>
+  <zplane rmin="2.85" rmax="3.1" z="-1.075"/>
+  <zplane rmin="2.935" rmax="3.1" z="-0.995"/>
+</polycone>

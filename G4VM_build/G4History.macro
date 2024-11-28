@@ -1,0 +1,45 @@
+/vis/open OGL
+/vis/sceneHandler/create OGL
+/vis/viewer/create ! ! 600x600-0+0
+/vis/viewer/refresh
+/vis/viewer/set/autoRefresh true
+/vis/verbose errors
+/vis/drawVolume
+/vis/scene/create
+/vis/scene/add/volume world -1 -1 none m 0 0 0 0 0 0
+/vis/sceneHandler/attach
+/vis/viewer/set/viewpointVector 0 1 0.000001
+/vis/viewer/refresh
+/vis/viewer/set/lightsVector -1 0 0
+/vis/viewer/refresh
+/vis/viewer/set/style wireframe
+/vis/viewer/refresh
+/vis/viewer/set/auxiliaryEdge true
+/vis/viewer/refresh
+/vis/viewer/set/lineSegmentsPerCircle 25
+/vis/viewer/refresh
+/vis/modeling/trajectories/create/generic
+/vis/modeling/trajectories/generic-0/default/setDrawStepPts true
+/vis/scene/notifyHandlers scene-0
+/vis/modeling/trajectories/generic-0/default/setStepPtsSize 16
+/vis/scene/notifyHandlers scene-0
+/vis/modeling/trajectories/generic-0/default/setStepPtsColour red
+/vis/scene/notifyHandlers scene-0
+/vis/scene/add/trajectories
+/tracking/storeTrajectory 1
+/vis/scene/notifyHandlers
+/vis/scene/add/trajectories smooth rich
+/tracking/storeTrajectory 4
+/vis/scene/notifyHandlers
+/vis/modeling/trajectories/create/drawByCharge
+/vis/modeling/trajectories/drawByCharge-0/default/setDrawStepPts true
+/vis/scene/notifyHandlers scene-0
+/vis/modeling/trajectories/drawByCharge-0/default/setStepPtsSize 2
+/vis/scene/notifyHandlers scene-0
+/vis/scene/add/hits
+/vis/scene/notifyHandlers
+/vis/scene/endOfEventAction accumulate
+/vis/scene/endOfRunAction accumulate
+/vis/viewer/set/autoRefresh true
+/vis/viewer/refresh
+/vis/verbose warnings

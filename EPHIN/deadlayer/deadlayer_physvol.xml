@@ -1,0 +1,137 @@
+<physvol>
+    <volumeref ref="vfrontdead10" />
+    <position name="vfrontdead10Pos" unit="cm" x="0"  y="0"   z= "-0.00021"/>
+</physvol>
+<physvol>
+    <volumeref ref="vfrontdead11" />
+    <position name="vfrontdead11Pos" unit="cm" x="0"  y="0"   z= "-0.00021"/>
+</physvol>
+<physvol>
+    <volumeref ref="vfrontdead12" />
+    <position name="vfrontdead12Pos" unit="cm" x="0"  y="0"   z= "-0.00021"/>
+</physvol>
+<physvol>
+    <volumeref ref="vfrontdead13" />
+    <position name="vfrontdead13Pos" unit="cm" x="0"  y="0"   z= "-0.00021"/>
+</physvol>
+<physvol>
+    <volumeref ref="vfrontdead14" />
+    <position name="vfrontdead14Pos" unit="cm" x="0"  y="0"   z= "-0.00021"/>
+</physvol>
+<physvol>
+    <volumeref ref="vfrontdead15" />
+    <position name="vfrontdead15Pos" unit="cm" x="0"  y="0"   z= "-0.00021"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead10" />
+    <position name="vbackdead10Pos" unit="cm" x="0"  y="0"   z= "0.015185"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead11" />
+    <position name="vbackdead11Pos" unit="cm" x="0"  y="0"   z= "0.015185"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead12" />
+    <position name="vbackdead12Pos" unit="cm" x="0"  y="0"   z= "0.015185"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead13" />
+    <position name="vbackdead13Pos" unit="cm" x="0"  y="0"   z= "0.015185"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead14" />
+    <position name="vbackdead14Pos" unit="cm" x="0"  y="0"   z= "0.015185"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead15" />
+    <position name="vbackdead15Pos" unit="cm" x="0"  y="0"   z= "0.015185"/>
+</physvol>
+
+
+<physvol>
+    <volumeref ref="vfrontdead20" />
+    <position name="vfrontdead20Pos" unit="cm" x="0"  y="0"   z= "4.279515"/>
+</physvol>
+<physvol>
+    <volumeref ref="vfrontdead21" />
+    <position name="vfrontdead21Pos" unit="cm" x="0"  y="0"   z= "4.279515"/>
+</physvol>
+<physvol>
+    <volumeref ref="vfrontdead22" />
+    <position name="vfrontdead22Pos" unit="cm" x="0"  y="0"   z= "4.279515"/>
+</physvol>
+<physvol>
+    <volumeref ref="vfrontdead23" />
+    <position name="vfrontdead23Pos" unit="cm" x="0"  y="0"   z= "4.279515"/>
+</physvol>
+<physvol>
+    <volumeref ref="vfrontdead24" />
+    <position name="vfrontdead24Pos" unit="cm" x="0"  y="0"   z= "4.279515"/>
+</physvol>
+<physvol>
+    <volumeref ref="vfrontdead25" />
+    <position name="vfrontdead25Pos" unit="cm" x="0"  y="0"   z= "4.279515"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead20" />
+    <position name="vbackdead20Pos" unit="cm" x="0"  y="0"   z= "4.31051"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead21" />
+    <position name="vbackdead21Pos" unit="cm" x="0"  y="0"   z= "4.31051"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead22" />
+    <position name="vbackdead22Pos" unit="cm" x="0"  y="0"   z= "4.31051"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead23" />
+    <position name="vbackdead23Pos" unit="cm" x="0"  y="0"   z= "4.31051"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead24" />
+    <position name="vbackdead24Pos" unit="cm" x="0"  y="0"   z= "4.31051"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead25" />
+    <position name="vbackdead25Pos" unit="cm" x="0"  y="0"   z= "4.31051"/>
+</physvol>
+
+<physvol>
+    <volumeref ref="vfrontdead30" />
+    <position name="vfrontdead30Pos" unit="cm" x="0"  y="0"   z= "4.7039"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead30" />
+    <position name="vbackdead30Pos" unit="cm" x="0"  y="0"   z= "5.007275"/>
+</physvol>
+
+
+<physvol>
+    <volumeref ref="vfrontdead40" />
+    <position name="vfrontdead40Pos" unit="cm" x="0"  y="0"   z= "5.3232"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead40" />
+    <position name="vbackdead40Pos" unit="cm" x="0"  y="0"   z= "5.788275"/>
+</physvol>
+
+
+<physvol>
+    <volumeref ref="vfrontdead50" />
+    <position name="vfrontdead50Pos" unit="cm" x="0"  y="0"   z= "6.10915"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead50" />
+    <position name="vbackdead50Pos" unit="cm" x="0"  y="0"   z= "6.592325"/>
+</physvol>
+
+
+<physvol>
+    <volumeref ref="vfrontdead60" />
+    <position name="vfrontdead60Pos" unit="cm" x="0"  y="0"   z= "8.73004"/>
+</physvol>
+<physvol>
+    <volumeref ref="vbackdead60" />
+    <position name="vbackdead60Pos" unit="cm" x="0"  y="0"   z= "8.79996"/>
+</physvol>

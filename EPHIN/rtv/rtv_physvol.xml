@@ -1,0 +1,8 @@
+<physvol>
+    <volumeref ref="vRTV1" />
+    <position name="vRTV1Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vRTV2" />
+    <position name="vRTV2Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>

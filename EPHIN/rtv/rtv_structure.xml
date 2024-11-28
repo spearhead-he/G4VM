@@ -1,0 +1,9 @@
+<volume name="vRTV1">
+  <materialref ref="Delrin" />
+  <solidref ref="RTV1" />
+  </volume>
+<volume name="vRTV2">
+  <materialref ref="Delrin" />
+  <solidref ref="RTV2" />
+  </volume>
+

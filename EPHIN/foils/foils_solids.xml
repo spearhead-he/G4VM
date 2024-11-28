@@ -1,0 +1,5 @@
+<cone name = "Kaf" rmin1="0" rmax1="3.8" rmin2="0" rmax2="3.8" z="0.0007"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "Tif" rmin1="0" rmax1="3.4" rmin2="0" rmax2="3.4" z="0.0002"
+startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+

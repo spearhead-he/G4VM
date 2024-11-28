@@ -1,0 +1,88 @@
+<physvol>
+    <volumeref ref="vDE1" />
+    <position name="vDE1Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE2" />
+    <position name="vDE2Pos" unit="cm" x="0"  y="0"   z= "0.135"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE3" />
+    <position name="vDE3Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE4" />
+    <position name="vDE4Pos" unit="cm" x="0"  y="0"   z= "4.1675"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE5" />
+    <position name="vDE5Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE6" />
+    <position name="vDE6Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE7" />
+    <position name="vDE7Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE8" />
+    <position name="vDE8Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDE9" />
+    <position name="vDE9Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+
+<physvol>
+    <volumeref ref="vDL0" />
+    <position name="vDL0Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL1" />
+    <position name="vDL1Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL2" />
+    <position name="vDL2Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL3" />
+    <position name="vDL3Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL4" />
+    <position name="vDL4Pos" unit="cm" x="0"  y="0"   z= "9.42"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL5" />
+    <position name="vDL5Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL6" />
+    <position name="vDL6Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL7" />
+    <position name="vDL7Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL8" />
+    <position name="vDL8Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDL9" />
+    <position name="vDL9Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+
+<physvol>
+    <volumeref ref="vDT0" />
+    <position name="vDT0Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+<physvol>
+    <volumeref ref="vDT1" />
+    <position name="vDT1Pos" unit="cm" x="0"  y="0"   z= "0"/>
+    </physvol>
+
+
