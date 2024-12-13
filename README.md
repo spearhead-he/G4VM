@@ -4,7 +4,7 @@
 The G4VM aims to make GEANT4 simulations of SOHO/Chandra EPHIN and Solar Orbiter HET readily accessible.<br>
 G4VM contains the corresponding GDML models along with a compatible GEANT4 application.
 The models  incorporate the sensitive detectors of the instruments and the passive material shielding the detectors, represented with high precision.
-Each instrument is provided individually and with a spacecraft model that maps the spacecraft's shielding material onto spherical shell segments with varying densities to account for directionality..<br>
+Each instrument is provided individually and with a spacecraft model that maps the spacecraft's shielding material onto spherical shell segments with varying densities to account for directionality.<br>
 The GEANT4 application can be built independently but is provided in a configuration that works seamlessly within the recommended setup.
 
 ## Recommended Setup
