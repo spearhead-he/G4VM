@@ -1,5 +1,12 @@
 # G4VM
 
+## About
+The G4VM aims to make GEANT4 simulations of SOHO/Chandra EPHIN and Solar Orbiter HET readily accessible.<br>
+G4VM contains the corresponding GDML models along with a compatible GEANT4 application.
+The models  incorporate the sensitive detectors of the instruments and the passive material shielding the detectors, represented with high precision.
+Each instrument is provided individually and with a spacecraft model that maps the spacecraft's shielding material onto spherical shell segments with varying densities to account for directionality..<br>
+The GEANT4 application can be built independently but is provided in a configuration that works seamlessly within the recommended setup.
+
 ## Recommended Setup
 
 Our recommended setup requires three resources:
@@ -61,7 +68,19 @@ Follow these steps to get the GEANT-4 application running:
    cd G4VM/G4VM_build/
    ```
 
-#### Intel-Based Host System
+#### ARM-Based Host System:
+On ARM systems first compile the binarys by running:    
+```csh
+make
+```
+
+A successful compilation will output:
+```csh
+[100%] Built target Spearhead_G4VM
+```
+You can now proceed as on Intel-Based Host systems.
+
+#### Intel-Based Host System:
 
 Run the GEANT-4 application in QT/UI mode using:
  ```csh
@@ -71,17 +90,6 @@ Run the GEANT-4 application in QT/UI mode using:
 And to run the GEANT-4 application with a macro file use:
 ```csh
 ./Spearhead_G4VM <path_to_macro>
-```
-
-#### ARM-Based Host System
-On ARM systems the same, but first compile the binarys by running:    
-```csh
-make
-```
-
-A successful compilation will output:
-```csh
-[100%] Built target Spearhead_G4VM
 ```
     
 ---
