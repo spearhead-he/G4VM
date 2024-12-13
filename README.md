@@ -54,33 +54,35 @@ Follow these steps to get the GEANT-4 application running:
 2. Clone the repository containing the GEANT-4 applications using:
    ```csh
    git clone https://github.com/spearhead-he/G4VM.git
+   ```
 
 3. Navigate to the build directory of the GEANT-4 application:
    ```csh
-   cd cd G4VM/G4VM_build/
+   cd G4VM/G4VM_build/
+   ```
 
 #### Intel-Based Host System
 
 Run the GEANT-4 application in QT/UI mode using:
-    ```csh
-
-    ./Spearhead_G4VM
+ ```csh
+ ./Spearhead_G4VM
+ ```
 
 And to run the GEANT-4 application with a macro file use:
-    '''csh
-    
-    ./Spearhead_G4VM <path_to_macro>
+```csh
+./Spearhead_G4VM <path_to_macro>
+```
 
 #### ARM-Based Host System
 On ARM systems the same, but first compile the binarys by running:    
-    '''csh
-
-    make
+```csh
+make
+```
 
 A successful compilation will output:
-    '''csh
-
-    [100%] Built target Spearhead_G4VM
+```csh
+[100%] Built target Spearhead_G4VM
+```
     
 ---
 
