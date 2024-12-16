@@ -49,7 +49,7 @@ The proposed setup has been tested using VMware Workstation Player 17 obtained [
 
 ---
 
-## Getting and Running the GEANT-4 Applications
+## Obtaining and Running the GEANT-4 Applications
 
 Follow these steps to get the GEANT-4 application running:
 
