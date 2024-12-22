@@ -1,0 +1,3504 @@
+<physvol>
+	<volumeref ref='name52.5to177.5' />
+	<position name='pos52.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to177.5' />
+	<position name='pos47.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to177.5' />
+	<position name='pos42.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to177.5' />
+	<position name='pos37.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to177.5' />
+	<position name='pos32.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to177.5' />
+	<position name='pos27.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to177.5' />
+	<position name='pos22.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to177.5' />
+	<position name='pos17.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to177.5' />
+	<position name='pos12.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to177.5' />
+	<position name='pos7.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to177.5' />
+	<position name='pos2.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to357.5' />
+	<position name='pos2.5to357.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to182.5' />
+	<position name='pos52.5to182.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to182.5' />
+	<position name='pos47.5to182.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to182.5' />
+	<position name='pos42.5to182.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to182.5' />
+	<position name='pos37.5to182.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to182.5' />
+	<position name='pos32.5to182.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to182.5' />
+	<position name='pos27.5to182.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to182.5' />
+	<position name='pos22.5to182.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to182.5' />
+	<position name='pos17.5to182.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to182.5' />
+	<position name='pos12.5to182.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to182.5' />
+	<position name='pos7.5to182.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to182.5' />
+	<position name='pos2.5to182.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to362.5' />
+	<position name='pos2.5to362.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to187.5' />
+	<position name='pos52.5to187.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to187.5' />
+	<position name='pos47.5to187.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to187.5' />
+	<position name='pos42.5to187.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to187.5' />
+	<position name='pos37.5to187.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to187.5' />
+	<position name='pos32.5to187.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to187.5' />
+	<position name='pos27.5to187.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to187.5' />
+	<position name='pos22.5to187.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to187.5' />
+	<position name='pos17.5to187.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to187.5' />
+	<position name='pos12.5to187.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to187.5' />
+	<position name='pos7.5to187.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to187.5' />
+	<position name='pos2.5to187.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to367.5' />
+	<position name='pos2.5to367.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to192.5' />
+	<position name='pos52.5to192.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to192.5' />
+	<position name='pos47.5to192.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to192.5' />
+	<position name='pos42.5to192.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to192.5' />
+	<position name='pos37.5to192.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to192.5' />
+	<position name='pos32.5to192.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to192.5' />
+	<position name='pos27.5to192.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to192.5' />
+	<position name='pos22.5to192.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to192.5' />
+	<position name='pos17.5to192.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to192.5' />
+	<position name='pos12.5to192.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to192.5' />
+	<position name='pos7.5to192.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to192.5' />
+	<position name='pos2.5to192.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to372.5' />
+	<position name='pos2.5to372.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to197.5' />
+	<position name='pos52.5to197.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to197.5' />
+	<position name='pos47.5to197.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to197.5' />
+	<position name='pos42.5to197.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to197.5' />
+	<position name='pos37.5to197.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to197.5' />
+	<position name='pos32.5to197.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to197.5' />
+	<position name='pos27.5to197.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to197.5' />
+	<position name='pos22.5to197.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to197.5' />
+	<position name='pos17.5to197.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to197.5' />
+	<position name='pos12.5to197.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to197.5' />
+	<position name='pos7.5to197.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to197.5' />
+	<position name='pos2.5to197.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to377.5' />
+	<position name='pos2.5to377.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to202.5' />
+	<position name='pos52.5to202.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to202.5' />
+	<position name='pos47.5to202.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to202.5' />
+	<position name='pos42.5to202.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to202.5' />
+	<position name='pos37.5to202.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to202.5' />
+	<position name='pos32.5to202.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to202.5' />
+	<position name='pos27.5to202.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to202.5' />
+	<position name='pos22.5to202.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to202.5' />
+	<position name='pos17.5to202.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to202.5' />
+	<position name='pos12.5to202.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to202.5' />
+	<position name='pos7.5to202.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to202.5' />
+	<position name='pos2.5to202.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to382.5' />
+	<position name='pos2.5to382.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to207.5' />
+	<position name='pos52.5to207.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to207.5' />
+	<position name='pos47.5to207.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to207.5' />
+	<position name='pos42.5to207.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to207.5' />
+	<position name='pos37.5to207.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to207.5' />
+	<position name='pos32.5to207.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to207.5' />
+	<position name='pos27.5to207.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to207.5' />
+	<position name='pos22.5to207.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to207.5' />
+	<position name='pos17.5to207.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to207.5' />
+	<position name='pos12.5to207.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to207.5' />
+	<position name='pos7.5to207.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to207.5' />
+	<position name='pos2.5to207.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to387.5' />
+	<position name='pos2.5to387.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to212.5' />
+	<position name='pos52.5to212.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to212.5' />
+	<position name='pos47.5to212.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to212.5' />
+	<position name='pos42.5to212.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to212.5' />
+	<position name='pos37.5to212.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to212.5' />
+	<position name='pos32.5to212.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to212.5' />
+	<position name='pos27.5to212.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to212.5' />
+	<position name='pos22.5to212.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to212.5' />
+	<position name='pos17.5to212.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to212.5' />
+	<position name='pos12.5to212.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to212.5' />
+	<position name='pos7.5to212.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to212.5' />
+	<position name='pos2.5to212.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to392.5' />
+	<position name='pos2.5to392.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to217.5' />
+	<position name='pos52.5to217.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to217.5' />
+	<position name='pos47.5to217.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to217.5' />
+	<position name='pos42.5to217.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to217.5' />
+	<position name='pos37.5to217.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to217.5' />
+	<position name='pos32.5to217.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to217.5' />
+	<position name='pos27.5to217.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to217.5' />
+	<position name='pos22.5to217.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to217.5' />
+	<position name='pos17.5to217.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to217.5' />
+	<position name='pos12.5to217.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to217.5' />
+	<position name='pos7.5to217.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to217.5' />
+	<position name='pos2.5to217.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to397.5' />
+	<position name='pos2.5to397.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to222.5' />
+	<position name='pos52.5to222.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to222.5' />
+	<position name='pos47.5to222.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to222.5' />
+	<position name='pos42.5to222.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to222.5' />
+	<position name='pos37.5to222.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to222.5' />
+	<position name='pos32.5to222.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to222.5' />
+	<position name='pos27.5to222.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to222.5' />
+	<position name='pos22.5to222.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to222.5' />
+	<position name='pos17.5to222.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to222.5' />
+	<position name='pos12.5to222.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to222.5' />
+	<position name='pos7.5to222.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to222.5' />
+	<position name='pos2.5to222.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to402.5' />
+	<position name='pos2.5to402.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to227.5' />
+	<position name='pos52.5to227.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to227.5' />
+	<position name='pos47.5to227.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to227.5' />
+	<position name='pos42.5to227.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to227.5' />
+	<position name='pos37.5to227.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to227.5' />
+	<position name='pos32.5to227.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to227.5' />
+	<position name='pos27.5to227.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to227.5' />
+	<position name='pos22.5to227.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to227.5' />
+	<position name='pos17.5to227.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to227.5' />
+	<position name='pos12.5to227.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to227.5' />
+	<position name='pos7.5to227.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to227.5' />
+	<position name='pos2.5to227.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to407.5' />
+	<position name='pos2.5to407.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to232.5' />
+	<position name='pos52.5to232.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to232.5' />
+	<position name='pos47.5to232.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to232.5' />
+	<position name='pos42.5to232.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to232.5' />
+	<position name='pos37.5to232.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to232.5' />
+	<position name='pos32.5to232.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to232.5' />
+	<position name='pos27.5to232.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to232.5' />
+	<position name='pos22.5to232.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to232.5' />
+	<position name='pos17.5to232.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to232.5' />
+	<position name='pos12.5to232.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to232.5' />
+	<position name='pos7.5to232.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to232.5' />
+	<position name='pos2.5to232.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to412.5' />
+	<position name='pos2.5to412.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to237.5' />
+	<position name='pos52.5to237.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to237.5' />
+	<position name='pos47.5to237.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to237.5' />
+	<position name='pos42.5to237.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to237.5' />
+	<position name='pos37.5to237.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to237.5' />
+	<position name='pos32.5to237.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to237.5' />
+	<position name='pos27.5to237.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to237.5' />
+	<position name='pos22.5to237.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to237.5' />
+	<position name='pos17.5to237.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to237.5' />
+	<position name='pos12.5to237.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to237.5' />
+	<position name='pos7.5to237.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to237.5' />
+	<position name='pos2.5to237.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to417.5' />
+	<position name='pos2.5to417.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to242.5' />
+	<position name='pos52.5to242.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to242.5' />
+	<position name='pos47.5to242.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to242.5' />
+	<position name='pos42.5to242.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to242.5' />
+	<position name='pos37.5to242.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to242.5' />
+	<position name='pos32.5to242.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to242.5' />
+	<position name='pos27.5to242.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to242.5' />
+	<position name='pos22.5to242.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to242.5' />
+	<position name='pos17.5to242.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to242.5' />
+	<position name='pos12.5to242.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to242.5' />
+	<position name='pos7.5to242.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to242.5' />
+	<position name='pos2.5to242.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to422.5' />
+	<position name='pos2.5to422.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to247.5' />
+	<position name='pos52.5to247.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to247.5' />
+	<position name='pos47.5to247.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to247.5' />
+	<position name='pos42.5to247.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to247.5' />
+	<position name='pos37.5to247.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to247.5' />
+	<position name='pos32.5to247.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to247.5' />
+	<position name='pos27.5to247.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to247.5' />
+	<position name='pos22.5to247.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to247.5' />
+	<position name='pos17.5to247.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to247.5' />
+	<position name='pos12.5to247.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to247.5' />
+	<position name='pos7.5to247.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to247.5' />
+	<position name='pos2.5to247.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to427.5' />
+	<position name='pos2.5to427.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to252.5' />
+	<position name='pos52.5to252.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to252.5' />
+	<position name='pos47.5to252.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to252.5' />
+	<position name='pos42.5to252.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to252.5' />
+	<position name='pos37.5to252.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to252.5' />
+	<position name='pos32.5to252.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to252.5' />
+	<position name='pos27.5to252.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to252.5' />
+	<position name='pos22.5to252.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to252.5' />
+	<position name='pos17.5to252.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to252.5' />
+	<position name='pos12.5to252.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to252.5' />
+	<position name='pos7.5to252.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to252.5' />
+	<position name='pos2.5to252.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to432.5' />
+	<position name='pos2.5to432.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to257.5' />
+	<position name='pos52.5to257.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to257.5' />
+	<position name='pos47.5to257.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to257.5' />
+	<position name='pos42.5to257.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to257.5' />
+	<position name='pos37.5to257.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to257.5' />
+	<position name='pos32.5to257.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to257.5' />
+	<position name='pos27.5to257.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to257.5' />
+	<position name='pos22.5to257.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to257.5' />
+	<position name='pos17.5to257.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to257.5' />
+	<position name='pos12.5to257.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to257.5' />
+	<position name='pos7.5to257.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to257.5' />
+	<position name='pos2.5to257.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to437.5' />
+	<position name='pos2.5to437.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to262.5' />
+	<position name='pos52.5to262.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to262.5' />
+	<position name='pos47.5to262.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to262.5' />
+	<position name='pos42.5to262.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to262.5' />
+	<position name='pos37.5to262.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to262.5' />
+	<position name='pos32.5to262.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to262.5' />
+	<position name='pos27.5to262.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to262.5' />
+	<position name='pos22.5to262.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to262.5' />
+	<position name='pos17.5to262.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to262.5' />
+	<position name='pos12.5to262.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to262.5' />
+	<position name='pos7.5to262.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to262.5' />
+	<position name='pos2.5to262.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to442.5' />
+	<position name='pos2.5to442.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to267.5' />
+	<position name='pos52.5to267.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to267.5' />
+	<position name='pos47.5to267.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to267.5' />
+	<position name='pos42.5to267.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to267.5' />
+	<position name='pos37.5to267.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to267.5' />
+	<position name='pos32.5to267.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to267.5' />
+	<position name='pos27.5to267.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to267.5' />
+	<position name='pos22.5to267.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to267.5' />
+	<position name='pos17.5to267.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to267.5' />
+	<position name='pos12.5to267.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to267.5' />
+	<position name='pos7.5to267.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to267.5' />
+	<position name='pos2.5to267.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to447.5' />
+	<position name='pos2.5to447.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to272.5' />
+	<position name='pos52.5to272.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to272.5' />
+	<position name='pos47.5to272.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to272.5' />
+	<position name='pos42.5to272.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to272.5' />
+	<position name='pos37.5to272.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to272.5' />
+	<position name='pos32.5to272.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to272.5' />
+	<position name='pos27.5to272.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to272.5' />
+	<position name='pos22.5to272.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to272.5' />
+	<position name='pos17.5to272.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to272.5' />
+	<position name='pos12.5to272.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to272.5' />
+	<position name='pos7.5to272.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to272.5' />
+	<position name='pos2.5to272.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to452.5' />
+	<position name='pos2.5to452.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to277.5' />
+	<position name='pos52.5to277.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to277.5' />
+	<position name='pos47.5to277.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to277.5' />
+	<position name='pos42.5to277.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to277.5' />
+	<position name='pos37.5to277.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to277.5' />
+	<position name='pos32.5to277.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to277.5' />
+	<position name='pos27.5to277.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to277.5' />
+	<position name='pos22.5to277.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to277.5' />
+	<position name='pos17.5to277.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to277.5' />
+	<position name='pos12.5to277.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to277.5' />
+	<position name='pos7.5to277.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to277.5' />
+	<position name='pos2.5to277.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to457.5' />
+	<position name='pos2.5to457.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to282.5' />
+	<position name='pos52.5to282.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to282.5' />
+	<position name='pos47.5to282.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to282.5' />
+	<position name='pos42.5to282.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to282.5' />
+	<position name='pos37.5to282.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to282.5' />
+	<position name='pos32.5to282.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to282.5' />
+	<position name='pos27.5to282.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to282.5' />
+	<position name='pos22.5to282.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to282.5' />
+	<position name='pos17.5to282.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to282.5' />
+	<position name='pos12.5to282.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to282.5' />
+	<position name='pos7.5to282.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to282.5' />
+	<position name='pos2.5to282.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to462.5' />
+	<position name='pos2.5to462.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to287.5' />
+	<position name='pos52.5to287.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to287.5' />
+	<position name='pos47.5to287.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to287.5' />
+	<position name='pos42.5to287.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to287.5' />
+	<position name='pos37.5to287.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to287.5' />
+	<position name='pos32.5to287.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to287.5' />
+	<position name='pos27.5to287.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to287.5' />
+	<position name='pos22.5to287.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to287.5' />
+	<position name='pos17.5to287.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to287.5' />
+	<position name='pos12.5to287.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to287.5' />
+	<position name='pos7.5to287.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to287.5' />
+	<position name='pos2.5to287.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to467.5' />
+	<position name='pos2.5to467.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to292.5' />
+	<position name='pos52.5to292.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to292.5' />
+	<position name='pos47.5to292.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to292.5' />
+	<position name='pos42.5to292.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to292.5' />
+	<position name='pos37.5to292.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to292.5' />
+	<position name='pos32.5to292.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to292.5' />
+	<position name='pos27.5to292.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to292.5' />
+	<position name='pos22.5to292.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to292.5' />
+	<position name='pos17.5to292.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to292.5' />
+	<position name='pos12.5to292.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to292.5' />
+	<position name='pos7.5to292.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to292.5' />
+	<position name='pos2.5to292.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to472.5' />
+	<position name='pos2.5to472.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to297.5' />
+	<position name='pos52.5to297.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to297.5' />
+	<position name='pos47.5to297.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to297.5' />
+	<position name='pos42.5to297.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to297.5' />
+	<position name='pos37.5to297.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to297.5' />
+	<position name='pos32.5to297.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to297.5' />
+	<position name='pos27.5to297.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to297.5' />
+	<position name='pos22.5to297.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to297.5' />
+	<position name='pos17.5to297.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to297.5' />
+	<position name='pos12.5to297.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to297.5' />
+	<position name='pos7.5to297.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to297.5' />
+	<position name='pos2.5to297.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to477.5' />
+	<position name='pos2.5to477.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to302.5' />
+	<position name='pos52.5to302.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to302.5' />
+	<position name='pos47.5to302.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to302.5' />
+	<position name='pos42.5to302.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to302.5' />
+	<position name='pos37.5to302.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to302.5' />
+	<position name='pos32.5to302.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to302.5' />
+	<position name='pos27.5to302.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to302.5' />
+	<position name='pos22.5to302.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to302.5' />
+	<position name='pos17.5to302.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to302.5' />
+	<position name='pos12.5to302.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to302.5' />
+	<position name='pos7.5to302.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to302.5' />
+	<position name='pos2.5to302.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to482.5' />
+	<position name='pos2.5to482.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to307.5' />
+	<position name='pos52.5to307.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to307.5' />
+	<position name='pos47.5to307.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to307.5' />
+	<position name='pos42.5to307.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to307.5' />
+	<position name='pos37.5to307.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to307.5' />
+	<position name='pos32.5to307.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to307.5' />
+	<position name='pos27.5to307.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to307.5' />
+	<position name='pos22.5to307.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to307.5' />
+	<position name='pos17.5to307.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to307.5' />
+	<position name='pos12.5to307.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to307.5' />
+	<position name='pos7.5to307.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to307.5' />
+	<position name='pos2.5to307.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to487.5' />
+	<position name='pos2.5to487.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to312.5' />
+	<position name='pos52.5to312.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to312.5' />
+	<position name='pos47.5to312.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to312.5' />
+	<position name='pos42.5to312.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to312.5' />
+	<position name='pos37.5to312.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to312.5' />
+	<position name='pos32.5to312.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to312.5' />
+	<position name='pos27.5to312.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to312.5' />
+	<position name='pos22.5to312.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to312.5' />
+	<position name='pos17.5to312.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to312.5' />
+	<position name='pos12.5to312.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to312.5' />
+	<position name='pos7.5to312.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to312.5' />
+	<position name='pos2.5to312.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to492.5' />
+	<position name='pos2.5to492.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to317.5' />
+	<position name='pos52.5to317.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to317.5' />
+	<position name='pos47.5to317.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to317.5' />
+	<position name='pos42.5to317.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to317.5' />
+	<position name='pos37.5to317.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to317.5' />
+	<position name='pos32.5to317.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to317.5' />
+	<position name='pos27.5to317.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to317.5' />
+	<position name='pos22.5to317.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to317.5' />
+	<position name='pos17.5to317.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to317.5' />
+	<position name='pos12.5to317.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to317.5' />
+	<position name='pos7.5to317.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to317.5' />
+	<position name='pos2.5to317.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to497.5' />
+	<position name='pos2.5to497.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to322.5' />
+	<position name='pos52.5to322.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to322.5' />
+	<position name='pos47.5to322.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to322.5' />
+	<position name='pos42.5to322.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to322.5' />
+	<position name='pos37.5to322.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to322.5' />
+	<position name='pos32.5to322.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to322.5' />
+	<position name='pos27.5to322.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to322.5' />
+	<position name='pos22.5to322.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to322.5' />
+	<position name='pos17.5to322.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to322.5' />
+	<position name='pos12.5to322.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to322.5' />
+	<position name='pos7.5to322.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to322.5' />
+	<position name='pos2.5to322.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to502.5' />
+	<position name='pos2.5to502.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to327.5' />
+	<position name='pos52.5to327.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to327.5' />
+	<position name='pos47.5to327.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to327.5' />
+	<position name='pos42.5to327.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to327.5' />
+	<position name='pos37.5to327.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to327.5' />
+	<position name='pos32.5to327.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to327.5' />
+	<position name='pos27.5to327.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to327.5' />
+	<position name='pos22.5to327.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to327.5' />
+	<position name='pos17.5to327.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to327.5' />
+	<position name='pos12.5to327.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to327.5' />
+	<position name='pos7.5to327.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to327.5' />
+	<position name='pos2.5to327.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to507.5' />
+	<position name='pos2.5to507.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to332.5' />
+	<position name='pos52.5to332.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to332.5' />
+	<position name='pos47.5to332.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to332.5' />
+	<position name='pos42.5to332.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to332.5' />
+	<position name='pos37.5to332.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to332.5' />
+	<position name='pos32.5to332.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to332.5' />
+	<position name='pos27.5to332.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to332.5' />
+	<position name='pos22.5to332.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to332.5' />
+	<position name='pos17.5to332.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to332.5' />
+	<position name='pos12.5to332.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to332.5' />
+	<position name='pos7.5to332.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to332.5' />
+	<position name='pos2.5to332.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to512.5' />
+	<position name='pos2.5to512.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to337.5' />
+	<position name='pos52.5to337.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to337.5' />
+	<position name='pos47.5to337.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to337.5' />
+	<position name='pos42.5to337.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to337.5' />
+	<position name='pos37.5to337.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to337.5' />
+	<position name='pos32.5to337.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to337.5' />
+	<position name='pos27.5to337.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to337.5' />
+	<position name='pos22.5to337.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to337.5' />
+	<position name='pos17.5to337.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to337.5' />
+	<position name='pos12.5to337.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to337.5' />
+	<position name='pos7.5to337.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to337.5' />
+	<position name='pos2.5to337.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to517.5' />
+	<position name='pos2.5to517.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to342.5' />
+	<position name='pos52.5to342.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to342.5' />
+	<position name='pos47.5to342.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to342.5' />
+	<position name='pos42.5to342.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to342.5' />
+	<position name='pos37.5to342.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to342.5' />
+	<position name='pos32.5to342.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to342.5' />
+	<position name='pos27.5to342.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to342.5' />
+	<position name='pos22.5to342.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to342.5' />
+	<position name='pos17.5to342.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to342.5' />
+	<position name='pos12.5to342.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to342.5' />
+	<position name='pos7.5to342.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to342.5' />
+	<position name='pos2.5to342.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to522.5' />
+	<position name='pos2.5to522.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to347.5' />
+	<position name='pos52.5to347.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to347.5' />
+	<position name='pos47.5to347.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to347.5' />
+	<position name='pos42.5to347.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to347.5' />
+	<position name='pos37.5to347.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to347.5' />
+	<position name='pos32.5to347.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to347.5' />
+	<position name='pos27.5to347.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to347.5' />
+	<position name='pos22.5to347.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to347.5' />
+	<position name='pos17.5to347.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to347.5' />
+	<position name='pos12.5to347.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to347.5' />
+	<position name='pos7.5to347.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to347.5' />
+	<position name='pos2.5to347.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to527.5' />
+	<position name='pos2.5to527.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to352.5' />
+	<position name='pos52.5to352.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to352.5' />
+	<position name='pos47.5to352.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to352.5' />
+	<position name='pos42.5to352.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to352.5' />
+	<position name='pos37.5to352.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to352.5' />
+	<position name='pos32.5to352.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to352.5' />
+	<position name='pos27.5to352.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to352.5' />
+	<position name='pos22.5to352.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to352.5' />
+	<position name='pos17.5to352.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to352.5' />
+	<position name='pos12.5to352.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to352.5' />
+	<position name='pos7.5to352.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to352.5' />
+	<position name='pos2.5to352.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to532.5' />
+	<position name='pos2.5to532.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to-2.5' />
+	<position name='pos52.5to-2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to-2.5' />
+	<position name='pos47.5to-2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to-2.5' />
+	<position name='pos42.5to-2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to-2.5' />
+	<position name='pos37.5to-2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to-2.5' />
+	<position name='pos32.5to-2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to-2.5' />
+	<position name='pos27.5to-2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to-2.5' />
+	<position name='pos22.5to-2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to-2.5' />
+	<position name='pos17.5to-2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to-2.5' />
+	<position name='pos12.5to-2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to-2.5' />
+	<position name='pos7.5to-2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to-2.5' />
+	<position name='pos2.5to-2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name0.0to0.0' />
+	<position name='pos0.0to0.0' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to2.5' />
+	<position name='pos52.5to2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to2.5' />
+	<position name='pos47.5to2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to2.5' />
+	<position name='pos42.5to2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to2.5' />
+	<position name='pos37.5to2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to2.5' />
+	<position name='pos32.5to2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to2.5' />
+	<position name='pos27.5to2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to2.5' />
+	<position name='pos22.5to2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to2.5' />
+	<position name='pos17.5to2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to2.5' />
+	<position name='pos12.5to2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to2.5' />
+	<position name='pos7.5to2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to2.5' />
+	<position name='pos2.5to2.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to182.5' />
+	<position name='pos2.5to182.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to7.5' />
+	<position name='pos52.5to7.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to7.5' />
+	<position name='pos47.5to7.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to7.5' />
+	<position name='pos42.5to7.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to7.5' />
+	<position name='pos37.5to7.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to7.5' />
+	<position name='pos32.5to7.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to7.5' />
+	<position name='pos27.5to7.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to7.5' />
+	<position name='pos22.5to7.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to7.5' />
+	<position name='pos17.5to7.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to7.5' />
+	<position name='pos12.5to7.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to7.5' />
+	<position name='pos7.5to7.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to7.5' />
+	<position name='pos2.5to7.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to187.5' />
+	<position name='pos2.5to187.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to12.5' />
+	<position name='pos52.5to12.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to12.5' />
+	<position name='pos47.5to12.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to12.5' />
+	<position name='pos42.5to12.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to12.5' />
+	<position name='pos37.5to12.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to12.5' />
+	<position name='pos32.5to12.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to12.5' />
+	<position name='pos27.5to12.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to12.5' />
+	<position name='pos22.5to12.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to12.5' />
+	<position name='pos17.5to12.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to12.5' />
+	<position name='pos12.5to12.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to12.5' />
+	<position name='pos7.5to12.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to12.5' />
+	<position name='pos2.5to12.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to192.5' />
+	<position name='pos2.5to192.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to17.5' />
+	<position name='pos52.5to17.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to17.5' />
+	<position name='pos47.5to17.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to17.5' />
+	<position name='pos42.5to17.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to17.5' />
+	<position name='pos37.5to17.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to17.5' />
+	<position name='pos32.5to17.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to17.5' />
+	<position name='pos27.5to17.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to17.5' />
+	<position name='pos22.5to17.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to17.5' />
+	<position name='pos17.5to17.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to17.5' />
+	<position name='pos12.5to17.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to17.5' />
+	<position name='pos7.5to17.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to17.5' />
+	<position name='pos2.5to17.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to197.5' />
+	<position name='pos2.5to197.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to22.5' />
+	<position name='pos52.5to22.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to22.5' />
+	<position name='pos47.5to22.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to22.5' />
+	<position name='pos42.5to22.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to22.5' />
+	<position name='pos37.5to22.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to22.5' />
+	<position name='pos32.5to22.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to22.5' />
+	<position name='pos27.5to22.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to22.5' />
+	<position name='pos22.5to22.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to22.5' />
+	<position name='pos17.5to22.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to22.5' />
+	<position name='pos12.5to22.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to22.5' />
+	<position name='pos7.5to22.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to22.5' />
+	<position name='pos2.5to22.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to202.5' />
+	<position name='pos2.5to202.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to27.5' />
+	<position name='pos52.5to27.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to27.5' />
+	<position name='pos47.5to27.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to27.5' />
+	<position name='pos42.5to27.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to27.5' />
+	<position name='pos37.5to27.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to27.5' />
+	<position name='pos32.5to27.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to27.5' />
+	<position name='pos27.5to27.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to27.5' />
+	<position name='pos22.5to27.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to27.5' />
+	<position name='pos17.5to27.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to27.5' />
+	<position name='pos12.5to27.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to27.5' />
+	<position name='pos7.5to27.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to27.5' />
+	<position name='pos2.5to27.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to207.5' />
+	<position name='pos2.5to207.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to32.5' />
+	<position name='pos52.5to32.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to32.5' />
+	<position name='pos47.5to32.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to32.5' />
+	<position name='pos42.5to32.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to32.5' />
+	<position name='pos37.5to32.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to32.5' />
+	<position name='pos32.5to32.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to32.5' />
+	<position name='pos27.5to32.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to32.5' />
+	<position name='pos22.5to32.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to32.5' />
+	<position name='pos17.5to32.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to32.5' />
+	<position name='pos12.5to32.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to32.5' />
+	<position name='pos7.5to32.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to32.5' />
+	<position name='pos2.5to32.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to212.5' />
+	<position name='pos2.5to212.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to37.5' />
+	<position name='pos52.5to37.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to37.5' />
+	<position name='pos47.5to37.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to37.5' />
+	<position name='pos42.5to37.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to37.5' />
+	<position name='pos37.5to37.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to37.5' />
+	<position name='pos32.5to37.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to37.5' />
+	<position name='pos27.5to37.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to37.5' />
+	<position name='pos22.5to37.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to37.5' />
+	<position name='pos17.5to37.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to37.5' />
+	<position name='pos12.5to37.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to37.5' />
+	<position name='pos7.5to37.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to37.5' />
+	<position name='pos2.5to37.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to217.5' />
+	<position name='pos2.5to217.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to42.5' />
+	<position name='pos52.5to42.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to42.5' />
+	<position name='pos47.5to42.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to42.5' />
+	<position name='pos42.5to42.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to42.5' />
+	<position name='pos37.5to42.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to42.5' />
+	<position name='pos32.5to42.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to42.5' />
+	<position name='pos27.5to42.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to42.5' />
+	<position name='pos22.5to42.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to42.5' />
+	<position name='pos17.5to42.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to42.5' />
+	<position name='pos12.5to42.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to42.5' />
+	<position name='pos7.5to42.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to42.5' />
+	<position name='pos2.5to42.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to222.5' />
+	<position name='pos2.5to222.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to47.5' />
+	<position name='pos52.5to47.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to47.5' />
+	<position name='pos47.5to47.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to47.5' />
+	<position name='pos42.5to47.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to47.5' />
+	<position name='pos37.5to47.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to47.5' />
+	<position name='pos32.5to47.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to47.5' />
+	<position name='pos27.5to47.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to47.5' />
+	<position name='pos22.5to47.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to47.5' />
+	<position name='pos17.5to47.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to47.5' />
+	<position name='pos12.5to47.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to47.5' />
+	<position name='pos7.5to47.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to47.5' />
+	<position name='pos2.5to47.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to227.5' />
+	<position name='pos2.5to227.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to52.5' />
+	<position name='pos52.5to52.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to52.5' />
+	<position name='pos47.5to52.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to52.5' />
+	<position name='pos42.5to52.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to52.5' />
+	<position name='pos37.5to52.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to52.5' />
+	<position name='pos32.5to52.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to52.5' />
+	<position name='pos27.5to52.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to52.5' />
+	<position name='pos22.5to52.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to52.5' />
+	<position name='pos17.5to52.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to52.5' />
+	<position name='pos12.5to52.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to52.5' />
+	<position name='pos7.5to52.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to52.5' />
+	<position name='pos2.5to52.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to232.5' />
+	<position name='pos2.5to232.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to57.5' />
+	<position name='pos52.5to57.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to57.5' />
+	<position name='pos47.5to57.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to57.5' />
+	<position name='pos42.5to57.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to57.5' />
+	<position name='pos37.5to57.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to57.5' />
+	<position name='pos32.5to57.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to57.5' />
+	<position name='pos27.5to57.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to57.5' />
+	<position name='pos22.5to57.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to57.5' />
+	<position name='pos17.5to57.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to57.5' />
+	<position name='pos12.5to57.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to57.5' />
+	<position name='pos7.5to57.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to57.5' />
+	<position name='pos2.5to57.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to237.5' />
+	<position name='pos2.5to237.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to62.5' />
+	<position name='pos52.5to62.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to62.5' />
+	<position name='pos47.5to62.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to62.5' />
+	<position name='pos42.5to62.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to62.5' />
+	<position name='pos37.5to62.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to62.5' />
+	<position name='pos32.5to62.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to62.5' />
+	<position name='pos27.5to62.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to62.5' />
+	<position name='pos22.5to62.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to62.5' />
+	<position name='pos17.5to62.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to62.5' />
+	<position name='pos12.5to62.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to62.5' />
+	<position name='pos7.5to62.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to62.5' />
+	<position name='pos2.5to62.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to242.5' />
+	<position name='pos2.5to242.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to67.5' />
+	<position name='pos52.5to67.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to67.5' />
+	<position name='pos47.5to67.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to67.5' />
+	<position name='pos42.5to67.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to67.5' />
+	<position name='pos37.5to67.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to67.5' />
+	<position name='pos32.5to67.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to67.5' />
+	<position name='pos27.5to67.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to67.5' />
+	<position name='pos22.5to67.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to67.5' />
+	<position name='pos17.5to67.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to67.5' />
+	<position name='pos12.5to67.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to67.5' />
+	<position name='pos7.5to67.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to67.5' />
+	<position name='pos2.5to67.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to247.5' />
+	<position name='pos2.5to247.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to72.5' />
+	<position name='pos52.5to72.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to72.5' />
+	<position name='pos47.5to72.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to72.5' />
+	<position name='pos42.5to72.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to72.5' />
+	<position name='pos37.5to72.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to72.5' />
+	<position name='pos32.5to72.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to72.5' />
+	<position name='pos27.5to72.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to72.5' />
+	<position name='pos22.5to72.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to72.5' />
+	<position name='pos17.5to72.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to72.5' />
+	<position name='pos12.5to72.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to72.5' />
+	<position name='pos7.5to72.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to72.5' />
+	<position name='pos2.5to72.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to252.5' />
+	<position name='pos2.5to252.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to77.5' />
+	<position name='pos52.5to77.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to77.5' />
+	<position name='pos47.5to77.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to77.5' />
+	<position name='pos42.5to77.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to77.5' />
+	<position name='pos37.5to77.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to77.5' />
+	<position name='pos32.5to77.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to77.5' />
+	<position name='pos27.5to77.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to77.5' />
+	<position name='pos22.5to77.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to77.5' />
+	<position name='pos17.5to77.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to77.5' />
+	<position name='pos12.5to77.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to77.5' />
+	<position name='pos7.5to77.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to77.5' />
+	<position name='pos2.5to77.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to257.5' />
+	<position name='pos2.5to257.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to82.5' />
+	<position name='pos52.5to82.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to82.5' />
+	<position name='pos47.5to82.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to82.5' />
+	<position name='pos42.5to82.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to82.5' />
+	<position name='pos37.5to82.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to82.5' />
+	<position name='pos32.5to82.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to82.5' />
+	<position name='pos27.5to82.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to82.5' />
+	<position name='pos22.5to82.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to82.5' />
+	<position name='pos17.5to82.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to82.5' />
+	<position name='pos12.5to82.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to82.5' />
+	<position name='pos7.5to82.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to82.5' />
+	<position name='pos2.5to82.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to262.5' />
+	<position name='pos2.5to262.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to87.5' />
+	<position name='pos52.5to87.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to87.5' />
+	<position name='pos47.5to87.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to87.5' />
+	<position name='pos42.5to87.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to87.5' />
+	<position name='pos37.5to87.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to87.5' />
+	<position name='pos32.5to87.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to87.5' />
+	<position name='pos27.5to87.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to87.5' />
+	<position name='pos22.5to87.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to87.5' />
+	<position name='pos17.5to87.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to87.5' />
+	<position name='pos12.5to87.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to87.5' />
+	<position name='pos7.5to87.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to87.5' />
+	<position name='pos2.5to87.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to267.5' />
+	<position name='pos2.5to267.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to92.5' />
+	<position name='pos52.5to92.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to92.5' />
+	<position name='pos47.5to92.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to92.5' />
+	<position name='pos42.5to92.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to92.5' />
+	<position name='pos37.5to92.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to92.5' />
+	<position name='pos32.5to92.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to92.5' />
+	<position name='pos27.5to92.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to92.5' />
+	<position name='pos22.5to92.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to92.5' />
+	<position name='pos17.5to92.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to92.5' />
+	<position name='pos12.5to92.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to92.5' />
+	<position name='pos7.5to92.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to92.5' />
+	<position name='pos2.5to92.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to272.5' />
+	<position name='pos2.5to272.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to97.5' />
+	<position name='pos52.5to97.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to97.5' />
+	<position name='pos47.5to97.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to97.5' />
+	<position name='pos42.5to97.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to97.5' />
+	<position name='pos37.5to97.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to97.5' />
+	<position name='pos32.5to97.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to97.5' />
+	<position name='pos27.5to97.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to97.5' />
+	<position name='pos22.5to97.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to97.5' />
+	<position name='pos17.5to97.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to97.5' />
+	<position name='pos12.5to97.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to97.5' />
+	<position name='pos7.5to97.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to97.5' />
+	<position name='pos2.5to97.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to277.5' />
+	<position name='pos2.5to277.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to102.5' />
+	<position name='pos52.5to102.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to102.5' />
+	<position name='pos47.5to102.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to102.5' />
+	<position name='pos42.5to102.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to102.5' />
+	<position name='pos37.5to102.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to102.5' />
+	<position name='pos32.5to102.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to102.5' />
+	<position name='pos27.5to102.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to102.5' />
+	<position name='pos22.5to102.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to102.5' />
+	<position name='pos17.5to102.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to102.5' />
+	<position name='pos12.5to102.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to102.5' />
+	<position name='pos7.5to102.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to102.5' />
+	<position name='pos2.5to102.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to282.5' />
+	<position name='pos2.5to282.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to107.5' />
+	<position name='pos52.5to107.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to107.5' />
+	<position name='pos47.5to107.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to107.5' />
+	<position name='pos42.5to107.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to107.5' />
+	<position name='pos37.5to107.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to107.5' />
+	<position name='pos32.5to107.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to107.5' />
+	<position name='pos27.5to107.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to107.5' />
+	<position name='pos22.5to107.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to107.5' />
+	<position name='pos17.5to107.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to107.5' />
+	<position name='pos12.5to107.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to107.5' />
+	<position name='pos7.5to107.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to107.5' />
+	<position name='pos2.5to107.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to287.5' />
+	<position name='pos2.5to287.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to112.5' />
+	<position name='pos52.5to112.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to112.5' />
+	<position name='pos47.5to112.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to112.5' />
+	<position name='pos42.5to112.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to112.5' />
+	<position name='pos37.5to112.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to112.5' />
+	<position name='pos32.5to112.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to112.5' />
+	<position name='pos27.5to112.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to112.5' />
+	<position name='pos22.5to112.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to112.5' />
+	<position name='pos17.5to112.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to112.5' />
+	<position name='pos12.5to112.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to112.5' />
+	<position name='pos7.5to112.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to112.5' />
+	<position name='pos2.5to112.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to292.5' />
+	<position name='pos2.5to292.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to117.5' />
+	<position name='pos52.5to117.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to117.5' />
+	<position name='pos47.5to117.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to117.5' />
+	<position name='pos42.5to117.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to117.5' />
+	<position name='pos37.5to117.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to117.5' />
+	<position name='pos32.5to117.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to117.5' />
+	<position name='pos27.5to117.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to117.5' />
+	<position name='pos22.5to117.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to117.5' />
+	<position name='pos17.5to117.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to117.5' />
+	<position name='pos12.5to117.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to117.5' />
+	<position name='pos7.5to117.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to117.5' />
+	<position name='pos2.5to117.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to297.5' />
+	<position name='pos2.5to297.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to122.5' />
+	<position name='pos52.5to122.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to122.5' />
+	<position name='pos47.5to122.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to122.5' />
+	<position name='pos42.5to122.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to122.5' />
+	<position name='pos37.5to122.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to122.5' />
+	<position name='pos32.5to122.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to122.5' />
+	<position name='pos27.5to122.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to122.5' />
+	<position name='pos22.5to122.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to122.5' />
+	<position name='pos17.5to122.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to122.5' />
+	<position name='pos12.5to122.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to122.5' />
+	<position name='pos7.5to122.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to122.5' />
+	<position name='pos2.5to122.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to302.5' />
+	<position name='pos2.5to302.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to127.5' />
+	<position name='pos52.5to127.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to127.5' />
+	<position name='pos47.5to127.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to127.5' />
+	<position name='pos42.5to127.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to127.5' />
+	<position name='pos37.5to127.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to127.5' />
+	<position name='pos32.5to127.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to127.5' />
+	<position name='pos27.5to127.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to127.5' />
+	<position name='pos22.5to127.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to127.5' />
+	<position name='pos17.5to127.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to127.5' />
+	<position name='pos12.5to127.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to127.5' />
+	<position name='pos7.5to127.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to127.5' />
+	<position name='pos2.5to127.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to307.5' />
+	<position name='pos2.5to307.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to132.5' />
+	<position name='pos52.5to132.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to132.5' />
+	<position name='pos47.5to132.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to132.5' />
+	<position name='pos42.5to132.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to132.5' />
+	<position name='pos37.5to132.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to132.5' />
+	<position name='pos32.5to132.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to132.5' />
+	<position name='pos27.5to132.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to132.5' />
+	<position name='pos22.5to132.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to132.5' />
+	<position name='pos17.5to132.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to132.5' />
+	<position name='pos12.5to132.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to132.5' />
+	<position name='pos7.5to132.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to132.5' />
+	<position name='pos2.5to132.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to312.5' />
+	<position name='pos2.5to312.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to137.5' />
+	<position name='pos52.5to137.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to137.5' />
+	<position name='pos47.5to137.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to137.5' />
+	<position name='pos42.5to137.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to137.5' />
+	<position name='pos37.5to137.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to137.5' />
+	<position name='pos32.5to137.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to137.5' />
+	<position name='pos27.5to137.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to137.5' />
+	<position name='pos22.5to137.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to137.5' />
+	<position name='pos17.5to137.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to137.5' />
+	<position name='pos12.5to137.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to137.5' />
+	<position name='pos7.5to137.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to137.5' />
+	<position name='pos2.5to137.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to317.5' />
+	<position name='pos2.5to317.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to142.5' />
+	<position name='pos52.5to142.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to142.5' />
+	<position name='pos47.5to142.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to142.5' />
+	<position name='pos42.5to142.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to142.5' />
+	<position name='pos37.5to142.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to142.5' />
+	<position name='pos32.5to142.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to142.5' />
+	<position name='pos27.5to142.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to142.5' />
+	<position name='pos22.5to142.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to142.5' />
+	<position name='pos17.5to142.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to142.5' />
+	<position name='pos12.5to142.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to142.5' />
+	<position name='pos7.5to142.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to142.5' />
+	<position name='pos2.5to142.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to322.5' />
+	<position name='pos2.5to322.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to147.5' />
+	<position name='pos52.5to147.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to147.5' />
+	<position name='pos47.5to147.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to147.5' />
+	<position name='pos42.5to147.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to147.5' />
+	<position name='pos37.5to147.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to147.5' />
+	<position name='pos32.5to147.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to147.5' />
+	<position name='pos27.5to147.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to147.5' />
+	<position name='pos22.5to147.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to147.5' />
+	<position name='pos17.5to147.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to147.5' />
+	<position name='pos12.5to147.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to147.5' />
+	<position name='pos7.5to147.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to147.5' />
+	<position name='pos2.5to147.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to327.5' />
+	<position name='pos2.5to327.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to152.5' />
+	<position name='pos52.5to152.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to152.5' />
+	<position name='pos47.5to152.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to152.5' />
+	<position name='pos42.5to152.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to152.5' />
+	<position name='pos37.5to152.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to152.5' />
+	<position name='pos32.5to152.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to152.5' />
+	<position name='pos27.5to152.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to152.5' />
+	<position name='pos22.5to152.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to152.5' />
+	<position name='pos17.5to152.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to152.5' />
+	<position name='pos12.5to152.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to152.5' />
+	<position name='pos7.5to152.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to152.5' />
+	<position name='pos2.5to152.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to332.5' />
+	<position name='pos2.5to332.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to157.5' />
+	<position name='pos52.5to157.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to157.5' />
+	<position name='pos47.5to157.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to157.5' />
+	<position name='pos42.5to157.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to157.5' />
+	<position name='pos37.5to157.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to157.5' />
+	<position name='pos32.5to157.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to157.5' />
+	<position name='pos27.5to157.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to157.5' />
+	<position name='pos22.5to157.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to157.5' />
+	<position name='pos17.5to157.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to157.5' />
+	<position name='pos12.5to157.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to157.5' />
+	<position name='pos7.5to157.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to157.5' />
+	<position name='pos2.5to157.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to337.5' />
+	<position name='pos2.5to337.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to162.5' />
+	<position name='pos52.5to162.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to162.5' />
+	<position name='pos47.5to162.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to162.5' />
+	<position name='pos42.5to162.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to162.5' />
+	<position name='pos37.5to162.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to162.5' />
+	<position name='pos32.5to162.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to162.5' />
+	<position name='pos27.5to162.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to162.5' />
+	<position name='pos22.5to162.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to162.5' />
+	<position name='pos17.5to162.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to162.5' />
+	<position name='pos12.5to162.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to162.5' />
+	<position name='pos7.5to162.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to162.5' />
+	<position name='pos2.5to162.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to342.5' />
+	<position name='pos2.5to342.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to167.5' />
+	<position name='pos52.5to167.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to167.5' />
+	<position name='pos47.5to167.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to167.5' />
+	<position name='pos42.5to167.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to167.5' />
+	<position name='pos37.5to167.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to167.5' />
+	<position name='pos32.5to167.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to167.5' />
+	<position name='pos27.5to167.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to167.5' />
+	<position name='pos22.5to167.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to167.5' />
+	<position name='pos17.5to167.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to167.5' />
+	<position name='pos12.5to167.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to167.5' />
+	<position name='pos7.5to167.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to167.5' />
+	<position name='pos2.5to167.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to347.5' />
+	<position name='pos2.5to347.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to172.5' />
+	<position name='pos52.5to172.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to172.5' />
+	<position name='pos47.5to172.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to172.5' />
+	<position name='pos42.5to172.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to172.5' />
+	<position name='pos37.5to172.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to172.5' />
+	<position name='pos32.5to172.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to172.5' />
+	<position name='pos27.5to172.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to172.5' />
+	<position name='pos22.5to172.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to172.5' />
+	<position name='pos17.5to172.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to172.5' />
+	<position name='pos12.5to172.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to172.5' />
+	<position name='pos7.5to172.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to172.5' />
+	<position name='pos2.5to172.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to352.5' />
+	<position name='pos2.5to352.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name52.5to177.5' />
+	<position name='pos52.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name47.5to177.5' />
+	<position name='pos47.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name42.5to177.5' />
+	<position name='pos42.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name37.5to177.5' />
+	<position name='pos37.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name32.5to177.5' />
+	<position name='pos32.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name27.5to177.5' />
+	<position name='pos27.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name22.5to177.5' />
+	<position name='pos22.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name17.5to177.5' />
+	<position name='pos17.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name12.5to177.5' />
+	<position name='pos12.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name7.5to177.5' />
+	<position name='pos7.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to177.5' />
+	<position name='pos2.5to177.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>
+<physvol>
+	<volumeref ref='name2.5to357.5' />
+	<position name='pos2.5to357.5' unit='cm' x='0' y='0' z='8.765'/>
+</physvol>

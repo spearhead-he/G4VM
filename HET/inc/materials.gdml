@@ -1,0 +1,192 @@
+<materials>
+
+<element name="H" Z="1">
+	<atom value="1.00784"/>
+</element>
+
+<element name="C" Z="6">
+	<atom value="12.011"/>
+</element>
+
+<element name="N" Z="7">
+	<atom value="14.0067"/>
+</element>
+
+<element name="O" Z="8">
+	<atom value="15.999"/>
+</element>
+
+<element name="F" Z="9">
+	<atom value="18.998403"/>
+</element>
+
+<element name="Mg" Z="12">
+	<atom value="24.304"/>
+</element>
+
+<element name="Al" Z="13">
+	<atom value="26.981539"/>
+</element>
+
+<element name="Si" Z="14">
+	<atom value="28.0855"/>
+</element>
+
+<element name="Ti" Z="22">
+	<atom value="47.867"/>
+</element>
+
+<element name="Cr" Z="24">
+	<atom value="51.9961"/>
+</element>
+
+<element name="Mn" Z="25">
+	<atom value="54.938"/>
+</element>
+
+<element name="Fe" Z="26">
+	<atom value="55.845"/>
+</element>
+
+<element name="Ni" Z="28">
+	<atom value="58.6934"/>
+</element>
+
+<element name="Cu" Z="29">
+	<atom value="63.546"/>
+</element>
+
+<element name="Zn" Z="30">
+	<atom value="65.38"/>
+</element>
+
+<element name="Ge" Z="32">
+	<atom value="72.63"/>
+</element>
+
+<element name="Zr" Z="40">
+	<atom value="91.224"/>
+</element>
+
+<element name="Sn" Z="50">
+	<atom value="118.71"/>
+</element>
+
+<element name="Pb" Z="82">
+	<atom value="207.2"/>
+</element>
+
+<element name="Bi" Z="83">
+	<atom value="208.98"/>
+</element>
+
+<material name="HiVacuum" formula="Vacuum">
+	<D value ="1.29e-16" unit="g/cm3"/>
+	<fraction n="0.7" ref="N"/>
+	<fraction n="0.3" ref="O"/>
+</material>
+
+<!-- ......................... -->
+
+<material name="Aluminum" Z="13.0" >
+	<D value="2.70" />
+	<atom value="26.98" />
+</material>
+
+<material name="Silicon" Z="14">
+	<D value="2.3296" unit="g/cm3" />
+	<atom value="28.0855"/>
+</material>
+
+<material name="Iron" Z="26">
+	<D value="7.874" unit="g/cm3" />
+	<atom value="55.845"/>
+</material>
+
+<material name="AluminiumAlloy" formula="AlZnMgCu_15">
+	<D value="2.78" unit="g/cm3" />
+	<fraction n="0.8852" ref="Al" />
+	<fraction n="0.0023" ref="Cr" />
+	<fraction n="0.015" ref="Cu" />
+	<fraction n="0.005" ref="Fe" />
+	<fraction n="0.025" ref="Mg" />
+	<fraction n="0.003" ref="Mn" />
+	<fraction n="0.004" ref="Si" />
+	<fraction n="0.056" ref="Zn" />
+	<fraction n="0.002" ref="Ti" />
+	<fraction n="0.0025" ref="Zr" />
+</material>
+
+<material name="Polyethylene" formula="C2H4">
+	<D value="0.96" unit="g/cm3" />
+	<composite n= "2" ref="C" />
+	<composite n= "4" ref="H" />
+</material>
+
+<material name="Kapton" formula="Kapton">
+	<D value="1.43" unit="g/cm3" />
+	<composite n="22" ref="C" />
+	<composite n="10" ref="H" />
+	<composite n= "2" ref="N" />
+	<composite n= "5" ref="O" />
+</material>
+
+<material name="polyimide" formula="">
+	<D value="1.42" unit="g/cm3" />
+	<fraction n= "0.026362" ref="H" />
+	<fraction n= "0.691133" ref="C" />
+	<fraction n= "0.073270" ref="N" />
+	<fraction n= "0.209235" ref="O" />
+</material>
+
+<material name="silicondioxide" formula="SiO2">
+	<D value="2.3296" unit="g/cm3" />
+	<composite n= "1" ref="Si" />
+	<composite n= "2" ref="O" />
+</material>
+
+<material name="BGO" formula="BGO">
+	<D value="7.13" unit="g/cm3" />
+	<composite n="12" ref="O" />
+	<composite n= "3" ref="Ge" />
+	<composite n= "4" ref="Bi" />
+</material>
+
+<material name="PTFE" formula="PTFE">
+	<D value="2.16" unit="g/cm3" />
+	<composite n= "2" ref="C" />
+	<composite n= "4" ref="F" />
+</material>
+
+<material name="Al2O3" formula="Al2O3">
+	<D value="3.9" unit="g/cm3" />
+	<composite n= "2" ref="Al" />
+	<composite n= "3" ref="O" />
+</material>
+
+<material name="Hydrazine" formula="N2H4">
+        <D value="1.021" unit="g/cm3" />
+        <composite n="2" ref="N" />
+        <composite n="4" ref="H" />
+</material>
+
+<material name="PCB" formula="">
+	<!-- Taken from Jan Appel's PhD thesis -->
+	<D value="0.1830071253" unit="g/cm3" />
+	 <fraction n="0.192623" ref="Cu" />
+  	<fraction n="0.019263" ref="Al" />
+  	<fraction n="0.019263" ref="Pb" />
+	<fraction n="0.019263" ref="Ni" />
+	<fraction n="0.077049" ref="Fe" />
+	<fraction n="0.038525" ref="Sn" />
+	<fraction n="0.048156" ref="Si" />
+	<fraction n="0.096312" ref="O" />
+	<fraction n="0.098238" ref="H" />
+	<fraction n="0.044822" ref="C" />
+	<fraction n="0.079251" ref="Fe" />
+	<fraction n="0.267235" ref="Mg" />
+</material>
+
+&SC_SPHERE_MATERIALS;
+
+</materials>

@@ -3,7 +3,14 @@
 #
 
 /gdml/file  /home/local1/G4VM/EPHIN/ephin.gdml
-#/gdml/file  /home/local1/G4VM/EPHIN/ephin_shield.gdml
+#/gdml/file  /home/local1/G4VM/EPHIN/ephin_soho_shield.gdml
+#/gdml/file  /home/local1/G4VM/EPHIN/ephin_chandra_shield.gdml
+
+#/gdml/file  /home/local1/G4VM/HET/HET.gdml
+#/gdml/file  /home/local1/G4VM/HET/HET_shield.gdml
+
+#/gdml/file  /home/local1/G4VM/ERNE/ERNE.gdml
+#/gdml/file  /home/local1/G4VM/SIXS/SIXS_v3.gdml
 
 /run/initialize
 /control/saveHistory
@@ -36,7 +43,7 @@
 /vis/drawVolume
 #
 # Specify view angle:
-/vis/viewer/set/viewpointVector 0 1 0.000001
+/vis/viewer/set/viewpointVector 0 1 0.1
 /vis/viewer/set/lightsVector -1 0 0
 #
 # Specify style (surface, wireframe, auxiliary edges,...)

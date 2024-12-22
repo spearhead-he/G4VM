@@ -1,0 +1,63 @@
+	<!-- Crystal Solid, Hexagonal Tessellated Solid with 6 Sides + 2*2 Front Sides -->
+	<tessellated name="Crystal">
+		<quadrangular vertex1="c01" vertex2="c07" vertex3="c08" vertex4="c02" type="ABSOLUTE" />
+		<quadrangular vertex1="c02" vertex2="c08" vertex3="c09" vertex4="c03" type="ABSOLUTE" />
+		<quadrangular vertex1="c03" vertex2="c09" vertex3="c10" vertex4="c04" type="ABSOLUTE" />
+		<quadrangular vertex1="c04" vertex2="c10" vertex3="c11" vertex4="c05" type="ABSOLUTE" />
+		<quadrangular vertex1="c05" vertex2="c11" vertex3="c12" vertex4="c06" type="ABSOLUTE" />
+		<quadrangular vertex1="c06" vertex2="c12" vertex3="c07" vertex4="c01" type="ABSOLUTE" />
+		<quadrangular vertex1="c01" vertex2="c02" vertex3="c03" vertex4="c04" type="ABSOLUTE" />
+		<quadrangular vertex1="c01" vertex2="c04" vertex3="c05" vertex4="c06" type="ABSOLUTE" />
+		<quadrangular vertex1="c07" vertex2="c10" vertex3="c09" vertex4="c08" type="ABSOLUTE" />
+		<quadrangular vertex1="c07" vertex2="c12" vertex3="c11" vertex4="c10" type="ABSOLUTE" />
+	</tessellated>
+	<!-- Crystal PTFE, Outer, Hexagonal Tessellated Solid with 6 Sides + 2*2 Front Sides -->
+	<tessellated name="PTFE_S">
+		<quadrangular vertex1="cT01" vertex2="cT07" vertex3="cT08" vertex4="cT02" type="ABSOLUTE" />
+		<quadrangular vertex1="cT02" vertex2="cT08" vertex3="cT09" vertex4="cT03" type="ABSOLUTE" />
+		<quadrangular vertex1="cT03" vertex2="cT09" vertex3="cT10" vertex4="cT04" type="ABSOLUTE" />
+		<quadrangular vertex1="cT04" vertex2="cT10" vertex3="cT11" vertex4="cT05" type="ABSOLUTE" />
+		<quadrangular vertex1="cT05" vertex2="cT11" vertex3="cT12" vertex4="cT06" type="ABSOLUTE" />
+		<quadrangular vertex1="cT06" vertex2="cT12" vertex3="cT07" vertex4="cT01" type="ABSOLUTE" />
+		<quadrangular vertex1="cT01" vertex2="cT02" vertex3="cT03" vertex4="cT04" type="ABSOLUTE" />
+		<quadrangular vertex1="cT01" vertex2="cT04" vertex3="cT05" vertex4="cT06" type="ABSOLUTE" />
+		<quadrangular vertex1="cT07" vertex2="cT10" vertex3="cT09" vertex4="cT08" type="ABSOLUTE" />
+		<quadrangular vertex1="cT07" vertex2="cT12" vertex3="cT11" vertex4="cT10" type="ABSOLUTE" />
+		<quadrangular vertex1="c02" vertex2="c08" vertex3="c07" vertex4="c01" type="ABSOLUTE" />
+		<quadrangular vertex1="c03" vertex2="c09" vertex3="c08" vertex4="c02" type="ABSOLUTE" />
+		<quadrangular vertex1="c04" vertex2="c10" vertex3="c09" vertex4="c03" type="ABSOLUTE" />
+		<quadrangular vertex1="c05" vertex2="c11" vertex3="c10" vertex4="c04" type="ABSOLUTE" />
+		<quadrangular vertex1="c06" vertex2="c12" vertex3="c11" vertex4="c05" type="ABSOLUTE" />
+		<quadrangular vertex1="c01" vertex2="c07" vertex3="c12" vertex4="c06" type="ABSOLUTE" />
+		<quadrangular vertex1="c04" vertex2="c03" vertex3="c02" vertex4="c01" type="ABSOLUTE" />
+		<quadrangular vertex1="c06" vertex2="c05" vertex3="c04" vertex4="c01" type="ABSOLUTE" />
+		<quadrangular vertex1="c08" vertex2="c09" vertex3="c10" vertex4="c07" type="ABSOLUTE" />
+		<quadrangular vertex1="c10" vertex2="c11" vertex3="c12" vertex4="c07" type="ABSOLUTE" />
+	</tessellated>
+	<tessellated name="RegionC">
+		<quadrangular vertex1="cT01" vertex2="cT07" vertex3="cT08" vertex4="cT02" type="ABSOLUTE" />
+		<quadrangular vertex1="cT02" vertex2="cT08" vertex3="cT09" vertex4="cT03" type="ABSOLUTE" />
+		<quadrangular vertex1="cT03" vertex2="cT09" vertex3="cT10" vertex4="cT04" type="ABSOLUTE" />
+		<quadrangular vertex1="cT04" vertex2="cT10" vertex3="cT11" vertex4="cT05" type="ABSOLUTE" />
+		<quadrangular vertex1="cT05" vertex2="cT11" vertex3="cT12" vertex4="cT06" type="ABSOLUTE" />
+		<quadrangular vertex1="cT06" vertex2="cT12" vertex3="cT07" vertex4="cT01" type="ABSOLUTE" />
+		<quadrangular vertex1="cT01" vertex2="cT02" vertex3="cT03" vertex4="cT04" type="ABSOLUTE" />
+		<quadrangular vertex1="cT01" vertex2="cT04" vertex3="cT05" vertex4="cT06" type="ABSOLUTE" />
+		<quadrangular vertex1="cT07" vertex2="cT10" vertex3="cT09" vertex4="cT08" type="ABSOLUTE" />
+		<quadrangular vertex1="cT07" vertex2="cT12" vertex3="cT11" vertex4="cT10" type="ABSOLUTE" />
+	</tessellated>
+
+
+
+	<tessellated name="Crystal_cage_cut">
+		<quadrangular vertex1="ccT01" vertex2="ccT07" vertex3="ccT08" vertex4="ccT02" type="ABSOLUTE" />
+		<quadrangular vertex1="ccT02" vertex2="ccT08" vertex3="ccT09" vertex4="ccT03" type="ABSOLUTE" />
+		<quadrangular vertex1="ccT03" vertex2="ccT09" vertex3="ccT10" vertex4="ccT04" type="ABSOLUTE" />
+		<quadrangular vertex1="ccT04" vertex2="ccT10" vertex3="ccT11" vertex4="ccT05" type="ABSOLUTE" />
+		<quadrangular vertex1="ccT05" vertex2="ccT11" vertex3="ccT12" vertex4="ccT06" type="ABSOLUTE" />
+		<quadrangular vertex1="ccT06" vertex2="ccT12" vertex3="ccT07" vertex4="ccT01" type="ABSOLUTE" />
+		<quadrangular vertex1="ccT01" vertex2="ccT02" vertex3="ccT03" vertex4="ccT04" type="ABSOLUTE" />
+		<quadrangular vertex1="ccT01" vertex2="ccT04" vertex3="ccT05" vertex4="ccT06" type="ABSOLUTE" />
+		<quadrangular vertex1="ccT07" vertex2="ccT10" vertex3="ccT09" vertex4="ccT08" type="ABSOLUTE" />
+		<quadrangular vertex1="ccT07" vertex2="ccT12" vertex3="ccT11" vertex4="ccT10" type="ABSOLUTE" />
+	</tessellated>

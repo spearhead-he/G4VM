@@ -1,0 +1,61 @@
+	<!-- Constants in cm -->
+	<!--
+	==================================================
+	Crystal Coordinates in terms of Crystal Radius
+	and Crystal Height (cR and cH)
+	==================================================
+	-->
+	<constant name="cR" value="2.0" />
+	<constant name="cH" value ="2.0" />
+	<constant name="tan30" value="0.577350269" />
+	<position name="c01"	x="-0.5*cR"	y="-(0.5*cR/tan30)"	z="0.5*cH"	unit="cm" />
+	<position name="c02"	x="+0.5*cR"	y="-(0.5*cR/tan30)"	z="0.5*cH"	unit="cm" />
+	<position name="c03"	x="+cR"		y="0.0"			z="0.5*cH"	unit="cm" />
+	<position name="c04"	x="+0.5*cR"	y="+0.5*cR/tan30"	z="0.5*cH"	unit="cm" />
+	<position name="c05"	x="-0.5*cR"	y="+0.5*cR/tan30"	z="0.5*cH"	unit="cm" />
+	<position name="c06"	x="-cR"		y="0.0"			z="0.5*cH"	unit="cm" />
+	<position name="c07"	x="-0.5*cR"	y="-0.5*cR/tan30"	z="-0.5*cH"	unit="cm" />
+	<position name="c08"	x="+0.5*cR"	y="-0.5*cR/tan30"	z="-0.5*cH"	unit="cm" />
+	<position name="c09"	x="+cR"		y="0.0"			z="-0.5*cH"	unit="cm" />
+	<position name="c10"	x="+0.5*cR"	y="+0.5*cR/tan30"	z="-0.5*cH"	unit="cm" />
+	<position name="c11"	x="-0.5*cR"	y="+0.5*cR/tan30"	z="-0.5*cH"	unit="cm" />
+	<position name="c12"	x="-cR"		y="0.0"			z="-0.5*cH"	unit="cm" />
+	
+	
+	<!-- 27.07.17 fixed two bugs: cTH is now correct with PTFEThickness and cTR was incorrectly defined in respect to the calculation of the y values. -->
+	<constant name="cTH" value="2.0225" /> <!-- 25.07.17 see comment below, needed also changing-->
+<constant name="PTFEThickness" value="0.0225"/>
+	<!-- <constant name="PTFEThickness" value="0.0225" unit="cm"/>  PTFE thickness changed from 0.03 to 0.045: 22.8.14 by R, Shri: Crystal 3 layers of PTFE | 04.04.17 changed again to 0.225: 3 x 0.075mm thickness. did not know correct thickness before -->
+	<constant name="cTR" value ="cR + PTFEThickness" />
+	<position name="cT01"	x="-0.5*cTR"	y="-(0.5*cTR/tan30)"	z="0.5*cTH"	unit="cm" />
+	<position name="cT02"	x="+0.5*cTR"	y="-(0.5*cTR/tan30)"	z="0.5*cTH"	unit="cm" />
+	<position name="cT03"	x="+cTR"	y="0.0"			z="0.5*cTH"	unit="cm" />
+	<position name="cT04"	x="+0.5*cTR"	y="+0.5*cTR/tan30"	z="0.5*cTH"	unit="cm" />
+	<position name="cT05"	x="-0.5*cTR"	y="+0.5*cTR/tan30"	z="0.5*cTH"	unit="cm" />
+	<position name="cT06"	x="-cTR"	y="0.0"			z="0.5*cTH"	unit="cm" />
+	<position name="cT07"	x="-0.5*cTR"	y="-0.5*cTR/tan30"	z="-0.5*cTH"	unit="cm" />
+	<position name="cT08"	x="+0.5*cTR"	y="-0.5*cTR/tan30"	z="-0.5*cTH"	unit="cm" />
+	<position name="cT09"	x="+cTR"	y="0.0"			z="-0.5*cTH"	unit="cm" />
+	<position name="cT10"	x="+0.5*cTR"	y="+0.5*cTR/tan30"	z="-0.5*cTH"	unit="cm" />
+	<position name="cT11"	x="-0.5*cTR"	y="+0.5*cTR/tan30"	z="-0.5*cTH"	unit="cm" />
+	<position name="cT12"	x="-cTR"	y="0.0"			z="-0.5*cTH"	unit="cm" />
+
+
+
+
+	<!-- definitions for crystal_cage_cut -->
+	<constant name="ccTH" value="2.0725" />   <!-- for the cut only this dimension is relevant, we only want to cut more in z, ccTR or ccTH2 needs to stay the same -->
+	<constant name="ccTH2" value="0.0225" /> <!-- additional thickness - like PTFEthickness -->
+	<constant name="ccTR" value ="cR + ccTH2" />
+	<position name="ccT01"	x="-0.5*ccTR"	y="-(0.5*ccTR/tan30)"	z="0.5*ccTH"	unit="cm" />
+	<position name="ccT02"	x="+0.5*ccTR"	y="-(0.5*ccTR/tan30)"	z="0.5*ccTH"	unit="cm" />
+	<position name="ccT03"	x="+ccTR"		y="0.0"					z="0.5*ccTH"	unit="cm" />
+	<position name="ccT04"	x="+0.5*ccTR"	y="+0.5*ccTR/tan30"		z="0.5*ccTH"	unit="cm" />
+	<position name="ccT05"	x="-0.5*ccTR"	y="+0.5*ccTR/tan30"		z="0.5*ccTH"	unit="cm" />
+	<position name="ccT06"	x="-ccTR"		y="0.0"					z="0.5*ccTH"	unit="cm" />
+	<position name="ccT07"	x="-0.5*ccTR"	y="-0.5*ccTR/tan30"		z="-0.5*ccTH"	unit="cm" />
+	<position name="ccT08"	x="+0.5*ccTR"	y="-0.5*ccTR/tan30"		z="-0.5*ccTH"	unit="cm" />
+	<position name="ccT09"	x="+ccTR"		y="0.0"					z="-0.5*ccTH"	unit="cm" />
+	<position name="ccT10"	x="+0.5*ccTR"	y="+0.5*ccTR/tan30"		z="-0.5*ccTH"	unit="cm" />
+	<position name="ccT11"	x="-0.5*ccTR"	y="+0.5*ccTR/tan30"		z="-0.5*ccTH"	unit="cm" />
+	<position name="ccT12"	x="-ccTR"		y="0.0"					z="-0.5*ccTH"	unit="cm" />

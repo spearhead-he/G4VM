@@ -1,0 +1,209 @@
+	<loop for="iLoop" from="1" to="2" step="2" >
+		<volume name="PCB_COPPER[iLoop]">
+			<solidref ref="PCB_COPPER[iLoop]" />
+			<materialref ref="Copper" />
+			<colorref ref="clRed3" />
+		</volume>
+		<volume name="PCB_EPOXY[iLoop]">
+			<solidref ref="PCB_EPOXY[iLoop]" />
+			<materialref ref="FR4" />
+			<colorref ref="clYellow3" />
+		</volume>
+		<volume name="PCB_LAQUER[iLoop]">
+			<solidref ref="PCB_LAQUER[iLoop]" />
+			<materialref ref="FR4" />
+			<colorref ref="clGreen3" />
+		</volume>
+		<volume name="PCB_AVCER[iLoop]">
+			<solidref ref="PCB_AVCER[iLoop]" />
+			<materialref ref="Al2O3" />
+			<colorref ref="clBlue3" />
+		</volume>
+		<volume name="PCB_AVSIL[iLoop]">
+			<solidref ref="PCB_AVSIL[iLoop]" />
+			<materialref ref="Silicon" />
+			<colorref ref="clGreen" />
+			<region cutValue="PCB_REGION_CUT[iLoop]" />
+			<!--<sd detail="true" zeroE="true"/>-->
+		</volume>
+		<volume name="PCB_REGION[iLoop]">
+			<solidref ref="PCB_REGION[iLoop]" />
+			<materialref ref="HiVacuum" />
+			<colorref ref="clInvis" />
+			
+			<physvol>
+				<volumeref ref="PCB_AVCER[iLoop]" />
+				<position x="+ (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH + PCB_AVCER_TH/4)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_AVCER[iLoop]" />
+				<position x="- (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH + PCB_AVCER_TH/4)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_AVCER[iLoop]" />
+				<position x="+ (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH + 3*PCB_AVCER_TH/4 + PCB_AVSIL_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_AVCER[iLoop]" />
+				<position x="- (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH + 3*PCB_AVCER_TH/4 + PCB_AVSIL_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			
+			<physvol>
+				<volumeref ref="PCB_AVSIL[iLoop]" />
+				<position x="+ (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH + PCB_AVCER_TH/2 + PCB_AVSIL_TH/2)" y="0" z="0" unit="mm" />
+				<!--<sdID id="(iLoop-1)*2 + 1" />-->
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_AVSIL[iLoop]" />
+				<position x="- (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH + PCB_AVCER_TH/2 + PCB_AVSIL_TH/2)" y="0" z="0" unit="mm" />
+				<!--<sdID id="(iLoop-1)*2 + 2" />-->
+			</physvol>
+			
+			<physvol>
+				<volumeref ref="PCB_LAQUER[iLoop]" />
+				<position x="+ (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH/2)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_LAQUER[iLoop]" />
+				<position x="- (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH/2)" y="0" z="0" unit="mm" />
+			</physvol>
+			
+			<physvol>
+				<volumeref ref="PCB_COPPER[iLoop]" />
+				<position x="+ (2*PCB_EPOXY_TH + 1.5*PCB_COPPER_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_COPPER[iLoop]" />
+				<position x="- (2*PCB_EPOXY_TH + 1.5*PCB_COPPER_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_COPPER[iLoop]" />
+				<position x="+ (1*PCB_EPOXY_TH + 0.5*PCB_COPPER_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_COPPER[iLoop]" />
+				<position x="- (1*PCB_EPOXY_TH + 0.5*PCB_COPPER_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			
+			<physvol>
+				<volumeref ref="PCB_EPOXY[iLoop]" />
+				<position x="+ (1.5*PCB_EPOXY_TH + 1*PCB_COPPER_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_EPOXY[iLoop]" />
+				<position x="- (1.5*PCB_EPOXY_TH + 1*PCB_COPPER_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_EPOXY[iLoop]" />
+				<position x="+ (0.5*PCB_EPOXY_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_EPOXY[iLoop]" />
+				<position x="- (0.5*PCB_EPOXY_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+		</volume>
+	</loop>
+	<loop for="iLoop" from="2" to="5" step="1" >
+		<volume name="PCB_COPPER[iLoop]">
+			<solidref ref="PCB_COPPER[iLoop]" />
+			<materialref ref="Copper" />
+			<colorref ref="clRed3" />
+		</volume>
+		<volume name="PCB_EPOXY[iLoop]">
+			<solidref ref="PCB_EPOXY[iLoop]" />
+			<materialref ref="FR4" />
+			<colorref ref="clYellow3" />
+		</volume>
+		<volume name="PCB_LAQUER[iLoop]">
+			<solidref ref="PCB_LAQUER[iLoop]" />
+			<materialref ref="FR4" />
+			<colorref ref="clGreen3" />
+		</volume>
+		<volume name="PCB_AVCER[iLoop]">
+			<solidref ref="PCB_AVCER[iLoop]" />
+			<materialref ref="Al2O3" />
+			<colorref ref="clBlue3" />
+		</volume>
+		<volume name="PCB_AVSIL[iLoop]">
+			<solidref ref="PCB_AVSIL[iLoop]" />
+			<materialref ref="Silicon" />
+			<colorref ref="clGreen" />
+			<!--<sd detail="true" zeroE="true"/>-->
+		</volume>
+		<volume name="PCB_REGION[iLoop]">
+			<solidref ref="PCB_REGION[iLoop]" />
+			<materialref ref="HiVacuum" />
+			<colorref ref="clInvis" />
+			
+			<physvol>
+				<volumeref ref="PCB_AVCER[iLoop]" />
+				<position x="+ (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH + PCB_AVCER_TH/4)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_AVCER[iLoop]" />
+				<position x="- (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH + PCB_AVCER_TH/4)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_AVCER[iLoop]" />
+				<position x="+ (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH + 3*PCB_AVCER_TH/4 + PCB_AVSIL_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_AVCER[iLoop]" />
+				<position x="- (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH + 3*PCB_AVCER_TH/4 + PCB_AVSIL_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			
+			<physvol>
+				<volumeref ref="PCB_AVSIL[iLoop]" />
+				<position x="+ (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH + PCB_AVCER_TH/2 + PCB_AVSIL_TH/2)" y="0" z="0" unit="mm" />
+				<!--<sdID id="(iLoop-1)*2 + 1" />-->
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_AVSIL[iLoop]" />
+				<position x="- (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH + PCB_AVCER_TH/2 + PCB_AVSIL_TH/2)" y="0" z="0" unit="mm" />
+				<!--<sdID id="(iLoop-1)*2 + 2" />-->
+			</physvol>
+			
+			<physvol>
+				<volumeref ref="PCB_LAQUER[iLoop]" />
+				<position x="+ (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH/2)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_LAQUER[iLoop]" />
+				<position x="- (2*PCB_EPOXY_TH + 2*PCB_COPPER_TH + PCB_LAQUER_TH/2)" y="0" z="0" unit="mm" />
+			</physvol>
+			
+			<physvol>
+				<volumeref ref="PCB_COPPER[iLoop]" />
+				<position x="+ (2*PCB_EPOXY_TH + 1.5*PCB_COPPER_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_COPPER[iLoop]" />
+				<position x="- (2*PCB_EPOXY_TH + 1.5*PCB_COPPER_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_COPPER[iLoop]" />
+				<position x="+ (1*PCB_EPOXY_TH + 0.5*PCB_COPPER_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_COPPER[iLoop]" />
+				<position x="- (1*PCB_EPOXY_TH + 0.5*PCB_COPPER_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			
+			<physvol>
+				<volumeref ref="PCB_EPOXY[iLoop]" />
+				<position x="+ (1.5*PCB_EPOXY_TH + 1*PCB_COPPER_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_EPOXY[iLoop]" />
+				<position x="- (1.5*PCB_EPOXY_TH + 1*PCB_COPPER_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_EPOXY[iLoop]" />
+				<position x="+ (0.5*PCB_EPOXY_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+			<physvol>
+				<volumeref ref="PCB_EPOXY[iLoop]" />
+				<position x="- (0.5*PCB_EPOXY_TH)" y="0" z="0" unit="mm" />
+			</physvol>
+		</volume>
+	</loop>

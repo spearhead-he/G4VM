@@ -1,0 +1,36 @@
+<extension>
+	<color name="clBlue"	R="0.0" G="0.0" B="1.0" A="1.0" />
+	<color name="clBlue1"	R="0.0" G="0.0" B="1.0" A="1.0" />
+	<color name="clBlue2"	R="0.0" G="0.0" B="0.8" A="1.0" />
+	<color name="clBlue3"	R="0.0" G="0.0" B="0.6" A="1.0" />
+	<color name="clBlue4"	R="0.0" G="0.0" B="0.4" A="1.0" />
+	
+	<color name="clRed"	R="1.0" G="0.0" B="0.0" A="1.0" />
+	<color name="clRed1"	R="1.0" G="0.0" B="0.0" A="1.0" />
+	<color name="clRed2"	R="0.8" G="0.0" B="0.0" A="1.0" />
+	<color name="clRed3"	R="0.6" G="0.0" B="0.0" A="1.0" />
+	<color name="clRed4"	R="0.4" G="0.0" B="0.0" A="1.0" />
+	
+	<color name="clGreen"	R="0.0" G="1.0" B="0.0" A="1.0" />
+	<color name="clGreen1"	R="0.0" G="1.0" B="0.0" A="1.0" />
+	<color name="clGreen2"	R="0.0" G="0.8" B="0.0" A="1.0" />
+	<color name="clGreen3"	R="0.0" G="0.8" B="0.0" A="1.0" />
+	<color name="clGreen4"	R="0.0" G="0.8" B="0.0" A="1.0" />
+	
+	<color name="clGray"	R="0.2" G="0.2" B="0.2" A="1.0" />
+	<color name="clGray1"	R="0.2" G="0.2" B="0.2" A="1.0" />
+	<color name="clGray2"	R="0.4" G="0.4" B="0.4" A="1.0" />
+	<color name="clGray3"	R="0.6" G="0.6" B="0.6" A="1.0" />
+	<color name="clGray4"	R="0.8" G="0.8" B="0.8" A="1.0" />
+	
+	<color name="clYellow"	R="1.0" G="1.0" B="0.0" A="1.0" />
+	<color name="clYellow1"	R="1.0" G="1.0" B="0.0" A="1.0" />
+	<color name="clYellow2"	R="0.8" G="0.8" B="0.0" A="1.0" />
+	<color name="clYellow3"	R="0.6" G="0.6" B="0.0" A="1.0" />
+	<color name="clYellow4"	R="0.4" G="0.4" B="0.0" A="1.0" />
+	
+	<color name="clWhite"	R="1.0" G="1.0" B="1.0" A="1.0" />
+	<color name="clBlack"	R="0.0" G="0.0" B="0.0" A="1.0" />
+	<color name="clInvis"	R="0.0" G="0.0" B="0.0" A="0.0" />
+        <color name="Brown"	R="1.0" G="0.5" B="0.0" A="0.0" />
+</extension>

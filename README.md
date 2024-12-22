@@ -1,10 +1,19 @@
 # G4VM
 
+## About
+The G4VM (GEANT4 Virtual Machine) aims to make GEANT4 instrument simulations of SOHO/Chandra EPHIN and Solar Orbiter HET readily accessible.
+
+It contains the corresponding GDML models along with a compatible GEANT4 application.
+The models  incorporate the sensitive detectors of the instruments and the passive material shielding the detectors, represented with high precision.
+Each instrument is provided individually and with a spacecraft model that maps the spacecraft's shielding material onto spherical shell segments with varying densities to account for directionality.
+
+The GEANT4 application can be built independently but is provided in a configuration that works seamlessly within the recommended setup.
+
 ## Recommended Setup
 
 Our recommended setup requires three resources:
 
-1. A [Virtualization Software](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html.html) (VMware Workstation Player 17)
+1. A [Virtualization Software](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) (VMware Workstation Player 17)
 2. A [Geant4 Virtual Machine](https://extra.lp2ib.in2p3.fr/G4/download/)
 3. The [GEANT-4 application](https://github.com/spearhead-he/G4VM/) source code (found here)
 
@@ -40,7 +49,7 @@ The proposed setup has been tested using VMware Workstation Player 17 obtained [
 
 ---
 
-## Getting and Running the GEANT-4 Applications
+## Obtaining and Running the GEANT-4 Applications
 
 Follow these steps to get the GEANT-4 application running:
 
@@ -54,33 +63,44 @@ Follow these steps to get the GEANT-4 application running:
 2. Clone the repository containing the GEANT-4 applications using:
    ```csh
    git clone https://github.com/spearhead-he/G4VM.git
+   ```
 
 3. Navigate to the build directory of the GEANT-4 application:
    ```csh
-   cd cd G4VM/G4VM_build/
+   cd G4VM/G4VM_build/
+   ```
 
-#### Intel-Based Host System
-
-Run the GEANT-4 application in QT/UI mode using:
-    ```csh
-
-    ./Spearhead_G4VM
-
-And to run the GEANT-4 application with a macro file use:
-    '''csh
-    
-    ./Spearhead_G4VM <path_to_macro>
-
-#### ARM-Based Host System
-On ARM systems the same, but first compile the binarys by running:    
-    '''csh
-
-    make
+#### ARM-Based Host System:
+On ARM systems first compile the binarys by running:    
+```csh
+make
+```
 
 A successful compilation will output:
-    '''csh
+```csh
+[100%] Built target Spearhead_G4VM
+```
+You can now proceed as on Intel-Based Host systems.
 
-    [100%] Built target Spearhead_G4VM
+#### Intel-Based Host System:
+
+Run the GEANT-4 application in QT/UI mode using:
+ ```csh
+ ./Spearhead_G4VM
+ ```
+
+And to run the GEANT-4 application with a macro file use:
+```csh
+./Spearhead_G4VM <path_to_macro>
+```
     
+---
 
+## Acknowledgement
 
+<img align="right" height="80px" src="https://github.com/user-attachments/assets/28c60e00-85b4-4cf3-a422-6f0524c42234"> 
+<img align="right" height="80px" src="https://github.com/user-attachments/assets/854d45ef-8b25-4a7b-9521-bf8bc364246e"> 
+
+This tool is developed within the SPEARHEAD (*SPEcification, Analysis & Re-calibration of High Energy pArticle Data*) project. SPEARHEAD has received funding from the European Union’s Horizon Europe programme under grant agreement No 101135044. 
+
+The tool reflects only the authors’ view and the European Commission is not responsible for any use that may be made of the information it contains.

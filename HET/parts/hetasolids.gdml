@@ -1,0 +1,60 @@
+	<tessellated name="HETAguard">
+		<quadrangular vertex1="d01" vertex2="d02" vertex3="d03" vertex4="d04" type="ABSOLUTE" />
+		<quadrangular vertex1="d04" vertex2="d03" vertex3="d15" vertex4="d16" type="ABSOLUTE" />
+		<quadrangular vertex1="d16" vertex2="d15" vertex3="d13" vertex4="d14" type="ABSOLUTE" />
+		<quadrangular vertex1="d14" vertex2="d13" vertex3="d11" vertex4="d12" type="ABSOLUTE" />
+		<quadrangular vertex1="d12" vertex2="d11" vertex3="d10" vertex4="d09" type="ABSOLUTE" />
+		<quadrangular vertex1="d09" vertex2="d10" vertex3="d08" vertex4="d07" type="ABSOLUTE" />
+		<quadrangular vertex1="d07" vertex2="d08" vertex3="d06" vertex4="d05" type="ABSOLUTE" />
+		<quadrangular vertex1="d05" vertex2="d06" vertex3="d02" vertex4="d01" type="ABSOLUTE" />
+		<quadrangular vertex1="d01" vertex2="d04" vertex3="d16" vertex4="d17" type="ABSOLUTE" /> <!-- Here the front surface begins -->
+		<quadrangular vertex1="d16" vertex2="d14" vertex3="d12" vertex4="d17" type="ABSOLUTE" />
+		<quadrangular vertex1="d12" vertex2="d09" vertex3="d07" vertex4="d17" type="ABSOLUTE" />
+		<quadrangular vertex1="d07" vertex2="d05" vertex3="d01" vertex4="d17" type="ABSOLUTE" />
+		<quadrangular vertex1="d02" vertex2="d06" vertex3="d08" vertex4="d18" type="ABSOLUTE" /> <!-- Here the front surface begins -->
+		<quadrangular vertex1="d08" vertex2="d10" vertex3="d11" vertex4="d18" type="ABSOLUTE" />
+		<quadrangular vertex1="d11" vertex2="d13" vertex3="d15" vertex4="d18" type="ABSOLUTE" />
+		<quadrangular vertex1="d15" vertex2="d03" vertex3="d02" vertex4="d18" type="ABSOLUTE" />
+		</tessellated>
+	<tessellated name="HETAcarrierhole">
+		<quadrangular vertex1="ca01" vertex2="ca02" vertex3="ca03" vertex4="ca04" type="ABSOLUTE" />
+		<quadrangular vertex1="ca04" vertex2="ca03" vertex3="ca15" vertex4="ca16" type="ABSOLUTE" />
+		<quadrangular vertex1="ca16" vertex2="ca15" vertex3="ca13" vertex4="ca14" type="ABSOLUTE" />
+		<quadrangular vertex1="ca14" vertex2="ca13" vertex3="ca11" vertex4="ca12" type="ABSOLUTE" />
+		<quadrangular vertex1="ca12" vertex2="ca11" vertex3="ca10" vertex4="ca09" type="ABSOLUTE" />
+		<quadrangular vertex1="ca09" vertex2="ca10" vertex3="ca08" vertex4="ca07" type="ABSOLUTE" />
+		<quadrangular vertex1="ca07" vertex2="ca08" vertex3="ca06" vertex4="ca05" type="ABSOLUTE" />
+		<quadrangular vertex1="ca05" vertex2="ca06" vertex3="ca02" vertex4="ca01" type="ABSOLUTE" />
+		<quadrangular vertex1="ca01" vertex2="ca04" vertex3="ca16" vertex4="ca17" type="ABSOLUTE" /> <!-- Here the front surface begins -->
+		<quadrangular vertex1="ca16" vertex2="ca14" vertex3="ca12" vertex4="ca17" type="ABSOLUTE" />
+		<quadrangular vertex1="ca12" vertex2="ca09" vertex3="ca07" vertex4="ca17" type="ABSOLUTE" />
+		<quadrangular vertex1="ca07" vertex2="ca05" vertex3="ca01" vertex4="ca17" type="ABSOLUTE" />
+		<quadrangular vertex1="ca02" vertex2="ca06" vertex3="ca08" vertex4="ca18" type="ABSOLUTE" /> <!-- Here the front surface begins -->
+		<quadrangular vertex1="ca08" vertex2="ca10" vertex3="ca11" vertex4="ca18" type="ABSOLUTE" />
+		<quadrangular vertex1="ca11" vertex2="ca13" vertex3="ca15" vertex4="ca18" type="ABSOLUTE" />
+		<quadrangular vertex1="ca15" vertex2="ca03" vertex3="ca02" vertex4="ca18" type="ABSOLUTE" />
+		</tessellated>
+	<tube name="HETAouterseg" rmin="8/2" rmax="17.4/2" z="0.3" startphi="0" deltaphi="360" aunit="deg" lunit="mm"/>
+	<tube name="HETAinnerseg" rmin="0" rmax="8/2" z="0.3" startphi="0" deltaphi="360" aunit="deg" lunit="mm"/>
+	<tube name="HETAouterhole" rmin="0" rmax="17.4/2" z="10.0" startphi="0" deltaphi="360" aunit="deg" lunit="mm"/>
+	<tube name="HETAcarrierbasic" rmin="0" rmax="30.4/2" z="hetacarrierT" startphi="0" deltaphi="360" aunit="deg" lunit="mm"/>
+	
+	<subtraction name="HETAguardring" >
+		<first	ref="HETAguard" />
+		<second	ref="HETAouterhole" />
+	</subtraction>
+	
+	
+	<subtraction name="HETAcarrier" >
+		<first	ref="HETAcarrierbasic" />
+		<second	ref="HETAcarrierhole" />
+	</subtraction>
+
+
+
+
+<polyhedra name="deadlayerheta" startphi="22.5" deltaphi="360" numsides="8" aunit="deg" lunit="cm">
+        <zplane rmin="0" rmax="SiAR/2" z="-deadlayerT/2/10" />
+        <zplane rmin="0" rmax="SiAR/2" z="deadlayerT/2/10" />
+</polyhedra> 
+

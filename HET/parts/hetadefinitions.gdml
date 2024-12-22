@@ -1,0 +1,47 @@
+	<!--HET a hexagonal guard ring-->		
+	<constant name="SiAR" value="2.15" /> <!-- Radius is flat to flat not corner to corner -->
+	<constant name="SiATh" value ="0.03" />
+	<quantity name="hetacarrierT"  type="length" value="0.8"		unit="mm" /> <!-- see Hetb def --> 
+	<constant name="oneplussqrt2" value="2.414213562" />
+	<constant name="SiAL" value="SiAR/2.414213562" /> <!-- length of one side SiAR/(1+sqrt2)-->  
+	<quantity name="deadlayerT"  type="length" value="0.002"		unit="mm" />		
+	<position name="d01"	x="-SiAL/2"	y="-SiAR/2"	z="SiATh/2"	unit="cm" /> <!-- front side -->
+	<position name="d05"	x="-SiAR/2"	y="-SiAL/2"	z="SiATh/2"	unit="cm" />
+	<position name="d07"	x="-SiAR/2"	y="SiAL/2"	z="SiATh/2"	unit="cm" />
+	<position name="d09"	x="-SiAL/2"	y="SiAR/2"	z="SiATh/2"	unit="cm" />
+	<position name="d12"	x="SiAL/2"	y="SiAR/2"	z="SiATh/2"	unit="cm" />
+	<position name="d04"	x="SiAL/2"	y="-SiAR/2"	z="SiATh/2"	unit="cm" />	
+	<position name="d16"	x="SiAR/2"	y="-SiAL/2"	z="SiATh/2"	unit="cm" />	
+	<position name="d14"	x="SiAR/2"	y="SiAL/2"	z="SiATh/2"	unit="cm" />	
+	<position name="d17"	x="0."	y="0."	z="SiATh/2"	unit="cm" />
+	<position name="d02"	x="-SiAL/2"	y="-SiAR/2"	z="-SiATh/2"	unit="cm" /><!-- back side -->
+	<position name="d03"	x="SiAL/2"	y="-SiAR/2"	z="-SiATh/2"	unit="cm" />
+	<position name="d06"	x="-SiAR/2"	y="-SiAL/2"	z="-SiATh/2"	unit="cm" />
+	<position name="d08"	x="-SiAR/2"	y="SiAL/2"	z="-SiATh/2"	unit="cm" />
+	<position name="d10"	x="-SiAL/2"	y="SiAR/2"	z="-SiATh/2"	unit="cm" />
+	<position name="d11"	x="SiAL/2"	y="SiAR/2"	z="-SiATh/2"	unit="cm" />
+	<position name="d13"	x="SiAR/2"	y="SiAL/2"	z="-SiATh/2"	unit="cm" />
+	<position name="d15"	x="SiAR/2"	y="-SiAL/2"	z="-SiATh/2"	unit="cm" />
+	<position name="d18"	x="0."	y="0."	z="-SiATh/2"	unit="cm" />
+	<!--HET a carrier hole-->
+	<constant name="CAR" value="1.99" /> <!-- flat side to flat side -->
+	<constant name="CATh" value ="3" /><!-- some value, has to be thicker than the actual carrier because its used for substraction -->
+	<constant name="CASL" value="CAR/2.414213562" /> <!-- length of one side CAR/(1+sqrt2)-->  
+	<position name="ca01"	x="-CASL/2"	y="-CAR/2"		z="CATh/2"	unit="cm" /> <!-- front side -->
+	<position name="ca05"	x="-CAR/2"		y="-CASL/2"	z="CATh/2"	unit="cm" />
+	<position name="ca07"	x="-CAR/2"		y="CASL/2"		z="CATh/2"	unit="cm" />
+	<position name="ca09"	x="-CASL/2"	y="CAR/2"		z="CATh/2"	unit="cm" />
+	<position name="ca12"	x="CASL/2"		y="CAR/2"		z="CATh/2"	unit="cm" />
+	<position name="ca04"	x="CASL/2"		y="-CAR/2"		z="CATh/2"	unit="cm" />	
+	<position name="ca16"	x="CAR/2"		y="-CASL/2"	z="CATh/2"	unit="cm" />	
+	<position name="ca14"	x="CAR/2"		y="CASL/2"		z="CATh/2"	unit="cm" />	
+	<position name="ca17"	x="0."			y="0."				z="CATh/2"	unit="cm" />
+	<position name="ca02"	x="-CASL/2"	y="-CAR/2"		z="-CATh/2"	unit="cm" /><!-- back side -->
+	<position name="ca03"	x="CASL/2"		y="-CAR/2"		z="-CATh/2"	unit="cm" />
+	<position name="ca06"	x="-CAR/2"		y="-CASL/2"	z="-CATh/2"	unit="cm" />
+	<position name="ca08"	x="-CAR/2"		y="CASL/2"		z="-CATh/2"	unit="cm" />
+	<position name="ca10"	x="-CASL/2"	y="CAR/2"		z="-CATh/2"	unit="cm" />
+	<position name="ca11"	x="CASL/2"		y="CAR/2"		z="-CATh/2"	unit="cm" />
+	<position name="ca13"	x="CAR/2"		y="CASL/2"		z="-CATh/2"	unit="cm" />
+	<position name="ca15"	x="CAR/2"		y="-CASL/2"	z="-CATh/2"	unit="cm" />
+	<position name="ca18"	x="0."			y="0."			z="-CATh/2"	unit="cm" />

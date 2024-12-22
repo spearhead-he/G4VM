@@ -1,0 +1,63 @@
+	<tessellated name="HETBguard">
+		<quadrangular vertex1="g01" vertex2="g02" vertex3="g03" vertex4="g04" type="ABSOLUTE" />
+		<quadrangular vertex1="g04" vertex2="g03" vertex3="g15" vertex4="g16" type="ABSOLUTE" />
+		<quadrangular vertex1="g16" vertex2="g15" vertex3="g13" vertex4="g14" type="ABSOLUTE" />
+		<quadrangular vertex1="g14" vertex2="g13" vertex3="g11" vertex4="g12" type="ABSOLUTE" />
+		<quadrangular vertex1="g12" vertex2="g11" vertex3="g10" vertex4="g09" type="ABSOLUTE" />
+		<quadrangular vertex1="g09" vertex2="g10" vertex3="g08" vertex4="g07" type="ABSOLUTE" />
+		<quadrangular vertex1="g07" vertex2="g08" vertex3="g06" vertex4="g05" type="ABSOLUTE" />
+		<quadrangular vertex1="g05" vertex2="g06" vertex3="g02" vertex4="g01" type="ABSOLUTE" />
+		<quadrangular vertex1="g01" vertex2="g04" vertex3="g16" vertex4="g17" type="ABSOLUTE" /> <!-- Here the front surface begins -->
+		<quadrangular vertex1="g16" vertex2="g14" vertex3="g12" vertex4="g17" type="ABSOLUTE" />
+		<quadrangular vertex1="g12" vertex2="g09" vertex3="g07" vertex4="g17" type="ABSOLUTE" />
+		<quadrangular vertex1="g07" vertex2="g05" vertex3="g01" vertex4="g17" type="ABSOLUTE" />
+		<quadrangular vertex1="g02" vertex2="g06" vertex3="g08" vertex4="g18" type="ABSOLUTE" /> <!-- Here the front surface begins -->
+		<quadrangular vertex1="g08" vertex2="g10" vertex3="g11" vertex4="g18" type="ABSOLUTE" />
+		<quadrangular vertex1="g11" vertex2="g13" vertex3="g15" vertex4="g18" type="ABSOLUTE" />
+		<quadrangular vertex1="g15" vertex2="g03" vertex3="g02" vertex4="g18" type="ABSOLUTE" />
+		</tessellated>
+	<tessellated name="HETBcarrierhole">
+		<quadrangular vertex1="cb01" vertex2="cb02" vertex3="cb03" vertex4="cb04" type="ABSOLUTE" />
+		<quadrangular vertex1="cb04" vertex2="cb03" vertex3="cb15" vertex4="cb16" type="ABSOLUTE" />
+		<quadrangular vertex1="cb16" vertex2="cb15" vertex3="cb13" vertex4="cb14" type="ABSOLUTE" />
+		<quadrangular vertex1="cb14" vertex2="cb13" vertex3="cb11" vertex4="cb12" type="ABSOLUTE" />
+		<quadrangular vertex1="cb12" vertex2="cb11" vertex3="cb10" vertex4="cb09" type="ABSOLUTE" />
+		<quadrangular vertex1="cb09" vertex2="cb10" vertex3="cb08" vertex4="cb07" type="ABSOLUTE" />
+		<quadrangular vertex1="cb07" vertex2="cb08" vertex3="cb06" vertex4="cb05" type="ABSOLUTE" />
+		<quadrangular vertex1="cb05" vertex2="cb06" vertex3="cb02" vertex4="cb01" type="ABSOLUTE" />
+		<quadrangular vertex1="cb01" vertex2="cb04" vertex3="cb16" vertex4="cb17" type="ABSOLUTE" /> <!-- Here the front surface begins -->
+		<quadrangular vertex1="cb16" vertex2="cb14" vertex3="cb12" vertex4="cb17" type="ABSOLUTE" />
+		<quadrangular vertex1="cb12" vertex2="cb09" vertex3="cb07" vertex4="cb17" type="ABSOLUTE" />
+		<quadrangular vertex1="cb07" vertex2="cb05" vertex3="cb01" vertex4="cb17" type="ABSOLUTE" />
+		<quadrangular vertex1="cb02" vertex2="cb06" vertex3="cb08" vertex4="cb18" type="ABSOLUTE" /> <!-- Here the front surface begins -->
+		<quadrangular vertex1="cb08" vertex2="cb10" vertex3="cb11" vertex4="cb18" type="ABSOLUTE" />
+		<quadrangular vertex1="cb11" vertex2="cb13" vertex3="cb15" vertex4="cb18" type="ABSOLUTE" />
+		<quadrangular vertex1="cb15" vertex2="cb03" vertex3="cb02" vertex4="cb18" type="ABSOLUTE" />
+		</tessellated>
+		
+	<tube name="HETBouterseg" rmin="17.4/2" rmax="36.49/2" z="0.3" startphi="0" deltaphi="360" aunit="deg" lunit="mm"/>
+	<tube name="deadlayerhetbold" rmin="0" rmax="36.49/2" z="deadlayerT" startphi="0" deltaphi="360" aunit="deg" lunit="mm"/>
+	<tube name="HETBmiddleseg" rmin="8/2." rmax="17.4/2" z="0.3" startphi="0" deltaphi="360" aunit="deg" lunit="mm"/>
+	<tube name="HETBinnerseg" rmin="0" rmax="8/2." z="0.3" startphi="0" deltaphi="360" aunit="deg" lunit="mm"/>
+	<tube name="HETBouterhole" rmin="0" rmax="36.49/2" z="10.0" startphi="0" deltaphi="360" aunit="deg" lunit="mm"/>
+	<box name="HETBcarrierbasic"		x="49.0"	y="49.0"	z="hetbcarrierT" lunit="mm"/>
+	
+	<subtraction name="HETBdet" >
+		<first	ref="HETBguard" />
+		<second	ref="HETBouterhole" />
+	</subtraction>
+	
+	
+<polyhedra name="deadlayerhetb" startphi="22.5" deltaphi="360" numsides="8" aunit="deg" lunit="cm">
+        <zplane rmin="0" rmax="SiBR/2" z="-deadlayerT/2/10" />
+        <zplane rmin="0" rmax="SiBR/2" z="deadlayerT/2/10" />
+</polyhedra> 
+	
+	
+	<subtraction name="HETBcarrier" >
+		<first	ref="HETBcarrierbasic" />
+		<second	ref="HETBcarrierhole" />
+	</subtraction>
+
+
+

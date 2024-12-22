@@ -1,0 +1,45 @@
+	<!--HET a hexagonal guard ring-->		
+	<constant name="SiBR" value="4.103" />
+	<constant name="SiBTh" value ="0.03" />
+	<quantity name="hetbcarrierT"  type="length" value="0.8"		unit="mm" /> <!-- not as mentioned in CAD. Stephan B. decided to use other T. - Lars S. -->
+	<constant name="SiBL" value="SiBR/2.414213562" /> <!-- length of one side SiBR/(1+sqrt2)-->  
+	<position name="g01"	x="-SiBL/2"	y="-SiBR/2"	z="SiBTh/2"	unit="cm" /> <!-- front side -->
+	<position name="g05"	x="-SiBR/2"	y="-SiBL/2"	z="SiBTh/2"	unit="cm" />
+	<position name="g07"	x="-SiBR/2"	y="SiBL/2"	z="SiBTh/2"	unit="cm" />
+	<position name="g09"	x="-SiBL/2"	y="SiBR/2"	z="SiBTh/2"	unit="cm" />
+	<position name="g12"	x="SiBL/2"	y="SiBR/2"	z="SiBTh/2"	unit="cm" />
+	<position name="g04"	x="SiBL/2"	y="-SiBR/2"	z="SiBTh/2"	unit="cm" />	
+	<position name="g16"	x="SiBR/2"	y="-SiBL/2"	z="SiBTh/2"	unit="cm" />	
+	<position name="g14"	x="SiBR/2"	y="SiBL/2"	z="SiBTh/2"	unit="cm" />	
+	<position name="g17"	x="0."	y="0."	z="SiBTh/2"	unit="cm" />
+	<position name="g02"	x="-SiBL/2"	y="-SiBR/2"	z="-SiBTh/2"	unit="cm" /><!-- back side -->
+	<position name="g03"	x="SiBL/2"	y="-SiBR/2"	z="-SiBTh/2"	unit="cm" />
+	<position name="g06"	x="-SiBR/2"	y="-SiBL/2"	z="-SiBTh/2"	unit="cm" />
+	<position name="g08"	x="-SiBR/2"	y="SiBL/2"	z="-SiBTh/2"	unit="cm" />
+	<position name="g10"	x="-SiBL/2"	y="SiBR/2"	z="-SiBTh/2"	unit="cm" />
+	<position name="g11"	x="SiBL/2"	y="SiBR/2"	z="-SiBTh/2"	unit="cm" />
+	<position name="g13"	x="SiBR/2"	y="SiBL/2"	z="-SiBTh/2"	unit="cm" />
+	<position name="g15"	x="SiBR/2"	y="-SiBL/2"	z="-SiBTh/2"	unit="cm" />
+	<position name="g18"	x="0."	y="0."	z="-SiBTh/2"	unit="cm" />
+	<!--HET a carrier hole-->
+	<constant name="CBR" value="3.94" />
+	<constant name="CBTh" value ="3" />
+	<constant name="CBSL" value="CBR/2.414213562" /> <!-- length of one side SiBR/(1+sqrt2)-->  
+	<position name="cb01"	x="-CBSL/2"	y="-CBR/2"		z="CBTh/2"	unit="cm" /> <!-- front side -->
+	<position name="cb05"	x="-CBR/2"		y="-CBSL/2"		z="CBTh/2"	unit="cm" />
+	<position name="cb07"	x="-CBR/2"		y="CBSL/2"		z="CBTh/2"	unit="cm" />
+	<position name="cb09"	x="-CBSL/2"		y="CBR/2"		z="CBTh/2"	unit="cm" />
+	<position name="cb12"	x="CBSL/2"		y="CBR/2"		z="CBTh/2"	unit="cm" />
+	<position name="cb04"	x="CBSL/2"		y="-CBR/2"		z="CBTh/2"	unit="cm" />	
+	<position name="cb16"	x="CBR/2"		y="-CBSL/2"		z="CBTh/2"	unit="cm" />	
+	<position name="cb14"	x="CBR/2"		y="CBSL/2"		z="CBTh/2"	unit="cm" />	
+	<position name="cb17"	x="0."			y="0."			z="CBTh/2"	unit="cm" />
+	<position name="cb02"	x="-CBSL/2"		y="-CBR/2"		z="-CBTh/2"	unit="cm" /><!-- back side -->
+	<position name="cb03"	x="CBSL/2"		y="-CBR/2"		z="-CBTh/2"	unit="cm" />
+	<position name="cb06"	x="-CBR/2"		y="-CBSL/2"		z="-CBTh/2"	unit="cm" />
+	<position name="cb08"	x="-CBR/2"		y="CBSL/2"		z="-CBTh/2"	unit="cm" />
+	<position name="cb10"	x="-CBSL/2"		y="CBR/2"		z="-CBTh/2"	unit="cm" />
+	<position name="cb11"	x="CBSL/2"		y="CBR/2"		z="-CBTh/2"	unit="cm" />
+	<position name="cb13"	x="CBR/2"		y="CBSL/2"		z="-CBTh/2"	unit="cm" />
+	<position name="cb15"	x="CBR/2"		y="-CBSL/2"		z="-CBTh/2"	unit="cm" />
+	<position name="cb18"	x="0."			y="0."			z="-CBTh/2"	unit="cm" />

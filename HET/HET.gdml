@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE gdml [
+	<!ENTITY MATERIALS SYSTEM "./inc/materials.gdml">
+	<!ENTITY HETADEFINITIONS SYSTEM "./parts/hetadefinitions.gdml">
+	<!ENTITY HETASOLIDS SYSTEM "./parts/hetasolids.gdml">
+	<!ENTITY HETBDEFINITIONS SYSTEM "./parts/hetbdefinitions.gdml">
+	<!ENTITY HETBSOLIDS SYSTEM "./parts/hetbsolids.gdml">
+	<!ENTITY PCBVOLUMES SYSTEM "./parts/pcbvolumes.gdml">
+	<!ENTITY BGOPTFEDEFINITION SYSTEM "./parts/bgoandptfedefinition.gdml">
+	<!ENTITY BGOPTFEVOLUMES SYSTEM "./parts/bgoandptfevolume.gdml">
+	<!ENTITY SC_SPHERE_SOLIDS SYSTEM    "./shell/het_shell_test.sc_sphere_r200_a5_solids.gdml"> 
+	<!ENTITY SC_SPHERE_STRUCTURE SYSTEM "./shell/het_shell_test.sc_sphere_r200_a5_structure.gdml">
+	<!ENTITY SC_SPHERE_MATERIALS SYSTEM "./shell/het_shell_test.sc_sphere_r200_a5_materials.gdml">
+]>
+
+<gdml xmlns:gdml="http://cern.ch/2001/Schemas/GDML"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="schema/gdml.xsd"
+	 >
+	
+&MATERIALS;
+<!-- &SC_SPHERE_MATERIALS; -->
+
+<define>
+	&HETADEFINITIONS;
+	&HETBDEFINITIONS;
+	<!-- Rotations -->
+	<rotation name="rotateX90" x="90" unit="deg" />
+	<rotation name="rotateY90" y="90" unit="deg" />
+	<rotation name="rotateZ90" z="90" unit="deg" />
+	<rotation name="rotateX180" x="180" unit="deg" />
+	<rotation name="rotateY180" y="180" unit="deg" />
+	<rotation name="rotateZ180" z="180" unit="deg" />
+	<rotation name="rotateX270" x="270" unit="deg" />
+	<rotation name="rotateY270" y="270" unit="deg" />
+	<rotation name="rotateZ270" z="270" unit="deg" />
+	
+	<rotation name="SCrotation" y="0" x="180" z="90" unit="deg"/>
+
+	<!-- Quantitys -->
+	<quantity name="cutValueWorld"		type="length" value="100/1000" unit="mm" />
+	<quantity name="cutValueSilicon"	type="length" value="1/1000" unit="mm" />
+	
+	<quantity name="WorldX" type="length" value="300" unit="cm" /> 
+	<quantity name="WorldY" type="length" value="300" unit="cm" />
+	<quantity name="WorldZ" type="length" value="300" unit="cm" />
+	
+	<!-- Aluminum Housing Thickness -->
+	<quantity name="AlT" type="length" value="1" unit="mm" />
+	
+	<quantity name="EBoxX" type="length" value="69" unit="mm" />
+	<quantity name="EBoxY" type="length" value="120" unit="mm" />
+	<quantity name="EBoxZ" type="length" value="110" unit="mm" />
+	
+	<quantity name="ScopeX" type="length" value="53" unit="mm" />
+	<quantity name="ScopeY" type="length" value="59" unit="mm" />
+	<quantity name="ScopeZ" type="length" value="106" unit="mm" /> 
+	
+	<quantity name="EPT_X" type="length" value="32" unit="mm" />
+	<quantity name="EPT_Y" type="length" value="56" unit="mm" />
+	<quantity name="EPT_Z" type="length" value="10+2*AlT" unit="mm" />
+	<quantity name="EPT_RI" type="length" value="3" unit="mm" />
+	<quantity name="EPT_RO1" type="length" value="7.5" unit="mm" />
+	<quantity name="EPT_RO2" type="length" value="14" unit="mm" />
+	
+
+	<quantity name="HETBSi_Z" type="length" value="12.15" unit="mm" />			
+	<quantity name="HETASi_Z" type="length" value="56.15" unit="mm" />	<!-- This does not match het_telescope definition because that is not calculated from middle to middle but end to end A A  -->
+
+	<variable name="tmpX" value="EBoxX/2+ScopeX/2" />
+
+	<!-- Conus -->
+	<constant name="tan21.45" value="0.392902749" />
+	<constant name="cos30" value="0.866025403" />
+	<quantity name="CZ"	type="length" value="8.97"		unit="mm" /> <!-- all values taken from drawings - correct-->
+	<quantity name="CMin1"	type="length" value="28.11/2"	unit="mm" />
+	<quantity name="CMin2"	type="length" value="21.07/2"	unit="mm" />
+	<quantity name="CMax1"	type="length" value="38/2"		unit="mm" />
+	<quantity name="CMax2"	type="length" value="38/2"		unit="mm" />
+	
+	<!-- smaller conus -->
+		<quantity name="C2Z"	type="length" value="0.80"		unit="mm" />
+		<quantity name="C3Z"	type="length" value="1.00"		unit="mm" />
+	<quantity name="C2Min1"	type="length" value="21.07/2"	unit="mm" />
+	<quantity name="C2Min2"	type="length" value="20.44/2"	unit="mm" /> <!-- C2Min1 has to match foil radius, C2Min2 is calculated from (C2Min1*0.5 - C2Z * tan 21.45)*2 -->
+	<quantity name="C2Max1"	type="length" value="38/2"		unit="mm" />
+	<quantity name="C2Max2"	type="length" value="38/2"		unit="mm" />
+	<!-- second part of smaller conus -->
+	<quantity name="C3Max1"	type="length" value="22.0/2"		unit="mm" />
+	<quantity name="C3Min2"	type="length" value="19.61/2"		unit="mm" />
+	
+	<!-- Ring around collimator - screw ring so to say -->
+	<quantity name="collringRO"	type="length" value="46/2"		unit="mm" />	
+	<quantity name="collringT"	type="length" value="3.39"		unit="mm" />	
+	
+		
+	
+	
+	<!-- Foil -->
+	<quantity name="FoilAlT" type="length" value="0.0254"		unit="mm" /> <!-- correct, 1 Mill Al, KT 2Mill -->
+	<quantity name="FoilKtT" type="length" value="0.0508"		unit="mm" />
+	<!-- Crystal Photodiode Readout -->
+	<quantity name="DiodeWidth" type="length" value="10"		unit="mm" />
+	<quantity name="DiodeCase"  type="length" value="1"		unit="mm" />
+	<quantity name="ScopeholeR"  type="length" value="38/2"		unit="mm" /> <!--Because the collimator reaches inside the housing and has this radius-->	
+	<quantity name="collimbase_inner"  type="length" value="30.6/2"		unit="mm" />
+	<quantity name="Conedist"  type="length" value="6.27"		unit="mm" />	<!--Measured from outer housing inner pos of cone-->
+
+	<!-- HETA spacer and stuff -->
+	<quantity name="hetaspacerT"  type="length" value="2.5"		unit="mm" />
+	<quantity name="hetaspacerIR"  type="length" value="27.2/2"		unit="mm" />
+	<quantity name="hetaspacerOR"  type="length" value="30.59/2"		unit="mm" /> <!-- a bit smaller than collimbase_inner -->
+
+	<!-- HETA retainer -->
+	<quantity name="hetaretainerOR"	type="length" value="hetaspacerOR"		unit="mm" />
+	<quantity name="hetaretainerIR"	type="length" value="hetaspacerIR"		unit="mm" />		
+	<quantity name="hetaretainerT"	type="length" value="1"		unit="mm" />
+
+	<!--Collimator base -->
+	<quantity name="collimbaseT"	type="length" value="6.68"		unit="mm" />	
+	
+	&BGOPTFEDEFINITION;
+	<position name="test"		x="3.45" y="-3.05" z="7" unit="cm" />
+	<position name="testpos"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="67.565" />
+	<position name="origin"		x="0" y="0" z="0" unit="cm" />
+	<position name="posEBox"	x="-ScopeX/2"	y="0" z="0" />
+	<position name="posScope"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="0" />
+	<!-- Deadlayer for detectors -->
+	<position name="posdeadlayerb11"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="+HETBSi_Z+0.5*SiBTh*10+0.5" /><!--The exact value (0.8) is the thickness of the carrier and SiXTh * 10 because its 0.03 not 0.3-->
+	<position name="posdeadlayerb12"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="+HETBSi_Z-0.5*SiBTh*10-0.5" />
+	<position name="posdeadlayerb21"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-HETBSi_Z+0.5*SiBTh*10+0.5" /><!--The exact value (0.8) is the thickness of the carrier and SiXTh * 10 because its 0.03 not 0.3-->
+	<position name="posdeadlayerb22"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-HETBSi_Z-0.5*SiBTh*10-0.5" />
+	
+	<position name="posdeadlayera11"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="+HETASi_Z+0.5*SiATh*10" /> <!--The exact value (0.8) is the thickness of the carrier-->
+	<position name="posdeadlayera12"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="+HETASi_Z-0.5*SiATh*10" />	
+	<position name="posdeadlayera21"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-HETASi_Z+0.5*SiATh*10" /> <!--The exact value (0.8) is the thickness of the carrier-->
+	<position name="posdeadlayera22"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-HETASi_Z-0.5*SiATh*10" />	
+	
+	<!-- Carrier for detectors -->
+	<quantity name="posHETAcarrier1Z"  type="length" value="HETASi_Z-0.5*SiATh*10-0.5*hetacarrierT"		unit="mm" />
+	
+	<position name="posHETBcarrier1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="+HETBSi_Z+0.5*SiBTh*10+0.5*hetbcarrierT" /><!--The exact value (0.8) is the thickness of the carrier and SiXTh * 10 because its 0.03 not 0.3-->
+	<position name="posHETBcarrier2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-HETBSi_Z-0.5*SiBTh*10-0.5*hetbcarrierT" />
+	<position name="posHETAcarrier1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="posHETAcarrier1Z"/> <!--The exact value (0.8) is the thickness of the carrier-->
+	<position name="posHETAcarrier2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-posHETAcarrier1Z"/>
+	
+	
+	
+	
+	<!-- Heta retainer + spacer -->
+	<position name="poshetaspacer1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="posHETAcarrier1Z+0.5*hetacarrierT+0.5*hetaspacerT" />
+	<position name="poshetaspacer2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-posHETAcarrier1Z-0.5*hetacarrierT-0.5*hetaspacerT" />
+	   <!-- fix -->
+	<position name="poshetaretainer1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="posHETAcarrier1Z-0.5*hetacarrierT-0.5*hetaretainerT" />
+	<position name="poshetaretainer2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-posHETAcarrier1Z+0.5*hetacarrierT+0.5*hetaretainerT" /> 	
+	
+	
+	<position name="posCone1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="posHETAcarrier1Z+0.5*hetacarrierT+hetaspacerT+C2Z+FoilKtT+FoilAlT+CZ/2" />
+	<position name="posCone2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-posHETAcarrier1Z-0.5*hetacarrierT-hetaspacerT-C2Z-FoilKtT-FoilAlT-CZ/2" />
+	<position name="posFoilAl1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="posHETAcarrier1Z+0.5*hetacarrierT+hetaspacerT+C2Z+FoilKtT+FoilAlT*0.5" />
+	<position name="posFoilAl2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-posHETAcarrier1Z-0.5*hetacarrierT-hetaspacerT-C2Z-FoilKtT-FoilAlT*0.5" />
+	<position name="posFoilKt1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="posHETAcarrier1Z+0.5*hetacarrierT+hetaspacerT+C2Z+FoilKtT*0.5" />
+	<position name="posFoilKt2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-posHETAcarrier1Z-0.5*hetacarrierT-hetaspacerT-C2Z-FoilKtT*0.5" />	
+	<position name="posCone2-1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="posHETAcarrier1Z+0.5*hetacarrierT+hetaspacerT+0.5*C2Z" />
+	<position name="posCone2-2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-posHETAcarrier1Z-0.5*hetacarrierT-hetaspacerT-0.5*C2Z" />
+	<position name="posCone3-1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="posHETAcarrier1Z+0.5*hetacarrierT+hetaspacerT-0.5*C3Z" /> <!-- Dont be confused - this part of the second cone is moved inwards towards the spacer -->
+	<position name="posCone3-2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-posHETAcarrier1Z-0.5*hetacarrierT-hetaspacerT+0.5*C3Z" />	
+	<position name="poscollibase1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="posHETAcarrier1Z+0.5*hetacarrierT+hetaspacerT-0.5*collimbaseT" /> <!-- This is defined backwards from the spacer, since radius is equal to whole in scope, cant collide -->
+	<position name="poscollibase2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-posHETAcarrier1Z-0.5*hetacarrierT-hetaspacerT+0.5*collimbaseT" />	
+	<position name="posCrystal"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="0" />
+	<quantity name="CDSpacer"	type="length" value="cTR/2/tan30"		unit="cm" />
+	<position name="posPhDiode1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2+DiodeCase+CDSpacer" z="0" />
+	<position name="posPhDiode2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2-DiodeCase-CDSpacer" z="0" />
+	<position name="posEPT"		x="-ScopeX/2+EBoxX/2+EPT_X/2"	y="+(EBoxY-EPT_Y)/2" z="0" />
+	<position name="posEPTConus1"	x="-ScopeX/2+EBoxX/2+EPT_X/2"	y="+(EBoxY-EPT_Y)/2-14" z="-25-EPT_Z/2" />
+	<position name="posEPTConus2"	x="-ScopeX/2+EBoxX/2+EPT_X/2"	y="+(EBoxY-EPT_Y)/2+14" z="+25+EPT_Z/2" />
+	<position name="posEPTTube1"	x="-ScopeX/2+EBoxX/2+EPT_X/2"	y="+(EBoxY-EPT_Y)/2-14" z="+5+EPT_Z/2" />
+	<position name="posEPTTube2"	x="-ScopeX/2+EBoxX/2+EPT_X/2"	y="+(EBoxY-EPT_Y)/2+14" z="-5-EPT_Z/2" />
+	<position name="posHETBdet1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="+HETBSi_Z" />
+	<position name="posHETBdet2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-HETBSi_Z" />
+	<position name="posHETAdet1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="+HETASi_Z" />
+	<position name="posHETAdet2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-HETASi_Z" />
+	<!-- Ring around collimator - screw ring so to say -->
+	<position name="collringpos1"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="ScopeZ/2+collringT/2" />
+	<position name="collringpos2"	x="+EBoxX/2"	y="-(EBoxY-ScopeY)/2" z="-ScopeZ/2-collringT/2" />	
+	
+	<position name="sc_sphere_pos" unit="mm" x="14.0" y="0.0" z="8.97" />
+	
+	<position name="DiodeCase_half_pos" x="0" y="0" z="-DiodeCase/2" />
+	<position name="AlT_pos" x="-AlT" y="0" z="0" />
+	<position name="Ebox_sub_pos" x="+(EBoxX+ScopeX)/2-1.5*AlT" y="-(EBoxY-ScopeY)/2" z="0" />
+	<position name="EPT_case2_pos" x="0" y="-14" z="0" />
+	<position name="EPT_case_pos" x="0" y="14" z="0" />
+	
+</define>
+
+<solids>
+	&HETASOLIDS;
+	&HETBSOLIDS;
+	<!-- World -->
+	<box name="World"		x="WorldX"	y="WorldY"	z="WorldZ" />
+	<box name="SubWorld"		x="WorldX"	y="WorldY"	z="WorldZ" />
+	
+
+
+	&BGOPTFEVOLUMES;
+	<!--Crystal   solid-->
+	<box name="CrystalHolderO" x="2*cTR+0.1"	y="2*cTR+0.1"	z="cTH+0.1" lunit="cm"/>
+	<box name="CrystalHolderI" x="2*cTR"	y="2*cTR"	z="cTH" lunit="cm"/>
+	<tube name="CrystalHolderW" rmin="0" rmax="34.6/2" z="40" startphi="0" deltaphi="360" aunit="deg" lunit="mm"/>
+	<subtraction name="CrystalHolderT">
+		<first	ref="CrystalHolderO" />
+		<second	ref="CrystalHolderI" />
+		<positionref ref="origin" />
+	</subtraction>
+	<subtraction name="CrystalHolder2"> 
+		<first	ref="CrystalHolderT" />
+		<second	ref="CrystalHolderW" />
+		<positionref ref="origin" />
+	</subtraction>
+
+	<subtraction name="CrystalHolder">
+		<first	ref="CrystalHolder2" />
+		<second	ref="Crystal_cage_cut" />
+		<positionref ref="origin" />
+	</subtraction>
+
+	
+	<!-- BASIC VOLUMES FOR CARVING, etc... -->
+	<cone name="Cone" rmin1="CMin1" rmax1="CMax1" rmin2="CMin2" rmax2="CMax2" startphi="0" z="CZ" deltaphi="360" aunit="deg" />
+	<cone name="Cone2" rmin1="C2Min1" rmax1="C2Max1" rmin2="C2Min2" rmax2="C2Max2" startphi="0" z="C2Z" deltaphi="360" aunit="deg" />
+	<cone name="Cone3" rmin1="C2Min2" rmax1="C3Max1" rmin2="C3Min2" rmax2="C3Max1" startphi="0" z="C3Z" deltaphi="360" aunit="deg" /> <!--second part of smaller cone - see collimator_base_a1_pdf -->
+	<tube name="FoilAl" rmin="0" rmax="CMin2" z="FoilAlT" startphi="0" deltaphi="360" aunit="deg" />
+	<tube name="FoilKt" rmin="0" rmax="CMin2" z="FoilKtT" startphi="0" deltaphi="360" aunit="deg" />
+	<tube name="collimbase" rmin="collimbase_inner" rmax="CMax1" startphi="0" deltaphi="360" z="collimbaseT" aunit="deg" lunit= "mm" />
+	<tube name="collimring" rmin="CMax1" rmax="collringRO" startphi="0" deltaphi="360" z="collringT" aunit="deg" lunit= "mm" />	
+	<tube name="hetaspacer" rmin="hetaspacerIR" rmax="hetaspacerOR" startphi="0" deltaphi="360" z="hetaspacerT" aunit="deg" lunit= "mm" />
+	<tube name="hetaretainer" rmin="hetaretainerIR" rmax="hetaretainerOR" startphi="0" deltaphi="360" z="hetaretainerT" aunit="deg" lunit= "mm" />
+	<tube name="sourcetest" rmin="0" rmax="16.5" startphi="0" deltaphi="360" z="0.5" aunit="deg" lunit= "mm" />
+	<!-- Photo Diodes -->
+	<box name="PhDiodeI"		x="DiodeWidth"	y="DiodeWidth"	z="DiodeCase" /> 
+	<box name="PhDiodeO"		x="DiodeWidth+2*DiodeCase"	y="DiodeWidth+2*DiodeCase"	z="2*DiodeCase" />
+	
+	<subtraction name="PhDiodeC" >
+		<first	ref="PhDiodeO" />
+		<second	ref="PhDiodeI" />
+		<positionref  ref="DiodeCase_half_pos" />
+	</subtraction>
+	
+	
+	<!-- ScopeBox -->
+	<box name="ScopeO"		x="ScopeX"		y="ScopeY"		z="ScopeZ" />
+	<box name="ScopeI"		x="ScopeX-1*AlT"	y="ScopeY-2*AlT"	z="ScopeZ-2*AlT" /> <!-- X just 1*because it has no bottom -->
+	<tube name="ScopeOpening"	rmin="0"	rmax="ScopeholeR"	z="WorldZ"	deltaphi="360"	startphi="0"	aunit="deg" />
+	<subtraction name="ScopeTemp" >
+		<first	ref="ScopeO" />
+		<second	ref="ScopeI" />
+		<positionref ref="AlT_pos" />
+	</subtraction>
+	<subtraction name="Scope" >
+		<first	ref="ScopeTemp" />
+		<second	ref="ScopeOpening" />
+		<!-- <position x="" /> -->
+	</subtraction>
+	<!-- EBox -->
+	<box name="EBoxO"		x="EBoxX"	y="EBoxY"	z="EBoxZ" />
+	<box name="EBoxI"		x="EBoxX-2*AlT"	y="EBoxY-2*AlT"	z="EBoxZ-2*AlT" />
+	
+	<subtraction name="EBoxC" >
+		<first	ref="EBoxO" />
+		<second	ref="EBoxI"/>
+	</subtraction>
+	<subtraction name="EBox" >
+		<first	ref="EBoxC" />
+		<second	ref="ScopeI"/>
+		<positionref ref="Ebox_sub_pos"/>
+	</subtraction>
+	<!-- EPT -->
+	<box name="EPTO"		x="EPT_X"		y="EPT_Y"		z="EPT_Z" />
+	<box name="EPTI"		x="EPT_X-1*AlT"		y="EPT_Y-2*AlT"		z="EPT_Z-2*AlT" />
+	<tube name="EPT_Window"		rmin="0" rmax="EPT_RI" startphi="0" deltaphi="360" z="WorldZ" lunit="mm" aunit="deg" />
+	
+	<subtraction name="EPT_CaseTemp" >
+		<first	ref="EPTO" />
+		<second	ref="EPTI"/>
+		<positionref ref="AlT_pos" />
+	</subtraction>
+	<subtraction name="EPT_CaseTemp2" >
+		<first	ref="EPT_CaseTemp" />
+		<second	ref="EPT_Window"/>
+		<positionref ref="EPT_case2_pos" />
+	</subtraction>
+	<subtraction name="EPT_Case" >
+		<first	ref="EPT_CaseTemp2" />
+		<second	ref="EPT_Window"/>
+		<positionref ref="EPT_case_pos" />
+	</subtraction>
+	
+	<polycone name="EPT_Conus" startphi="0" deltaphi="360" aunit="deg" lunit= "mm">
+		<zplane rmin="EPT_RI" rmax="EPT_RO1" z="0" />
+		<zplane rmin="EPT_RI" rmax="EPT_RO1" z="10" />
+		<zplane rmin="EPT_RI" rmax="EPT_RO2" z="15" />
+		<zplane rmin="EPT_RI" rmax="EPT_RO2" z="25" />
+	</polycone>
+	
+	<tube name="EPT_Tube" rmin="EPT_RI" rmax="EPT_RO1" startphi="0" deltaphi="360" z="10" aunit="deg" lunit= "mm" />
+	
+	<xtru name = "EPT_MAG" lunit= "mm" >
+		<twoDimVertex x="-17" y="14" />
+		<twoDimVertex x="-19" y="12" />
+		<twoDimVertex x="-19" y="5" />
+		<twoDimVertex x="-9" y="5" />
+		<twoDimVertex x="-9" y="7" />
+		<twoDimVertex x="+9" y="7" />
+		<twoDimVertex x="+9" y="5" />
+		<twoDimVertex x="+19" y="5" />
+		<twoDimVertex x="+19" y="12" />
+		<twoDimVertex x="+17" y="14" />
+		<section zOrder="1" zPosition="-(EPT_Z/2-AlT)" xOffset="0" yOffset="0" scalingFactor="1" />
+		<section zOrder="2" zPosition="+(EPT_Z/2-AlT)" xOffset="0" yOffset="0" scalingFactor="1" />
+	</xtru>
+	
+	<!-- Load S/C-SPHERE Solids 
+	&SC_SPHERE_SOLIDS; -->
+
+</solids>
+
+<structure>
+	<volume name="EBox_V">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="EBox" />
+	</volume>
+	<volume name="Scope_V">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="Scope" />
+	</volume>
+
+	<volume name="Sourcetest">
+		<materialref ref="Polyethylene" />
+		<solidref ref="sourcetest" />
+	</volume>	
+	<!-- Conus and Foil -->
+	<volume name="Cone_V">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="Cone" />
+	</volume>
+	<volume name="Cone2_V">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="Cone2" />
+	</volume>
+	<volume name="Cone3_V">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="Cone3" />
+	</volume>
+	<volume name="Hetaspacer">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="hetaspacer" />
+	</volume>
+	<volume name="Hetaretainer">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="hetaretainer" />
+	</volume>
+	<volume name="Collimbase">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="collimbase" />
+	</volume>
+	<volume name="Collring">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="collimring" />
+	</volume>
+	<volume name="FoilAl_V">
+		<materialref ref="Aluminum" />
+		<solidref ref="FoilAl" />
+	</volume>
+	<volume name="FoilKt_V">
+		<materialref ref="Kapton" />
+		<solidref ref="FoilKt" />
+	</volume>
+	
+	
+	<!--HET A detector-->
+	<volume name="HETAcarrier_V">
+		<materialref ref="polyimide" />
+		<solidref ref="HETAcarrier" />
+	</volume>
+	<volume name="HETAdetguard">
+		<materialref ref="Silicon" />
+		<solidref ref="HETAguardring" />
+	</volume>
+
+	<volume name="HETAouter1">
+		<materialref ref="Silicon" />
+		<solidref ref="HETAouterseg" />
+			<auxiliary auxtype="SD" auxvalue="2" auxunit="id"/>
+	</volume>
+	<volume name="HETAouter2">
+		<materialref ref="Silicon" />
+		<solidref ref="HETAouterseg" />
+			<auxiliary auxtype="SD" auxvalue="11" auxunit="id"/>
+	</volume>
+
+	<volume name="HETAinner1">
+		<materialref ref="Silicon" />
+		<solidref ref="HETAinnerseg" />
+			<auxiliary auxtype="SD" auxvalue="1" auxunit="id"/>
+	</volume>
+	<volume name="HETAinner2">
+		<materialref ref="Silicon" />
+		<solidref ref="HETAinnerseg" />
+			<auxiliary auxtype="SD" auxvalue="10" auxunit="id"/>
+	</volume>
+
+	<volume name="HETAguardring_V">
+		<materialref ref="Silicon" />
+		<solidref ref="HETAguardring" />
+	</volume>
+	<!-- HET B detector -->
+	<volume name="HETBcarrier_V">
+		<materialref ref="polyimide" />
+		<solidref ref="HETBcarrier" />
+	</volume>
+	<volume name="HETBdetguard">
+		<materialref ref="Silicon" />
+		<solidref ref="HETBdet" />
+	</volume>
+	<volume name="HETBouter1">
+		<materialref ref="Silicon" />
+		<solidref ref="HETBouterseg" />
+			<auxiliary auxtype="SD" auxvalue="5" auxunit="id"/>
+	</volume>
+	<volume name="HETBouter2">
+		<materialref ref="Silicon" />
+		<solidref ref="HETBouterseg" />
+			<auxiliary auxtype="SD" auxvalue="9" auxunit="id"/>
+	</volume>
+
+	<volume name="HETBmiddle1">
+		<materialref ref="Silicon" />
+		<solidref ref="HETBmiddleseg" />
+			<auxiliary auxtype="SD" auxvalue="4" auxunit="id"/>
+	</volume>
+	<volume name="HETBmiddle2">
+		<materialref ref="Silicon" />
+		<solidref ref="HETBmiddleseg" />
+			<auxiliary auxtype="SD" auxvalue="8" auxunit="id"/>
+	</volume>
+
+	<volume name="HETBinner1">
+		<materialref ref="Silicon" />
+		<solidref ref="HETBinnerseg" />
+			<auxiliary auxtype="SD" auxvalue="3" auxunit="id"/>
+	</volume>
+	<volume name="HETBinner2">
+		<materialref ref="Silicon" />
+		<solidref ref="HETBinnerseg" />
+			<auxiliary auxtype="SD" auxvalue="7" auxunit="id"/>
+	</volume>
+
+	<volume name="Deadlayerheta">
+		<materialref ref="silicondioxide" />
+		<solidref ref="deadlayerheta" />
+	</volume>
+	<volume name="Deadlayerhetb">
+		<materialref ref="silicondioxide" />
+		<solidref ref="deadlayerhetb" />
+	</volume>	
+	<!-- Crystal, PTFE, Diodes and Holder -->
+	<volume name="Crystal_V">
+		<materialref ref="BGO" />
+		<solidref ref="Crystal" />
+			<auxiliary auxtype="SD" auxvalue="6" auxunit="id"/>
+	</volume>
+
+	<volume name="PTFE_V">
+		<materialref ref="PTFE" />
+		<solidref ref="PTFE_S" />
+	</volume>
+	<volume name="PhDiodeI_V">
+		<materialref ref="Silicon" />
+		<solidref ref="PhDiodeI" />
+	</volume>
+	<volume name="PhDiodeC_V">
+		<materialref ref="Al2O3" />
+		<solidref ref="PhDiodeC" />
+	</volume>
+	<volume name="PhDiode">
+		<materialref ref="HiVacuum" />
+		<solidref ref="PhDiodeO" />
+		<physvol>
+			<volumeref ref="PhDiodeI_V" />
+			<positionref ref="DiodeCase_half_pos" />
+		</physvol>
+		<physvol>
+			<volumeref ref="PhDiodeC_V" />
+			<positionref ref="origin" />
+		</physvol>
+	</volume>
+	<volume name="CrystalHolder_V">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="CrystalHolder" />
+	</volume>
+	<!-- EPT -->
+	<!-- EPT Box -->
+	<volume name="EPT_Case_V">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="EPT_Case" />
+	</volume>
+	<!-- EPT Conus -->
+	<volume name="EPT_Conus_V">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="EPT_Conus" />
+	</volume>
+	<volume name="EPT_Tube_V">
+		<materialref ref="AluminiumAlloy" />
+		<solidref ref="EPT_Tube" />
+	</volume>
+	<volume name="EPT_MAG_V">
+		<materialref ref="Iron" />
+		<solidref ref="EPT_MAG" />
+	</volume>
+	
+	<!-- Load S/C-SPHERE Volumes 
+	&SC_SPHERE_STRUCTURE;-->
+
+	
+	<!-- combination with WORLD volume -->
+	<volume name="HETWorldVol">
+		<materialref ref="HiVacuum" />
+		<solidref ref="World" />
+		<!-- <region cutValue="cutValueWorld" /> -->
+		<physvol>
+			<volumeref ref="EBox_V" />
+			<positionref ref="posEBox" />
+		</physvol>
+		<physvol>
+			<volumeref ref="Scope_V" />
+			<positionref ref="posScope" />
+		</physvol>
+		<physvol>
+			<volumeref ref="Cone_V" />
+			<positionref ref="posCone1" />
+			<rotationref ref="rotateX180" />
+		</physvol>
+		<physvol>
+			<volumeref ref="Cone_V" />
+			<positionref ref="posCone2" />
+		</physvol>
+		<physvol>
+			<volumeref ref="Cone2_V" />
+			<positionref ref="posCone2-1" />
+			<rotationref ref="rotateX180" />
+		</physvol>
+		<physvol>
+			<volumeref ref="Cone2_V" />
+			<positionref ref="posCone2-2" />
+		</physvol>
+
+		<physvol>
+			<volumeref ref="Cone3_V" />
+			<positionref ref="posCone3-1" />
+			<rotationref ref="rotateX180" />
+		</physvol>
+		<physvol>
+			<volumeref ref="Cone3_V" />
+			<positionref ref="posCone3-2" />
+		</physvol>
+
+		<physvol>
+			<volumeref ref="Hetaretainer" />
+			<positionref ref="poshetaretainer1" />
+		</physvol>
+		<physvol>
+			<volumeref ref="Hetaretainer" />
+			<positionref ref="poshetaretainer2" />
+		</physvol>			
+		<physvol>
+			<volumeref ref="Hetaspacer" />
+			<positionref ref="poshetaspacer1" />
+		</physvol>
+		<physvol>
+			<volumeref ref="Hetaspacer" />
+			<positionref ref="poshetaspacer2" />
+		</physvol>
+		<physvol>
+			<volumeref ref="FoilAl_V" />
+			<positionref ref="posFoilAl1" />
+		</physvol>
+		<physvol>
+			<volumeref ref="FoilAl_V" />
+			<positionref ref="posFoilAl2" />
+		</physvol>
+		<physvol>
+			<volumeref ref="FoilKt_V" />
+			<positionref ref="posFoilKt1" />
+		</physvol>
+		<physvol>
+			<volumeref ref="FoilKt_V" />
+			<positionref ref="posFoilKt2" />
+		</physvol>
+
+		<physvol>
+			<volumeref ref="Crystal_V" />
+			<positionref ref="posCrystal" />
+		</physvol>	
+		<physvol>
+			<volumeref ref="Collimbase" />
+			<positionref ref="poscollibase1" />
+		</physvol>
+		<physvol>
+			<volumeref ref="Collimbase" />
+			<positionref ref="poscollibase2" />
+		</physvol>	
+		
+		
+				<physvol>
+			<volumeref ref="Collring" />
+			<positionref ref="collringpos1" />
+		</physvol>
+		<physvol>
+			<volumeref ref="Collring" />
+			<positionref ref="collringpos2" />
+		</physvol>	
+		
+		
+		<physvol>
+			<volumeref ref="CrystalHolder_V" />
+			<positionref ref="posCrystal" />
+		</physvol>
+		<physvol>
+			<volumeref ref="PTFE_V" />
+			<positionref ref="posCrystal" />
+		</physvol>
+		<physvol>
+			<volumeref ref="PhDiode" />
+			<positionref ref="posPhDiode1" />
+			<rotationref ref="rotateX90" />
+		</physvol>
+		<physvol>
+			<volumeref ref="PhDiode" />
+			<positionref ref="posPhDiode2" />
+			<rotationref ref="rotateX270" />
+		</physvol>
+	<!--HET A stuff-->
+		<!-- HET A 1 -->
+		<physvol>
+			<volumeref ref="HETAinner1" />
+			<positionref ref="posHETAdet1" />
+		</physvol>
+		<physvol>
+			<volumeref ref="HETAouter1" />
+			<positionref ref="posHETAdet1" />
+		</physvol>
+		<physvol>
+			<volumeref ref="HETAguardring_V" />
+			<positionref ref="posHETAdet1" />
+		</physvol>
+		<physvol>
+			<volumeref ref="HETAcarrier_V" />
+			<positionref ref="posHETAcarrier1" />
+		</physvol>
+
+		<!-- HET A 2 -->
+		<physvol>
+			<volumeref ref="HETAinner2" />
+			<positionref ref="posHETAdet2" />
+		</physvol>
+		<physvol>
+			<volumeref ref="HETAouter2" />
+			<positionref ref="posHETAdet2" />
+		</physvol>
+		<physvol>
+			<volumeref ref="HETAguardring_V" />
+			<positionref ref="posHETAdet2" />
+		</physvol>
+		<physvol>
+			<volumeref ref="HETAcarrier_V" />
+			<positionref ref="posHETAcarrier2" />
+		</physvol>		
+	<!-- HETB stuff -->
+		<!-- HET B 1 -->
+		<physvol>
+			<volumeref ref="HETBinner1" />
+			<positionref ref="posHETBdet1" />
+		</physvol>
+		<physvol>
+			<volumeref ref="HETBmiddle1" />
+			<positionref ref="posHETBdet1" />
+		</physvol>
+		<physvol>
+			<volumeref ref="HETBouter1" />
+			<positionref ref="posHETBdet1" />
+		</physvol>	
+		<physvol>
+			<volumeref ref="HETBdetguard" />
+			<positionref ref="posHETBdet1" />
+		</physvol>
+		<physvol>
+			<volumeref ref="HETBcarrier_V" />
+			<positionref ref="posHETBcarrier1" />
+		</physvol>
+		<!-- HET B 2 -->		
+		<physvol>
+			<volumeref ref="HETBinner2" />
+			<positionref ref="posHETBdet2" />
+		</physvol>
+		<physvol>
+			<volumeref ref="HETBmiddle2" />
+			<positionref ref="posHETBdet2" />
+		</physvol>
+		<physvol>
+			<volumeref ref="HETBouter2" />
+			<positionref ref="posHETBdet2" />
+		</physvol>	
+		<physvol>
+			<volumeref ref="HETBdetguard" />
+			<positionref ref="posHETBdet2" />
+		</physvol>		
+		<physvol>
+			<volumeref ref="HETBcarrier_V" />
+			<positionref ref="posHETBcarrier2" />
+		</physvol>
+		<!--
+		<physvol>
+			<volumeref   ref="sc_sphere" />
+			<positionref ref="posScope" />
+			<rotationref ref="SCrotation" />
+		</physvol>
+		-->
+	</volume>
+</structure>
+
+<setup name="Default" version="1.0" >
+	<world ref="HETWorldVol" />
+</setup>
+
+</gdml>
