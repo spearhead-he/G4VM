@@ -51,19 +51,19 @@
 
 
 
-<cone name = "frontdead30" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.0024"
+<cone name = "frontdead30" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.00005"
 	startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
-<cone name = "backdead30" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.00005"
-	startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
-	
-<cone name = "frontdead40" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.003"
-	startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
-<cone name = "backdead40" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.00005"
+<cone name = "backdead30" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.0035"
 	startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
 	
-<cone name = "frontdead50" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.003"
+<cone name = "frontdead40" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.00005"
 	startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
-<cone name = "backdead50" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.00005"
+<cone name = "backdead40" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.0035"
+	startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+	
+<cone name = "frontdead50" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.0005"
+	startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
+<cone name = "backdead50" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.003"
 	startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
 	
 <cone name = "frontdead60" rmin1="0" rmax1="4" rmin2="0" rmax2="4" z="0.00008"

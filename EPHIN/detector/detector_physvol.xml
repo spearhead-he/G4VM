@@ -60,15 +60,15 @@
 -->
 <physvol>
     <volumeref ref="vd30" />
-    <position name="vd30Pos" unit="cm" x="0"  y="0"   z= "4.856175"/>
+    <position name="vd30Pos" unit="cm" x="0"  y="0"   z= "4.853275"/>
 </physvol>
 <physvol>
     <volumeref ref="vd40" />
-    <position name="vd40Pos" unit="cm" x="0"  y="0"   z= "5.556475"/>
+    <position name="vd40Pos" unit="cm" x="0"  y="0"   z= "5.553275"/>
 </physvol>
 <physvol>
     <volumeref ref="vd50" />
-    <position name="vd50Pos" unit="cm" x="0"  y="0"   z= "6.351475"/>
+    <position name="vd50Pos" unit="cm" x="0"  y="0"   z= "6.348525"/>
 </physvol>
 <physvol>
     <volumeref ref="vd60" />
