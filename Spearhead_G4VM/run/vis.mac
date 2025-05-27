@@ -2,12 +2,14 @@
 # of the B1 example when running in interactive mode
 #
 
-/gdml/file  /home/local1/G4VM/EPHIN/ephin.gdml
+#/gdml/file  /home/local1/G4VM/EPHIN/ephin.gdml
 #/gdml/file  /home/local1/G4VM/EPHIN/ephin_soho_shield.gdml
 #/gdml/file  /home/local1/G4VM/EPHIN/ephin_chandra_shield.gdml
 
 #/gdml/file  /home/local1/G4VM/HET/HET.gdml
 #/gdml/file  /home/local1/G4VM/HET/HET_shield.gdml
+
+/gdml/file  /home/local1/G4VM/KET/ket.gdml
 
 #/gdml/file  /home/local1/G4VM/ERNE/ERNE.gdml
 #/gdml/file  /home/local1/G4VM/SIXS/SIXS_v3.gdml

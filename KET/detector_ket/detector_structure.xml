@@ -1,0 +1,311 @@
+<volume name="Diffusionbox_V">
+<materialref ref="Aluminum"/>
+<solidref ref="Diffusionbox_S"/>
+</volume>
+
+<volume name="S2box_V">
+<materialref ref="NE104"/>
+<solidref ref="S2box_S"/>
+<auxiliary auxtype="sensi" auxvalue="S2_box" auxunit="id"/>
+</volume>
+
+<volume name="CRC2_V">
+<materialref ref="PBF2"/>
+<solidref ref="CRC2_S"/>
+<auxiliary auxtype="sensi" auxvalue="C200" auxunit="id"/>
+</volume>
+
+<volume name="CC2A_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC2A_S"/>
+</volume>
+
+<volume name="CC2B_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC2B_S"/>
+</volume>
+
+<volume name="CRC1_V">
+<materialref ref="Aerogel"/>
+<solidref ref="CRC1_S"/>
+<auxiliary auxtype="sensi" auxvalue="Aero" auxunit="id"/>
+</volume>
+
+<volume name="CC2D_V">
+<materialref ref="Kapton"/>
+<solidref ref="CC2D_S"/>
+</volume>
+
+<volume name="CC2E_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC2E_S"/>
+</volume>
+
+<volume name="CC2F_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC2F_S"/>
+</volume>
+
+<volume name="SID1_V">
+<materialref ref="Silicon"/>
+<solidref ref="SID1_S"/>
+</volume>
+
+<volume name="SID2_V">
+<materialref ref="Silicon"/>
+<solidref ref="SID2_S"/>
+<auxiliary auxtype="sensi" auxvalue="SD2" auxunit="id"/>
+</volume>
+
+<volume name="CC2W_V">
+<materialref ref="Kapton"/>
+<solidref ref="CC2W_S"/>
+</volume>
+
+<volume name="SCAD_V">
+<materialref ref="NE104"/>
+<solidref ref="SCAD_S"/>
+<auxiliary auxtype="sensi" auxvalue="AC" auxunit="id"/>
+</volume>
+
+<volume name="CC2C_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC2C_S"/>
+</volume>
+
+<volume name="SD2Y_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD2Y_S"/>
+</volume>
+
+<volume name="SD2H_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD2H_S"/>
+</volume>
+
+<volume name="ULYS_V">
+<materialref ref="PBF2"/>
+<solidref ref="ULYS_S"/>
+</volume>
+
+<volume name="FUN5_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FUN5_S"/>
+</volume>
+
+<volume name="FUN4_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FUN4_S"/>
+</volume>
+
+<volume name="PLA9_V">
+<materialref ref="Aluminum"/>
+<solidref ref="PLA9_S"/>
+</volume>
+
+<volume name="PLA8_V">
+<materialref ref="Delrin"/>
+<solidref ref="PLA8_S"/>
+</volume>
+
+<volume name="FUN1_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FUN1_S"/>
+</volume>
+
+<volume name="FUN3_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FUN3_S"/>
+</volume>
+
+<volume name="FUN2_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FUN2_S"/>
+</volume>
+
+<volume name="PLA3_V">
+<materialref ref="Delrin"/>
+<solidref ref="PLA3_S"/>
+</volume>
+
+<volume name="PLA2_V">
+<materialref ref="Aluminum"/>
+<solidref ref="PLA2_S"/>
+</volume>
+
+<volume name="PLA1_V">
+<materialref ref="Aluminum"/>
+<solidref ref="PLA1_S"/>
+</volume>
+
+<volume name="PLA0_V">
+<materialref ref="Delrin"/>
+<solidref ref="PLA0_S"/>
+</volume>
+
+<volume name="PLA7_V">
+<materialref ref="Delrin"/>
+<solidref ref="PLA7_S"/>
+</volume>
+
+<volume name="PLA6_V">
+<materialref ref="Delrin"/>
+<solidref ref="PLA6_S"/>
+</volume>
+
+<volume name="PLA5_V">
+<materialref ref="Delrin"/>
+<solidref ref="PLA5_S"/>
+</volume>
+
+<volume name="PLA4_V">
+<materialref ref="Aluminum"/>
+<solidref ref="PLA4_S"/>
+</volume>
+
+<volume name="SCSB_V">
+<materialref ref="NE104"/>
+<solidref ref="SCSB_S"/>
+<auxiliary auxtype="sensi" auxvalue="S2_SCSB" auxunit="id"/>
+</volume>
+
+<volume name="CC1F_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC1F_S"/>
+</volume>
+
+<volume name="SD2A_V">
+<materialref ref="Silicon"/>
+<solidref ref="SD2A_S"/>
+<auxiliary auxtype="sensi" auxvalue="SD2A" auxunit="id"/>
+</volume>
+
+<volume name="SD1U_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD1U_S"/>
+</volume>
+
+<volume name="CC1M_V">
+<materialref ref="Kapton"/>
+<solidref ref="CC1M_S"/>
+</volume>
+
+<volume name="CC1N_V">
+<materialref ref="Kapton"/>
+<solidref ref="CC1N_S"/>
+</volume>
+
+<volume name="CC1A_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC1A_S"/>
+</volume>
+
+<volume name="CC1D_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC1D_S"/>
+</volume>
+
+<volume name="SD1X_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD1X_S"/>
+</volume>
+
+<volume name="PLAT_V">
+<materialref ref="Aluminum"/>
+<solidref ref="PLAT_S"/>
+</volume>
+
+<volume name="FOIL_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FOIL_S"/>
+</volume>
+
+<volume name="SD1A_V">
+<materialref ref="Silicon"/>
+<solidref ref="SD1A_S"/>
+<auxiliary auxtype="sensi" auxvalue="SD1A" auxunit="id"/>
+</volume>
+
+<volume name="SD1O_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD1O_S"/>
+</volume>
+
+<volume name="SD1Y_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD1Y_S"/>
+</volume>
+
+<volume name="CC1U_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC1U_S"/>
+</volume>
+
+<volume name="SD1H_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD1H_S"/>
+</volume>
+
+<volume name="CC2P_V">
+<materialref ref="Quartz"/>
+<solidref ref="CC2P_S"/>
+<auxiliary auxtype="sensi" auxvalue="Quartzzzzz" auxunit="id"/>
+</volume>
+
+<volume name="Glass_V">
+<materialref ref="Quartz"/>
+<solidref ref="Glass_S"/>
+<auxiliary auxtype="sensi" auxvalue="GLASSSSS" auxunit="id"/>
+</volume>
+
+<volume name="SCA6_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA6_S"/>
+<auxiliary auxtype="sensi" auxvalue="AC6" auxunit="id"/>
+</volume>
+
+<volume name="SCA8_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA8_S"/>
+<auxiliary auxtype="sensi" auxvalue="AC8" auxunit="id"/>
+</volume>
+
+<volume name="SD2X_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD2X_S"/>
+</volume>
+
+<volume name="SCA1_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA1_S"/>
+<auxiliary auxtype="sensi" auxvalue="AC1" auxunit="id"/>
+</volume>
+
+<volume name="SCA2_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA2_S"/>
+<auxiliary auxtype="sensi" auxvalue="AC2" auxunit="id"/>
+</volume>
+
+<volume name="SCA5_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA5_S"/>
+<auxiliary auxtype="sensi" auxvalue="AC5" auxunit="id"/>
+</volume>
+
+<volume name="SCA4_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA4_S"/>
+<auxiliary auxtype="sensi" auxvalue="AC4" auxunit="id"/>
+</volume>
+
+<volume name="SCA7_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA7_S"/>
+<auxiliary auxtype="sensi" auxvalue="AC7" auxunit="id"/>
+</volume>
+
+<volume name="FOI2_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FOI2_S"/>
+</volume>

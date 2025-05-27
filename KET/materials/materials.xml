@@ -1,0 +1,102 @@
+
+<element name="videRef" formula="VACUUM" Z="1">
+	<atom value="1"/>
+</element>
+
+
+<element name="Pb" formula="Pb" Z="82">
+	<atom value="207.2"/>
+</element>
+
+<element name="Si" formula="Si" Z="14">
+	<atom value="28.0855"/>
+</element>
+
+<element name="N" formula="N" Z="7">
+	<atom value="14.0067"/>
+</element>
+
+<element name="O" formula="O" Z="8">
+	<atom value="15.999"/>
+</element>
+
+<element name="F" formula="F" Z="9">
+	<atom value="18.998403"/>
+</element>
+
+<element name="Al" formula="Al" Z="13">
+	<atom value="26.981539"/>
+</element>
+
+
+
+<material name="Aluminum" Z="13">
+	<D value="1.37" unit="g/cm3" />
+	<atom value="26.981539" /> 
+</material>
+
+<material name="Silicon" Z="14">
+	<D value="2.3296" unit="g/cm3" />
+	<atom value="28.0855" /> 
+</material>
+
+
+
+<material name="Kapton" Z="5">
+	<D value="1.42" />
+	<atom value="9.8"/>
+</material>
+
+
+
+
+<material name="PBF2" formula="PBF2">
+	<D value="7.75" unit="g/cm3" />
+	<composite n= "1" ref="Pb" />
+	<composite n= "2" ref="F" />
+</material>
+
+<material name="Aerogel" formula="Aerogel">
+	<D value="0.262" unit="g/cm3" />
+	<composite n= "1" ref="Si" />
+	<composite n= "2" ref="O" />
+</material>
+
+<material name="Quartz" formula="Quartz">
+	<D value="2.65" unit="g/cm3" />
+	<composite n= "1" ref="Si" />
+	<composite n= "2" ref="O" />
+</material>
+
+<material name="NE104" Z="5">
+	<D value="1.032" unit="g/cm3" />
+	<atom value="11.157" /> 
+</material>
+
+<material name="Delrin" Z="5">
+	<D value="1.37" unit="g/cm3" />
+	<atom value="11" /> 
+</material>
+
+
+
+
+
+<material name="Vacuum" formula="Vacuum">
+<D value ="1E-25" unit="g/cm3"/>
+<fraction n="1.0" ref="videRef"/>
+</material>
+
+<material name="HiVacuum" formula="Vacuum">
+	<D value ="1.29e-16" unit="g/cm3"/>
+	<fraction n="0.7" ref="N"/>
+	<fraction n="0.3" ref="O"/>
+</material>
+
+<material name="Air" formula="Air">
+	<D value ="0.001293" unit="g/cm3"/>
+	<fraction n="0.8" ref="N"/>
+	<fraction n="0.2" ref="O"/>
+</material>
+
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gdml [
+<!ENTITY definitions SYSTEM "definitions.xml">
+<!ENTITY materials SYSTEM "materials/materials.xml">
+
+<!ENTITY detector_solids SYSTEM "detector_ket/detector_solids.xml">
+<!ENTITY detector_structure SYSTEM "detector_ket/detector_structure.xml">
+<!ENTITY detector_physvol SYSTEM "detector_ket/detector_physvol.xml">
+
+]>
+
+<gdml xmlns:gdml="http://cern.ch/2001/Schemas/GDML"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../gdml.xsd"
+	 >
+	 
+<define>
+&definitions;
+</define>
+
+<materials>
+&materials;
+</materials>
+
+<solids>
+  <polycone name="world" startphi="0" deltaphi="360" aunit="deg" lunit="cm">
+    <zplane rmin="0" rmax="100" z="100"/>
+    <zplane rmin="0" rmax="100" z="-100"/>
+  </polycone>
+
+  &detector_solids;
+  
+</solids>
+
+
+<structure>
+  &detector_structure;
+  
+  <volume name="World" >
+    <materialref ref="Vacuum" />
+    <solidref ref="world" />
+
+    &detector_physvol;
+    
+  </volume>
+</structure>
+
+
+<setup name="Default" version="1.0" >
+<world ref="World" />
+</setup>
+
+</gdml>
+

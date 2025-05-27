@@ -1,0 +1,318 @@
+<physvol name="CRC2_PV" >
+<volumeref ref="CRC2_V"/>
+<positionref ref="CRC2" />
+<!--<sdID id="25"/> -->
+</physvol>
+
+<physvol name="Diffusionbox_PV" >
+<volumeref ref="Diffusionbox_V"/>
+<positionref ref="origin" />
+</physvol>
+
+<physvol name="S2box_PV" >
+<volumeref ref="S2box_V"/>
+<positionref ref="origin" />
+<!--<sdID id="99"/>-->
+</physvol>
+
+<physvol name="CC2A_PV" >
+<volumeref ref="CC2A_V"/>
+<positionref ref="CC2A" />
+</physvol>
+
+<physvol name="CC2B_PV" >
+<volumeref ref="CC2B_V"/>
+<positionref ref="CC2B" />
+</physvol>
+
+<physvol name="CRC1_PV" >
+<volumeref ref="CRC1_V"/>
+<positionref ref="CRC1" />
+<!--<sdID id="1"/>-->
+</physvol>
+
+<physvol name="CC2D_PV" >
+<volumeref ref="CC2D_V"/>
+<positionref ref="CC2D" />
+</physvol>
+
+<physvol name="CC2E_PV" >
+<volumeref ref="CC2E_V"/>
+<positionref ref="CC2E" />
+</physvol>
+
+<physvol name="CC2F_PV" >
+<volumeref ref="CC2F_V"/>
+<positionref ref="CC2F" />
+</physvol>
+
+<physvol name="SID1_PV" >
+<volumeref ref="SID1_V"/>
+<positionref ref="SID1" />
+<!--<sdID id="2"/>-->
+</physvol>
+
+<physvol name="SID2_PV" >
+<volumeref ref="SID2_V"/>
+<positionref ref="SID2" />
+<!--<sdID id="3"/>-->
+</physvol>
+
+<physvol name="CC2W_PV" >
+<volumeref ref="CC2W_V"/>
+<positionref ref="CC2W" />
+</physvol>
+
+<physvol name="SCAD_PV" >
+<volumeref ref="SCAD_V"/>
+<positionref ref="SCAD" />
+<!--<sdID id="4"/>-->
+</physvol>
+
+<physvol name="CC2C_PV" >
+<volumeref ref="CC2C_V"/>
+<positionref ref="CC2C" />
+</physvol>
+
+<physvol name="SD2Y_PV" >
+<volumeref ref="SD2Y_V"/>
+<positionref ref="SD2Y" />
+</physvol>
+
+<physvol name="SD2H_PV" >
+<volumeref ref="SD2H_V"/>
+<positionref ref="SD2H" />
+</physvol>
+<!--
+<physvol name="ULYS" >
+<volumeref ref="ULYS"/>
+<positionref ref="ULYS" />
+<sdID id="5"/>
+</physvol>-->
+
+<physvol name="FUN5_PV" >
+<volumeref ref="FUN5_V"/>
+<positionref ref="FUN5" />
+</physvol>
+
+<physvol name="FUN4_PV" >
+<volumeref ref="FUN4_V"/>
+<positionref ref="FUN4" />
+</physvol>
+
+<physvol name="PLA9_PV" >
+<volumeref ref="PLA9_V"/>
+<positionref ref="PLA9" />
+</physvol>
+
+<physvol name="PLA8_PV" >
+<volumeref ref="PLA8_V"/>
+<positionref ref="PLA8" />
+</physvol>
+
+<physvol name="FUN1_PV" >
+<volumeref ref="FUN1_V"/>
+<positionref ref="FUN1" />
+</physvol>
+
+<physvol name="FUN3_PV" >
+<volumeref ref="FUN3_V"/>
+<positionref ref="FUN3" />
+</physvol>
+
+<physvol name="FUN2_PV" >
+<volumeref ref="FUN2_V"/>
+<positionref ref="FUN2" />
+</physvol>
+
+<physvol name="PLA3_PV" >
+<volumeref ref="PLA3_V"/>
+<positionref ref="PLA3" />
+</physvol>
+
+<physvol name="PLA2_PV" >
+<volumeref ref="PLA2_V"/>
+<positionref ref="PLA2" />
+</physvol>
+
+<physvol name="PLA1_PV" >
+<volumeref ref="PLA1_V"/>
+<positionref ref="PLA1" />
+</physvol>
+
+<physvol name="PLA0_PV" >
+<volumeref ref="PLA0_V"/>
+<positionref ref="PLA0" />
+</physvol>
+
+<physvol name="PLA7_PV" >
+<volumeref ref="PLA7_V"/>
+<positionref ref="PLA7" />
+</physvol>
+
+<physvol name="PLA6_PV" >
+<volumeref ref="PLA6_V"/>
+<positionref ref="PLA6" />
+</physvol>
+
+<physvol name="PLA5_PV" >
+<volumeref ref="PLA5_V"/>
+<positionref ref="PLA5" />
+</physvol>
+
+<physvol name="PLA4_PV" >
+<volumeref ref="PLA4_V"/>
+<positionref ref="PLA4" />
+</physvol>
+
+
+<physvol name="SCSB_PV" >
+<volumeref ref="SCSB_V"/>
+<positionref ref="SCSB" />
+<!--<sdID id="99"/>-->
+</physvol>
+
+<physvol name="CC1F_PV" >
+<volumeref ref="CC1F_V"/>
+<positionref ref="CC1F" />
+</physvol>
+
+<physvol name="SD2A_PV" >
+<volumeref ref="SD2A_V"/>
+<positionref ref="SD2A" />
+<!--<sdID id="11"/>-->
+</physvol>
+
+<physvol name="SD1U_PV" >
+<volumeref ref="SD1U_V"/>
+<positionref ref="SD1U" />
+</physvol>
+
+<physvol name="CC1M_PV" >
+<volumeref ref="CC1M_V"/>
+<positionref ref="CC1M" />
+</physvol>
+
+<physvol name="CC1N_PV" >
+<volumeref ref="CC1N_V"/>
+<positionref ref="CC1N" />
+</physvol>
+
+<physvol name="CC1A_PV" >
+<volumeref ref="CC1A_V"/>
+<positionref ref="CC1A" />
+</physvol>
+
+<physvol name="CC1D_PV" >
+<volumeref ref="CC1D_V"/>
+<positionref ref="CC1D" />
+</physvol>
+
+<physvol name="SD1X_PV" >
+<volumeref ref="SD1X_V"/>
+<positionref ref="SD1X" />
+</physvol>
+
+<physvol name="PLAT_PV" >
+<volumeref ref="PLAT_V"/>
+<positionref ref="PLAT" />
+</physvol>
+
+
+<physvol name="FOIL_PV" >
+<volumeref ref="FOIL_V"/>
+<positionref ref="FOIL" />
+</physvol>
+
+<physvol name="SD1A_PV" >
+<volumeref ref="SD1A_V"/>
+<positionref ref="SD1A" />
+<!--<sdID id="13"/>-->
+</physvol>
+
+<physvol name="SD1O_PV" >
+<volumeref ref="SD1O_V"/>
+<positionref ref="SD1O" />
+</physvol>
+
+<physvol name="SD1Y_PV" >
+<volumeref ref="SD1Y_V"/>
+<positionref ref="SD1Y" />
+</physvol>
+
+<physvol name="CC1U_PV" >
+<volumeref ref="CC1U_V"/>
+<positionref ref="CC1U" />
+</physvol>
+
+<physvol name="SD1H_PV" >
+<volumeref ref="SD1H_V"/>
+<positionref ref="SD1H" />
+</physvol>
+
+<physvol name="CC2P_PV" >
+<volumeref ref="CC2P_V"/>
+<positionref ref="CC2P" />
+<rotationref ref="rot1" />
+<!--<sdID id="26"/>-->
+</physvol>
+
+<physvol name="Glass_PV" >
+<volumeref ref="Glass_V"/>
+<positionref ref="Glass" />
+<rotationref ref="rot1" />
+<!--<sdID id="27"/>-->
+</physvol>
+
+<physvol name="SCA6_PV" >
+<volumeref ref="SCA6_V"/>
+<positionref ref="SCA6" />
+<!--<sdID id="15"/>-->
+</physvol>
+
+
+<physvol name="SCA8_PV" >
+<volumeref ref="SCA8_V"/>
+<positionref ref="SCA8" />
+<!--<sdID id="16"/>-->
+</physvol>
+
+<physvol name="SD2X_PV" >
+<volumeref ref="SD2X_V"/>
+<positionref ref="SD2X" />
+</physvol>
+
+<physvol name="SCA1_PV" >
+<volumeref ref="SCA1_V"/>
+<positionref ref="SCA1" />
+<!--<sdID id="17"/>-->
+</physvol>
+
+<physvol name="SCA2_PV" >
+<volumeref ref="SCA2_V"/>
+<positionref ref="SCA2" />
+<!--<sdID id="18"/>-->
+</physvol>
+
+<physvol name="SCA5_PV" >
+<volumeref ref="SCA5_V"/>
+<positionref ref="SCA5" />
+<!--<sdID id="19"/>-->
+</physvol>
+
+<physvol name="SCA4_PV" >
+<volumeref ref="SCA4_V"/>
+<positionref ref="SCA4" />
+<!--<sdID id="20"/>-->
+</physvol>
+
+<physvol name="SCA7_PV" >
+<volumeref ref="SCA7_V"/>
+<positionref ref="SCA7" />
+<!--<sdID id="21"/>-->
+</physvol>
+
+<physvol name="FOI2_PV" >
+<volumeref ref="FOI2_V"/>
+<positionref ref="FOI2" />
+</physvol>
