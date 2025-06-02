@@ -2,94 +2,94 @@
   <materialref ref="Semiconductor" />
   <solidref ref="D10" />
   <auxiliary auxtype="Color" auxvalue="blue"/>
-  <auxiliary auxtype="sensi" auxvalue="10" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="10" auxunit="id"/>
 </volume>
 <volume name="vd11">
   <materialref ref="Semiconductor" />
   <solidref ref="D11" />
-  <auxiliary auxtype="sensi" auxvalue="11" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="11" auxunit="id"/>
 </volume>
 <volume name="vd12">
   <materialref ref="Semiconductor" />
   <solidref ref="D12" />
-  <auxiliary auxtype="sensi" auxvalue="12" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="12" auxunit="id"/>
 </volume>
 <volume name="vd13">
   <materialref ref="Semiconductor" />
   <solidref ref="D13" />
-  <auxiliary auxtype="sensi" auxvalue="13" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="13" auxunit="id"/>
 </volume>
 <volume name="vd14">
   <materialref ref="Semiconductor" />
   <solidref ref="D14" />
-  <auxiliary auxtype="sensi" auxvalue="14" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="14" auxunit="id"/>
 </volume>
 <volume name="vd15">
   <materialref ref="Semiconductor" />
   <solidref ref="D15" />
-  <auxiliary auxtype="sensi" auxvalue="15" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="15" auxunit="id"/>
 </volume>
 <!--
 <volume name="guardd1">
   <materialref ref="Semiconductor" />
   <solidref ref="guardD1" />
-  <auxiliary auxtype="sensi" auxvalue="16" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="16" auxunit="id"/>
 </volume>
 -->
 <volume name="vd20">
   <materialref ref="Semiconductor" />
   <solidref ref="D20" />
-  <auxiliary auxtype="sensi" auxvalue="20" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="20" auxunit="id"/>
 </volume>
 <volume name="vd21">
   <materialref ref="Semiconductor" />
   <solidref ref="D21" />
-  <auxiliary auxtype="sensi" auxvalue="21" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="21" auxunit="id"/>
 </volume>
 <volume name="vd22">
   <materialref ref="Semiconductor" />
   <solidref ref="D22" />
-  <auxiliary auxtype="sensi" auxvalue="22" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="22" auxunit="id"/>
 </volume>
 <volume name="vd23">
   <materialref ref="Semiconductor" />
   <solidref ref="D23" />
-  <auxiliary auxtype="sensi" auxvalue="23" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="23" auxunit="id"/>
 </volume>
 <volume name="vd24">
   <materialref ref="Semiconductor" />
   <solidref ref="D24" />
-  <auxiliary auxtype="sensi" auxvalue="24" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="24" auxunit="id"/>
 </volume>
 <volume name="vd25">
   <materialref ref="Semiconductor" />
   <solidref ref="D25" />
-  <auxiliary auxtype="sensi" auxvalue="25" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="25" auxunit="id"/>
 </volume>
 <!--
 <volume name="guardd2">
   <materialref ref="Semiconductor" />
   <solidref ref="guardD2" />
-  <auxiliary auxtype="sensi" auxvalue="26" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="26" auxunit="id"/>
 </volume>
 -->
 <volume name="vd30">
   <materialref ref="Semiconductor" />
   <solidref ref="D30" />
-  <auxiliary auxtype="sensi" auxvalue="30" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="30" auxunit="id"/>
 </volume>
 <volume name="vd40">
   <materialref ref="Semiconductor" />
   <solidref ref="D40" />
-  <auxiliary auxtype="sensi" auxvalue="40" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="40" auxunit="id"/>
 </volume>
 <volume name="vd50">
   <materialref ref="Semiconductor" />
   <solidref ref="D50" />
-  <auxiliary auxtype="sensi" auxvalue="50" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="50" auxunit="id"/>
 </volume>
 <volume name="vd60">
   <materialref ref="Semiconductor" />
   <solidref ref="D60" />
-  <auxiliary auxtype="sensi" auxvalue="60" auxunit="id"/>
+  <auxiliary auxtype="SD" auxvalue="60" auxunit="id"/>
 </volume>
