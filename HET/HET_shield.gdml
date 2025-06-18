@@ -15,7 +15,7 @@
 
 <gdml xmlns:gdml="http://cern.ch/2001/Schemas/GDML"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:noNamespaceSchemaLocation="../gdml.xsd"
+	xsi:noNamespaceSchemaLocation="../gdml_scheme/gdml.xsd"
 	 >
 	
 &MATERIALS;

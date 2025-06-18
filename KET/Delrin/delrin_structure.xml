@@ -1,0 +1,71 @@
+<volume name="SD2Y_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD2Y_S"/>
+</volume>
+
+<volume name="SD2H_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD2H_S"/>
+</volume>
+
+<volume name="PLA8_V">
+<materialref ref="Delrin"/>
+<solidref ref="PLA8_S"/>
+</volume>
+
+<volume name="PLA3_V">
+<materialref ref="Delrin"/>
+<solidref ref="PLA3_S"/>
+</volume>
+
+<volume name="PLA0_V">
+<materialref ref="Delrin"/>
+<solidref ref="PLA0_S"/>
+</volume>
+
+<volume name="PLA7_V">
+<materialref ref="Delrin"/>
+<solidref ref="PLA7_S"/>
+</volume>
+
+<volume name="PLA6_V">
+<materialref ref="Delrin"/>
+<solidref ref="PLA6_S"/>
+</volume>
+
+<volume name="PLA5_V">
+<materialref ref="Delrin"/>
+<solidref ref="PLA5_S"/>
+</volume>
+
+<volume name="SD1U_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD1U_S"/>
+</volume>
+
+<volume name="SD1X_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD1X_S"/>
+</volume>
+
+<volume name="SD1O_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD1O_S"/>
+</volume>
+
+<volume name="SD1Y_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD1Y_S"/>
+</volume>
+
+<volume name="SD1H_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD1H_S"/>
+</volume>
+
+<volume name="SD2X_V">
+<materialref ref="Delrin"/>
+<solidref ref="SD2X_S"/>
+</volume>
+
+

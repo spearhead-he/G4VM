@@ -1,0 +1,25 @@
+<physvol name="CRC2_PV" >
+<volumeref ref="CRC2_V"/>
+<positionref ref="CRC2" />
+<!--<sdID id="25"/> -->
+</physvol>
+
+<physvol name="CRC1_PV" >
+<volumeref ref="CRC1_V"/>
+<positionref ref="CRC1" />
+<!--<sdID id="1"/>-->
+</physvol>
+
+<physvol name="CC2P_PV" >
+<volumeref ref="CC2P_V"/>
+<positionref ref="CC2P" />
+<rotationref ref="rot1" />
+<!--<sdID id="26"/>-->
+</physvol>
+
+<physvol name="Glass_PV" >
+<volumeref ref="Glass_V"/>
+<positionref ref="Glass" />
+<rotationref ref="rot1" />
+<!--<sdID id="27"/>-->
+</physvol>

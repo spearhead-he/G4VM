@@ -1,0 +1,19 @@
+<physvol name="CC2D_PV" >
+<volumeref ref="CC2D_V"/>
+<positionref ref="CC2D" />
+</physvol>
+
+<physvol name="CC2W_PV" >
+<volumeref ref="CC2W_V"/>
+<positionref ref="CC2W" />
+</physvol>
+
+<physvol name="CC1N_PV" >
+<volumeref ref="CC1N_V"/>
+<positionref ref="CC1N" />
+</physvol>
+
+<physvol name="FOI2_PV" >
+<volumeref ref="FOI2_V"/>
+<positionref ref="FOI2" />
+</physvol>

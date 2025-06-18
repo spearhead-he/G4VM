@@ -1,0 +1,22 @@
+<volume name="SID1_V">
+<materialref ref="Silicon"/>
+<solidref ref="SID1_S"/>
+</volume>
+
+<volume name="SID2_V">
+<materialref ref="Silicon"/>
+<solidref ref="SID2_S"/>
+<auxiliary auxtype="SD" auxvalue="SD2" auxunit="id"/>
+</volume>
+
+<volume name="SD2A_V">
+<materialref ref="Silicon"/>
+<solidref ref="SD2A_S"/>
+<auxiliary auxtype="SD" auxvalue="SD2A" auxunit="id"/>
+</volume>
+
+<volume name="SD1A_V">
+<materialref ref="Silicon"/>
+<solidref ref="SD1A_S"/>
+<auxiliary auxtype="SD" auxvalue="SD1A" auxunit="id"/>
+</volume>

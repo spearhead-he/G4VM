@@ -1,0 +1,14 @@
+<cone  name ="SD2Y_S" rmin1="1.169" rmax1="1.35" rmin2="1.35" rmax2="1.35" z="0.33" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="SD2H_S" rmin="1.35" rmax="2.5" z="0.64" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="PLA8_S" rmin1="1.55" rmax1="1.673" rmin2="1.55" rmax2="1.62" z="0.16" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="PLA3_S" rmin="1.45" rmax="2.74" z="0.2" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="PLA0_S" rmin1="1.748" rmax1="1.9" rmin2="1.845" rmax2="1.9" z="0.11" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="PLA7_S" rmin="1.55" rmax="1.9" z="0.19" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="PLA6_S" rmin="1.45" rmax="1.5" z="0.2" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="PLA5_S" rmin1="1.96" rmax1="2.2" rmin2="1.95" rmax2="2.2" z="0.1" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SD1U_S" rmin1="1.78" rmax1="2.45" rmin2="1.9" rmax2="2.45" z="0.12" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SD1X_S" rmin1="1.65" rmax1="1.65" rmin2="1.44" rmax2="1.65" z="0.061" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="SD1O_S" rmin="1.78" rmax="2.45" z="0.16" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SD1Y_S" rmin1="1.509" rmax1="1.65" rmin2="1.65" rmax2="1.65" z="0.201" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="SD1H_S" rmin="1.65" rmax="2.45" z="0.36" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SD2X_S" rmin1="1.35" rmax1="1.35" rmin2="1.194" rmax2="1.35" z="0.21" deltaphi="2*pi" aunit="rad" lunit="cm" />

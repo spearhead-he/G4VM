@@ -1,0 +1,101 @@
+<physvol name="Diffusionbox_PV" >
+<volumeref ref="Diffusionbox_V"/>
+<positionref ref="origin" />
+</physvol>
+
+
+<physvol name="CC1F_PV" >
+<volumeref ref="CC1F_V"/>
+<positionref ref="CC1F" />
+</physvol>
+
+<physvol name="CC1A_PV" >
+<volumeref ref="CC1A_V"/>
+<positionref ref="CC1A" />
+</physvol>
+
+<physvol name="CC1D_PV" >
+<volumeref ref="CC1D_V"/>
+<positionref ref="CC1D" />
+</physvol>
+
+<physvol name="CC2A_PV" >
+<volumeref ref="CC2A_V"/>
+<positionref ref="CC2A" />
+</physvol>
+
+<physvol name="CC2B_PV" >
+<volumeref ref="CC2B_V"/>
+<positionref ref="CC2B" />
+</physvol>
+
+<physvol name="CC2C_PV" >
+<volumeref ref="CC2C_V"/>
+<positionref ref="CC2C" />
+</physvol>
+
+<physvol name="PLAT_PV" >
+<volumeref ref="PLAT_V"/>
+<positionref ref="PLAT" />
+</physvol>
+
+<physvol name="CC1U_PV" >
+<volumeref ref="CC1U_V"/>
+<positionref ref="CC1U" />
+</physvol>
+
+<physvol name="CC2E_PV" >
+<volumeref ref="CC2E_V"/>
+<positionref ref="CC2E" />
+</physvol>
+
+<physvol name="CC2F_PV" >
+<volumeref ref="CC2F_V"/>
+<positionref ref="CC2F" />
+</physvol>
+
+
+<physvol name="FUN1_PV" >
+<volumeref ref="FUN1_V"/>
+<positionref ref="FUN1" />
+</physvol>
+
+<physvol name="FUN3_PV" >
+<volumeref ref="FUN3_V"/>
+<positionref ref="FUN3" />
+</physvol>
+
+<physvol name="FUN2_PV" >
+<volumeref ref="FUN2_V"/>
+<positionref ref="FUN2" />
+</physvol>
+
+<physvol name="PLA2_PV" >
+<volumeref ref="PLA2_V"/>
+<positionref ref="PLA2" />
+</physvol>
+
+<physvol name="PLA1_PV" >
+<volumeref ref="PLA1_V"/>
+<positionref ref="PLA1" />
+</physvol>
+
+<physvol name="PLA4_PV" >
+<volumeref ref="PLA4_V"/>
+<positionref ref="PLA4" />
+</physvol>
+
+<physvol name="PLA9_PV" >
+<volumeref ref="PLA9_V"/>
+<positionref ref="PLA9" />
+</physvol>
+
+<physvol name="FUN5_PV" >
+<volumeref ref="FUN5_V"/>
+<positionref ref="FUN5" />
+</physvol>
+
+<physvol name="FUN4_PV" >
+<volumeref ref="FUN4_V"/>
+<positionref ref="FUN4" />
+</physvol>

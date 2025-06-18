@@ -1,0 +1,4 @@
+<cone  name ="SID1_S" rmin1="0." rmax1="1.44" rmin2="0." rmax2="1.509" z="0.098" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SID2_S" rmin1="0." rmax1="1.190" rmin2="0." rmax2="1.169" z="0.1" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SD1A_S" rmin1="1.44" rmax1="1.65" rmin2="1.509" rmax2="1.65" z="0.098" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SD2A_S" rmin1="1.19" rmax1="1.35" rmin2="1.169" rmax2="1.35" z="0.1" deltaphi="2*pi" aunit="rad" lunit="cm" />

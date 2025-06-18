@@ -1,17 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE gdml [
 <!ENTITY definitions SYSTEM "definitions.xml">
-<!ENTITY materials SYSTEM "materials/materials.xml">
+<!ENTITY materials SYSTEM "materials.xml">
 
-<!ENTITY detector_solids SYSTEM "detector_ket/detector_solids.xml">
-<!ENTITY detector_structure SYSTEM "detector_ket/detector_structure.xml">
-<!ENTITY detector_physvol SYSTEM "detector_ket/detector_physvol.xml">
+
+
+<!ENTITY aluminum_solids SYSTEM "Aluminum/aluminum_solids.xml">
+<!ENTITY aluminum_structure SYSTEM "Aluminum/aluminum_structure.xml">
+<!ENTITY aluminum_physvol SYSTEM "Aluminum/aluminum_physvol.xml">
+
+<!ENTITY cerenkov_solids SYSTEM "Cerenkov/cerenkov_solids.xml">
+<!ENTITY cerenkov_structure SYSTEM "Cerenkov/cerenkov_structure.xml">
+<!ENTITY cerenkov_physvol SYSTEM "Cerenkov/cerenkov_physvol.xml">
+
+<!ENTITY delrin_solids SYSTEM "Delrin/delrin_solids.xml">
+<!ENTITY delrin_structure SYSTEM "Delrin/delrin_structure.xml">
+<!ENTITY delrin_physvol SYSTEM "Delrin/delrin_physvol.xml">
+
+<!ENTITY foils_solids SYSTEM "Foils/foils_solids.xml">
+<!ENTITY foils_structure SYSTEM "Foils/foils_structure.xml">
+<!ENTITY foils_physvol SYSTEM "Foils/foils_physvol.xml">
+
+<!ENTITY ssd_solids SYSTEM "SSDs/ssd_solids.xml">
+<!ENTITY ssd_structure SYSTEM "SSDs/ssd_structure.xml">
+<!ENTITY ssd_physvol SYSTEM "SSDs/ssd_physvol.xml">
+
+<!ENTITY scintillators_solids SYSTEM "Scintillators/scintillators_solids.xml">
+<!ENTITY scintillators_structure SYSTEM "Scintillators/scintillators_structure.xml">
+<!ENTITY scintillators_physvol SYSTEM "Scintillators/scintillators_physvol.xml">
 
 ]>
 
 <gdml xmlns:gdml="http://cern.ch/2001/Schemas/GDML"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:noNamespaceSchemaLocation="../gdml.xsd"
+	xsi:noNamespaceSchemaLocation="../gdml_scheme/gdml.xsd"
 	 >
 	 
 <define>
@@ -28,20 +50,36 @@
     <zplane rmin="0" rmax="100" z="-100"/>
   </polycone>
 
-  &detector_solids;
-  
+  &aluminum_solids;
+  &cerenkov_solids;
+  &delrin_solids;
+  &foils_solids;
+  &ssd_solids;
+  &scintillators_solids;
+
 </solids>
 
 
 <structure>
-  &detector_structure;
+
+  &aluminum_structure;
+  &cerenkov_structure;
+  &delrin_structure;
+  &foils_structure;
+  &ssd_structure;
+  &scintillators_structure;
   
   <volume name="World" >
     <materialref ref="Vacuum" />
     <solidref ref="world" />
 
-    &detector_physvol;
-    
+    &aluminum_physvol;
+    &cerenkov_physvol;
+    &delrin_physvol;
+    &foils_physvol;
+    &ssd_physvol; 
+    &scintillators_physvol;
+  
   </volume>
 </structure>
 

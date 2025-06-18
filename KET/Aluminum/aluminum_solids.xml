@@ -1,0 +1,65 @@
+<tube  name ="CC1U_S" rmin="0." rmax="2.05" z="0.0016" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="PLAT_S" rmin="1.5" rmax="3.5" z="0.1" deltaphi="2*pi" aunit="rad" lunit="cm" />
+
+<tube  name ="PLA4_S" rmin="2.20" rmax="2.74" z="0.1" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="PLA2_S" rmin1="2.0" rmax1="2.74" rmin2="1.96" rmax2="2.74" z="0.1" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="PLA1_S" rmin="1.9" rmax="3.5" z="0.1" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="PLA9_S" rmin="1.9" rmax="2.0" z="0.2" deltaphi="2*pi" aunit="rad" lunit="cm" />
+
+<tube  name ="FUN1_S" rmin="1.42" rmax="1.45" z="1.0" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="FUN3_S" rmin1="2.0" rmax1="2.5" rmin2="2.04" rmax2="2.5" z="0.1" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="FUN2_S" rmin1="1.42" rmax1="1.45" rmin2="2.0" rmax2="2.03" z="1.46" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="FUN5_S" rmin="2.09" rmax="2.5" z="0.2" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="FUN4_S" rmin="2.45" rmax="2.5" z="0.66" deltaphi="2*pi" aunit="rad" lunit="cm" />
+
+<tube  name ="CC1F_S" rmin="0." rmax="2.05" z="0.0016" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="CC1A_S" rmin="2.05" rmax="2.09" z="4.06" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="CC1D_S" rmin="2.09" rmax="2.5" z="0.2" deltaphi="2*pi" aunit="rad" lunit="cm" />
+
+<tube  name ="CC2C_S" rmin="1.82" rmax="2.5" z="0.12" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="CC2E_S" rmin1="1.78" rmax1="1.81" rmin2="2.22" rmax2="2.24" z="1.9" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="CC2F_S" rmin1="2.22" rmax1="2.5" rmin2="2.36" rmax2="2.5" z="0.64" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="CC2B_S" rmin="1.44" rmax="1.82" z="0.08" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="CC2A_S" rmin="0." rmax="1.44" z="0.04" deltaphi="2*pi" aunit="rad" lunit="cm" />
+
+<polycone name = "Diffusiona_S" startphi="0" deltaphi="2*pi" aunit="rad" lunit= "cm">
+<zplane rmin="0" rmax="2.07" z="3.05-0.7" />
+<zplane rmin="0" rmax="2.07" z="3.05+0.7" />
+<zplane rmin="0" rmax="2.07" z="5.29-1.54" />
+<zplane rmin="0" rmax="1.24" z="5.29+1.54" />
+<zplane rmin="0" rmax="1.24" z="6.93-0.1" />
+<zplane rmin="0" rmax="0.932" z="6.93+0.1" />
+<zplane rmin="0" rmax="0.932" z="7.045-0.015" />
+<zplane rmin="0" rmax="0.9" z="7.045+0.015" />
+</polycone>
+
+<polycone name = "Diffusioni_S" startphi="0" deltaphi="2*pi" aunit="rad" lunit= "cm">
+<zplane rmin="0" rmax="2.04" z="3.05-0.7" />
+<zplane rmin="0" rmax="2.04" z="3.05+0.7" />
+<zplane rmin="0" rmax="2.04" z="5.29-1.54" />
+<zplane rmin="0" rmax="1.21" z="5.29+1.54" />
+<zplane rmin="0" rmax="1.21" z="6.93-0.1" />
+<zplane rmin="0" rmax="0.9" z="6.93+0.1" />
+</polycone>
+
+<tube  name ="SCSTA_S" rmin="0." rmax="1.46" z="2.95" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="SCSTI_S" rmin="0." rmax="1.46-0.03" z="2.95" deltaphi="2*pi" aunit="rad" lunit="cm" />
+
+<union name = "Diffusionbox2_S" >
+	<first ref="Diffusiona_S" />
+	<second ref="SCSTA_S" />
+	<position name="diff_u_pos" x="-1.475" y="0." z="5.336" unit="cm"/>
+	<rotationref ref="rot1" />
+</union>
+
+<subtraction name ="Diffusionbox1_S" >
+	<first ref="Diffusionbox2_S" />
+	<second ref="Diffusioni_S" />
+</subtraction>
+
+<subtraction name ="Diffusionbox_S" >
+	<first ref="Diffusionbox1_S" />
+	<second ref="SCSTI_S" />
+	<position name="diff_sub_pos" x="-1.475" y="0." z="5.336" unit="cm"/>
+	<rotationref ref="rot1" />
+</subtraction>

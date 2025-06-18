@@ -1,0 +1,11 @@
+<cone  name ="CRC2_S" rmin1="0." rmax1="1.74" rmin2="0." rmax2="2.25" z="2.18" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="CRC1_S" rmin="0." rmax="2.05" z="3.96" deltaphi="2*pi" aunit="rad" lunit="cm" />
+
+<tube  name ="CC2P_S" rmin="0." rmax="1.93" z="0.16" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="CC2P_1_S" rmin="0." rmax="1.93" z="0.32" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="CC2P_2_S" rmin="0." rmax="1.83" z="0.33" deltaphi="2*pi" aunit="rad" lunit="cm" />
+
+<subtraction name ="Glass_S" >
+	<first ref="CC2P_1_S" />
+	<second ref="CC2P_2_S" />
+</subtraction>

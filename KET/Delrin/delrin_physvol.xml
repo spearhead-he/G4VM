@@ -1,0 +1,69 @@
+<physvol name="SD2Y_PV" >
+<volumeref ref="SD2Y_V"/>
+<positionref ref="SD2Y" />
+</physvol>
+
+<physvol name="SD2H_PV" >
+<volumeref ref="SD2H_V"/>
+<positionref ref="SD2H" />
+</physvol>
+
+<physvol name="PLA8_PV" >
+<volumeref ref="PLA8_V"/>
+<positionref ref="PLA8" />
+</physvol>
+
+<physvol name="PLA3_PV" >
+<volumeref ref="PLA3_V"/>
+<positionref ref="PLA3" />
+</physvol>
+
+<physvol name="PLA0_PV" >
+<volumeref ref="PLA0_V"/>
+<positionref ref="PLA0" />
+</physvol>
+
+<physvol name="PLA7_PV" >
+<volumeref ref="PLA7_V"/>
+<positionref ref="PLA7" />
+</physvol>
+
+<physvol name="PLA6_PV" >
+<volumeref ref="PLA6_V"/>
+<positionref ref="PLA6" />
+</physvol>
+
+<physvol name="PLA5_PV" >
+<volumeref ref="PLA5_V"/>
+<positionref ref="PLA5" />
+</physvol>
+
+<physvol name="SD1U_PV" >
+<volumeref ref="SD1U_V"/>
+<positionref ref="SD1U" />
+</physvol>
+
+<physvol name="SD1X_PV" >
+<volumeref ref="SD1X_V"/>
+<positionref ref="SD1X" />
+</physvol>
+
+<physvol name="SD1O_PV" >
+<volumeref ref="SD1O_V"/>
+<positionref ref="SD1O" />
+</physvol>
+
+<physvol name="SD1Y_PV" >
+<volumeref ref="SD1Y_V"/>
+<positionref ref="SD1Y" />
+</physvol>
+
+<physvol name="SD1H_PV" >
+<volumeref ref="SD1H_V"/>
+<positionref ref="SD1H" />
+</physvol>
+
+<physvol name="SD2X_PV" >
+<volumeref ref="SD2X_V"/>
+<positionref ref="SD2X" />
+</physvol>

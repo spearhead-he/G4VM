@@ -1,33 +1,33 @@
-<cone name = "D10" rmin1="0" rmax1="0.78" rmin2="0" rmax2="0.78" z="0.01519"
+<cone name = "D10" rmin1="0" rmax1="0.78" rmin2="0" rmax2="0.78" z="0.01524"
 startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
-<cone name = "D11" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.01519"
+<cone name = "D11" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.01524"
 startphi="0" deltaphi="72" aunit="deg" lunit= "cm" />
-<cone name = "D12" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.01519"
+<cone name = "D12" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.01524"
 startphi="72" deltaphi="72" aunit="deg" lunit= "cm" />
-<cone name = "D13" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.01519"
+<cone name = "D13" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.01524"
 startphi="144" deltaphi="72" aunit="deg" lunit= "cm" />
-<cone name = "D14" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.01519"
+<cone name = "D14" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.01524"
 startphi="216" deltaphi="72" aunit="deg" lunit= "cm" />
-<cone name = "D15" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.01519"
+<cone name = "D15" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.01524"
 startphi="288" deltaphi="72" aunit="deg" lunit= "cm" />
 
-<cone name = "guardD1" rmin1="0.77" rmax1="0.785" rmin2="0" rmax2="0.78" z="0.01519"
+<cone name = "guardD1" rmin1="0.77" rmax1="0.785" rmin2="0" rmax2="0.78" z="0.01524"
 startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
 
-<cone name = "D20" rmin1="0" rmax1="0.78" rmin2="0" rmax2="0.78" z="0.03089"
+<cone name = "D20" rmin1="0" rmax1="0.78" rmin2="0" rmax2="0.78" z="0.03109"
 startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
-<cone name = "D21" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03089"
+<cone name = "D21" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03109"
 startphi="0" deltaphi="72" aunit="deg" lunit= "cm" />
-<cone name = "D22" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03089"
+<cone name = "D22" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03109"
 startphi="72" deltaphi="72" aunit="deg" lunit= "cm" />
-<cone name = "D23" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03089"
+<cone name = "D23" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03109"
 startphi="144" deltaphi="72" aunit="deg" lunit= "cm" />
-<cone name = "D24" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03089"
+<cone name = "D24" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03109"
 startphi="216" deltaphi="72" aunit="deg" lunit= "cm" />
-<cone name = "D25" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03089"
+<cone name = "D25" rmin1="0.78" rmax1="1.9" rmin2="0.78" rmax2="1.9" z="0.03109"
 startphi="288" deltaphi="72" aunit="deg" lunit= "cm" />
 	
-<cone name = "guardD2" rmin1="0.77" rmax1="0.785" rmin2="0.77" rmax2="0.785" z="0.03089"
+<cone name = "guardD2" rmin1="0.77" rmax1="0.785" rmin2="0.77" rmax2="0.785" z="0.03109"
 startphi="0" deltaphi="360" aunit="deg" lunit= "cm" />
 
 <cone name = "D30" rmin1="0" rmax1="2.2" rmin2="0" rmax2="2.2" z="0.30695"

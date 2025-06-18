@@ -1,0 +1,59 @@
+<physvol name="S2box_PV" >
+<volumeref ref="S2box_V"/>
+<positionref ref="origin" />
+<!--<sdID id="99"/>-->
+</physvol>
+
+<physvol name="SCAD_PV" >
+<volumeref ref="SCAD_V"/>
+<positionref ref="SCAD" />
+<!--<sdID id="4"/>-->
+</physvol>
+
+<physvol name="SCSB_PV" >
+<volumeref ref="SCSB_V"/>
+<positionref ref="SCSB" />
+<!--<sdID id="99"/>-->
+</physvol>
+
+<physvol name="SCA6_PV" >
+<volumeref ref="SCA6_V"/>
+<positionref ref="SCA6" />
+<!--<sdID id="15"/>-->
+</physvol>
+
+<physvol name="SCA8_PV" >
+<volumeref ref="SCA8_V"/>
+<positionref ref="SCA8" />
+<!--<sdID id="16"/>-->
+</physvol>
+
+<physvol name="SCA1_PV" >
+<volumeref ref="SCA1_V"/>
+<positionref ref="SCA1" />
+<!--<sdID id="17"/>-->
+</physvol>
+
+<physvol name="SCA2_PV" >
+<volumeref ref="SCA2_V"/>
+<positionref ref="SCA2" />
+<!--<sdID id="18"/>-->
+</physvol>
+
+<physvol name="SCA5_PV" >
+<volumeref ref="SCA5_V"/>
+<positionref ref="SCA5" />
+<!--<sdID id="19"/>-->
+</physvol>
+
+<physvol name="SCA4_PV" >
+<volumeref ref="SCA4_V"/>
+<positionref ref="SCA4" />
+<!--<sdID id="20"/>-->
+</physvol>
+
+<physvol name="SCA7_PV" >
+<volumeref ref="SCA7_V"/>
+<positionref ref="SCA7" />
+<!--<sdID id="21"/>-->
+</physvol>

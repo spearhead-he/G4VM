@@ -1,0 +1,99 @@
+<volume name="Diffusionbox_V">
+<materialref ref="Aluminum"/>
+<solidref ref="Diffusionbox_S"/>
+</volume>
+
+<volume name="CC2A_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC2A_S"/>
+</volume>
+
+<volume name="CC2B_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC2B_S"/>
+</volume>
+
+<volume name="CC2E_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC2E_S"/>
+</volume>
+
+<volume name="CC2F_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC2F_S"/>
+</volume>
+
+<volume name="CC2C_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC2C_S"/>
+</volume>
+
+<volume name="FUN5_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FUN5_S"/>
+</volume>
+
+<volume name="FUN4_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FUN4_S"/>
+</volume>
+
+<volume name="PLA9_V">
+<materialref ref="Aluminum"/>
+<solidref ref="PLA9_S"/>
+</volume>
+
+<volume name="FUN1_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FUN1_S"/>
+</volume>
+
+<volume name="FUN3_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FUN3_S"/>
+</volume>
+
+<volume name="FUN2_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FUN2_S"/>
+</volume>
+
+<volume name="PLA2_V">
+<materialref ref="Aluminum"/>
+<solidref ref="PLA2_S"/>
+</volume>
+
+<volume name="PLA1_V">
+<materialref ref="Aluminum"/>
+<solidref ref="PLA1_S"/>
+</volume>
+
+<volume name="PLA4_V">
+<materialref ref="Aluminum"/>
+<solidref ref="PLA4_S"/>
+</volume>
+
+<volume name="CC1F_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC1F_S"/>
+</volume>
+
+<volume name="CC1A_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC1A_S"/>
+</volume>
+
+<volume name="CC1D_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC1D_S"/>
+</volume>
+
+<volume name="PLAT_V">
+<materialref ref="Aluminum"/>
+<solidref ref="PLAT_S"/>
+</volume>
+
+<volume name="CC1U_V">
+<materialref ref="Aluminum"/>
+<solidref ref="CC1U_S"/>
+</volume>

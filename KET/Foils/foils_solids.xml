@@ -1,0 +1,5 @@
+<tube  name ="CC2D_S" rmin="0." rmax="1.78" z="0.02" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="CC2W_S" rmin1="1.76" rmax1="1.78" rmin2="2.25" rmax2="2.27" z="2.23" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="CC1M_S" rmin="0." rmax="2.05" z="0.02" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<tube  name ="CC1N_S" rmin="0." rmax="2.05" z="0.02" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="FOI2_S" rmin1="1.445" rmax1="1.45" rmin2="1.945" rmax2="1.95" z="0.1" deltaphi="2*pi" aunit="rad" lunit="cm" />

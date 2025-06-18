@@ -87,16 +87,6 @@
 <fraction n="1.0" ref="videRef"/>
 </material>
 
-<material name="HiVacuum" formula="Vacuum">
-	<D value ="1.29e-16" unit="g/cm3"/>
-	<fraction n="0.7" ref="N"/>
-	<fraction n="0.3" ref="O"/>
-</material>
 
-<material name="Air" formula="Air">
-	<D value ="0.001293" unit="g/cm3"/>
-	<fraction n="0.8" ref="N"/>
-	<fraction n="0.2" ref="O"/>
-</material>
 
 

@@ -1,0 +1,23 @@
+<volume name="CRC2_V">
+<materialref ref="PBF2"/>
+<solidref ref="CRC2_S"/>
+<auxiliary auxtype="SD" auxvalue="C200" auxunit="id"/>
+</volume>
+
+<volume name="CRC1_V">
+<materialref ref="Aerogel"/>
+<solidref ref="CRC1_S"/>
+<auxiliary auxtype="SD" auxvalue="Aero" auxunit="id"/>
+</volume>
+
+<volume name="CC2P_V">
+<materialref ref="Quartz"/>
+<solidref ref="CC2P_S"/>
+<auxiliary auxtype="SD" auxvalue="Quartz" auxunit="id"/>
+</volume>
+
+<volume name="Glass_V">
+<materialref ref="Quartz"/>
+<solidref ref="Glass_S"/>
+<auxiliary auxtype="SD" auxvalue="Glas" auxunit="id"/>
+</volume>

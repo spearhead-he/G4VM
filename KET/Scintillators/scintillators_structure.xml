@@ -1,0 +1,59 @@
+<volume name="S2box_V">
+<materialref ref="NE104"/>
+<solidref ref="S2box_S"/>
+<auxiliary auxtype="SD" auxvalue="S2_box" auxunit="id"/>
+</volume>
+
+<volume name="SCAD_V">
+<materialref ref="NE104"/>
+<solidref ref="SCAD_S"/>
+<auxiliary auxtype="SD" auxvalue="AC" auxunit="id"/>
+</volume>
+
+<volume name="SCSB_V">
+<materialref ref="NE104"/>
+<solidref ref="SCSB_S"/>
+<auxiliary auxtype="SD" auxvalue="S2_SCSB" auxunit="id"/>
+</volume>
+
+<volume name="SCA6_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA6_S"/>
+<auxiliary auxtype="SD" auxvalue="AC6" auxunit="id"/>
+</volume>
+
+<volume name="SCA8_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA8_S"/>
+<auxiliary auxtype="SD" auxvalue="AC8" auxunit="id"/>
+</volume>
+
+<volume name="SCA1_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA1_S"/>
+<auxiliary auxtype="SD" auxvalue="AC1" auxunit="id"/>
+</volume>
+
+<volume name="SCA2_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA2_S"/>
+<auxiliary auxtype="SD" auxvalue="AC2" auxunit="id"/>
+</volume>
+
+<volume name="SCA5_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA5_S"/>
+<auxiliary auxtype="SD" auxvalue="AC5" auxunit="id"/>
+</volume>
+
+<volume name="SCA4_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA4_S"/>
+<auxiliary auxtype="SD" auxvalue="AC4" auxunit="id"/>
+</volume>
+
+<volume name="SCA7_V">
+<materialref ref="NE104"/>
+<solidref ref="SCA7_S"/>
+<auxiliary auxtype="SD" auxvalue="AC7" auxunit="id"/>
+</volume>

@@ -1,0 +1,24 @@
+<volume name="CC2D_V">
+<materialref ref="Kapton"/>
+<solidref ref="CC2D_S"/>
+</volume>
+
+<volume name="CC2W_V">
+<materialref ref="Kapton"/>
+<solidref ref="CC2W_S"/>
+</volume>
+
+<volume name="CC1M_V">
+<materialref ref="Kapton"/>
+<solidref ref="CC1M_S"/>
+</volume>
+
+<volume name="CC1N_V">
+<materialref ref="Kapton"/>
+<solidref ref="CC1N_S"/>
+</volume>
+
+<volume name="FOI2_V">
+<materialref ref="Aluminum"/>
+<solidref ref="FOI2_S"/>
+</volume>

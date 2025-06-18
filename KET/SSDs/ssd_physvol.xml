@@ -1,0 +1,23 @@
+<physvol name="SID1_PV" >
+<volumeref ref="SID1_V"/>
+<positionref ref="SID1" />
+<!--<sdID id="2"/>-->
+</physvol>
+
+<physvol name="SID2_PV" >
+<volumeref ref="SID2_V"/>
+<positionref ref="SID2" />
+<!--<sdID id="3"/>-->
+</physvol>
+
+<physvol name="SD2A_PV" >
+<volumeref ref="SD2A_V"/>
+<positionref ref="SD2A" />
+<!--<sdID id="11"/>-->
+</physvol>
+
+<physvol name="SD1A_PV" >
+<volumeref ref="SD1A_V"/>
+<positionref ref="SD1A" />
+<!--<sdID id="13"/>-->
+</physvol>

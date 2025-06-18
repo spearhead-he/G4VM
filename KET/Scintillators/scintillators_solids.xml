@@ -1,0 +1,32 @@
+<tube  name ="SCA1_S" rmin="2.55" rmax="2.95" z="8.17" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SCA2_S" rmin1="1.67" rmax1="2.04" rmin2="2.45" rmax2="2.95" z="1.12" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SCA5_S" rmin1="1.79" rmax1="1.79" rmin2="1.67" rmax2="2.04" z="0.3" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SCA4_S" rmin1="2.45" rmax1="2.55" rmin2="2.55" rmax2="2.55" z="0.1" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SCA7_S" rmin1="1.55" rmax1="1.67" rmin2="2.45" rmax2="2.45" z="1.12" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SCA6_S" rmin1="1.67" rmax1="1.79" rmin2="1.55" rmax2="1.67" z="0.3" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<cone  name ="SCA8_S" rmin1="1.69" rmax1="1.74" rmin2="1.67" rmax2="1.79" z="0.05" deltaphi="2*pi" aunit="rad" lunit="cm" />
+
+<tube  name ="SCSB_S" rmin="0." rmax="2.55" z="0.3" deltaphi="188.0" startphi="85.4" aunit="deg" lunit="cm" />
+
+<cone  name ="SCAD_S" rmin1="2.55" rmax1="2.95" rmin2="2.55" rmax2="2.55" z="0.4" deltaphi="2*pi" aunit="rad" lunit="cm" />
+
+<tube  name ="SCSD_S" rmin="0." rmax="1.7" z="2.95" deltaphi="2*pi" aunit="rad" lunit="cm" />
+<polycone name = "S2b_S" startphi="0" deltaphi="2*pi" aunit="rad" lunit= "cm">
+<zplane rmin="2.9" rmax="2.9" z="2.61-0.15" />
+<zplane rmin="2.4" rmax="2.9" z="2.61+0.15" />
+<zplane rmin="2.4" rmax="2.9" z="3.196-0.436" />
+<zplane rmin="2.4" rmax="2.9" z="3.196+0.436" />
+<zplane rmin="2.4" rmax="2.9" z="5.336-1.704" />
+<zplane rmin="1.81" rmax="2.06" z="5.336+1.704" />
+<zplane rmin="1.81" rmax="2.06" z="7.29-0.25" />
+<zplane rmin="1.35" rmax="1.6" z="7.29+0.25" />
+<zplane rmin="0" rmax="1.6" z="7.69-0.15" />
+<zplane rmin="0" rmax="1.3" z="7.69+0.15" />
+</polycone> 
+
+<subtraction name = "S2box_S" >
+	<first ref="S2b_S" />
+	<second ref="SCSD_S" />
+	<position name="s2_sub_pos" x="-1.475" y="0." z="5.336" unit="cm"/>
+	<rotationref ref="rot1" />
+</subtraction>
