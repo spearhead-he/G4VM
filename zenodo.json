@@ -1,0 +1,58 @@
+{
+    "description": "<p>GEANT4 Virtual Machine (G4VM) for simulations of charged particle detectors (e.g., SOHO/Chandra EPHIN and Solar Orbiter HET) performed within the <a href=\"https://spearhead-he.eu\">SPEARHEAD (SPEcification, Analysis & Re-calibration of High Energy pArticle Data)</a> project.</p>",
+    "license": "BSD-3-Clause", 
+    "title": "SPEARHEAD G4VM", 
+    "grants": [
+        {
+            "id": "10.13039/501100000780::101135044"
+        }
+    ], 
+    "upload_type": "software", 
+    "creators": [
+        {
+            "orcid": "0000-0001-9751-8137", 
+            "affiliation": "University of Kiel", 
+            "name": "Köberle, Marlon"
+        },
+        {
+            "orcid": "0000-0003-0960-5658", 
+            "affiliation": "University of Kiel", 
+            "name": "Heber, Bernd"
+        },
+        {
+            "orcid": "0000-0002-3758-9272", 
+            "affiliation": "University of Kiel", 
+            "name": "Kühl, Patrick"
+        },
+        {
+            "orcid": "0009-0006-2565-5670", 
+            "affiliation": "University of Kiel", 
+            "name": "Hörlöck, Malte"
+        },
+        {
+            "affiliation": "University of Kiel", 
+            "name": "Terasa, Christoph"
+        },
+        {
+            "orcid": "0000-0003-1848-7067", 
+            "affiliation": "University of Turku", 
+            "name": "Gieseler, Jan"
+        },
+        {
+            "orcid": "0000-0003-0794-7742", 
+            "affiliation": "University of Turku", 
+            "name": "Oleynik, Philipp"
+        }, 
+        {
+            "orcid": "0000-0002-4588-6832", 
+            "affiliation": "University of Turku", 
+            "name": "Virtanen, Pasi"
+        }, 
+        {
+            "orcid": "0000-0002-3298-2067", 
+            "affiliation": "University of Turku", 
+            "name": "Vainio, Rami"
+        }
+    ], 
+    "access_right": "open"
+}
