@@ -1,4 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15772294.svg)](https://doi.org/10.5281/zenodo.15772294)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![website](https://img.shields.io/badge/Project%20Website-blue)](https://spearhead-he.eu)
 
 # G4VM
 
