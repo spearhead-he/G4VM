@@ -1,0 +1,46 @@
+# YAML 1.2
+# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+cff-version: 1.0.3
+message: If you use this software, please cite it using these metadata.
+title: SPEARHEAD G4VM
+doi: 10.5281/zenodo.15772294
+authors:
+- given-names: Marlon
+  family-names: Köberle
+  affiliation: Institute of Experimental and Applied Physics at University of Kiel
+  orcid: https://orcid.org/0000-0001-9751-8137
+- given-names: Bernd
+  family-names: Heber
+  affiliation: Institute of Experimental and Applied Physics at University of Kiel
+  orcid: https://orcid.org/0000-0003-0960-5658
+- given-names: Patrick
+  family-names: Kühl
+  affiliation: Institute of Experimental and Applied Physics at University of Kiel
+  orcid: https://orcid.org/0000-0002-3758-9272
+- given-names: Malte
+  family-names: Hörlöck
+  affiliation: Institute of Experimental and Applied Physics at University of Kiel
+  orcid: https://orcid.org/0009-0006-2565-5670
+- given-names: Christoph
+  family-names: Terasa
+  affiliation: Institute of Experimental and Applied Physics at University of Kiel
+- given-names: Jan
+  family-names: Gieseler
+  affiliation: University of Turku
+  orcid: https://orcid.org/0000-0003-1848-7067
+- given-names: Philipp
+  family-names: Oleynik
+  affiliation: University of Turku
+  orcid: https://orcid.org/0000-0003-0794-7742
+- given-names: Pasi
+  family-names: Virtanen
+  affiliation: University of Turku
+  orcid: https://orcid.org/0000-0002-4588-6832
+- given-names: Rami
+  family-names: Vainio
+  affiliation: University of Turku
+  orcid: https://orcid.org/0000-0002-3298-2067
+version: '1.0'
+date-released: 2025-06-30
+repository-code: https://github.com/spearhead-he/G4VM
+license: BSD-3-Clause
