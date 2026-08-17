@@ -11,7 +11,7 @@ It contains the corresponding GDML models along with a compatible GEANT4 applica
 The models  incorporate the sensitive detectors of the instruments and the passive material shielding the detectors, represented with high precision.
 Each instrument is provided individually and with a spacecraft model that maps the spacecraft's shielding material onto spherical shell segments with varying densities to account for directionality.
 
-The GEANT4 application provides a custom built option to calculate Cherenkov and scintillation light yield by attributing volumes as light emitting detectors from Macro commands (See key_cheatsheet.pdf fro details).
+The GEANT4 application provides a custom built option to calculate Cherenkov and scintillation light yield by attributing volumes as light emitting detectors from Macro commands (See key_cheatsheet.pdf for details).
 
 The GEANT4 application can be built independently but is provided in a configuration that works seamlessly within the recommended setup.
 
