@@ -16,8 +16,12 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/local1/G4VM/Spearhead_G4VM/src/sensi.cc" "CMakeFiles/Spearhead_G4VM.dir/src/sensi.cc.o" "gcc" "CMakeFiles/Spearhead_G4VM.dir/src/sensi.cc.o.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

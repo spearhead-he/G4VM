@@ -16,6 +16,9 @@
 
 #include "G4UIcmdWithAString.hh"
 
+#include <string>
+#include <stdexcept>
+
 DetectorConstruction::DetectorConstruction() : gdmlFile() {
 	parser = new G4GDMLParser;
 	InitMessenger();
@@ -56,7 +59,15 @@ void DetectorConstruction::ConstructSDandField()
 
 			sensi *sd = static_cast<sensi*>(sdm->FindSensitiveDetector(value));
 			if(!sd) {
-				sd = new sensi(value);
+				try {
+					size_t used = 0;
+					G4int detid = std::stoi(value, &used);
+					if(used == value.size())
+						sd = new sensi(value, detid);
+				}
+				catch(const std::exception&) {}
+				if(!sd)
+					sd = new sensi(value);
 				sdm->AddNewDetector(sd);
 			}
 			(*it)->SetSensitiveDetector(sd);

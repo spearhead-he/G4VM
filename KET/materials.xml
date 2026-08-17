@@ -31,7 +31,7 @@
 
 
 <material name="Aluminum" Z="13">
-	<D value="1.37" unit="g/cm3" />
+	<D value="2.7" unit="g/cm3" />
 	<atom value="26.981539" /> 
 </material>
 

@@ -43,3 +43,243 @@
 /vis/viewer/set/autoRefresh true
 /vis/viewer/refresh
 /vis/verbose warnings
+/vis/set/touchable World_PV 0 Diffusionbox_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC1F_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC1A_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC1D_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC2A_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC2B_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC2C_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 PLAT_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC1U_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC2E_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC2F_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 FUN1_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 FUN3_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 FUN2_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 PLA2_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 PLA1_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 PLA4_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 PLA9_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 FUN5_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 FUN4_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CRC2_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CRC1_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC2P_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 Glass_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SD2Y_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SD2H_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 PLA8_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 PLA3_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 PLA0_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 PLA7_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 PLA6_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 PLA5_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SD1U_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SD1X_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SD1O_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SD1Y_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SD1H_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SD2X_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC2D_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC2W_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 CC1N_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 FOI2_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SID1_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SID2_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SD2A_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SD1A_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 S2box_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SCAD_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SCSB_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SCA6_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SCA8_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SCA2_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SCA1_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SCA5_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SCA4_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SCA7_PV 0
+/vis/touchable/set/visibility false
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SID2_PV 0
+/vis/touchable/set/visibility true
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SID1_PV 0
+/vis/touchable/set/visibility true
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SD1A_PV 0
+/vis/touchable/set/visibility true
+/vis/viewer/refresh
+/vis/scene/notifyHandlers
+/vis/set/touchable World_PV 0 SD2A_PV 0
+/vis/touchable/set/visibility true
+/vis/viewer/refresh
+/vis/scene/notifyHandlers

@@ -11,7 +11,7 @@
 
 PhysicsList::PhysicsList() {
 	G4PhysListFactory factory;
-	physlist = factory.GetReferencePhysList("QGSP_BERT_HP_LIV");
+	physlist = factory.GetReferencePhysList("FTFP_BERT_HP");
 
 #ifndef NO_DECAY_PHYSICS
 	// Mandatory for G4NuclideTable

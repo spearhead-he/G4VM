@@ -1,6 +1,7 @@
 <volume name="SID1_V">
 <materialref ref="Silicon"/>
 <solidref ref="SID1_S"/>
+<auxiliary auxtype="SD" auxvalue="SD1" auxunit="id"/>
 </volume>
 
 <volume name="SID2_V">
